@@ -1,0 +1,166 @@
+{
+  "elevation": {
+    "depth": {
+      "-1": {
+        "$type": "number",
+        "$value": -1
+      },
+      "-4": {
+        "$type": "number",
+        "$value": -4
+      },
+      "-8": {
+        "$type": "number",
+        "$value": -8
+      },
+      "0": {
+        "$type": "number",
+        "$value": 0
+      },
+      "1": {
+        "$type": "number",
+        "$value": 1
+      },
+      "16": {
+        "$type": "number",
+        "$value": 16
+      },
+      "4": {
+        "$type": "number",
+        "$value": 4
+      }
+    },
+    "lg": {
+      "android": {
+        "$type": "number",
+        "$value": 8
+      },
+      "blur": {
+        "$type": "number",
+        "$value": 16
+      },
+      "offsetY": {
+        "$type": "number",
+        "$value": 8
+      },
+      "shadowOpacity": {
+        "$type": "number",
+        "$value": 0.16
+      },
+      "spreadRadius": {
+        "$type": "number",
+        "$value": -4
+      }
+    },
+    "md": {
+      "android": {
+        "$type": "number",
+        "$value": 4
+      },
+      "blur": {
+        "$type": "number",
+        "$value": 8
+      },
+      "offsetY": {
+        "$type": "number",
+        "$value": 4
+      },
+      "shadowOpacity": {
+        "$type": "number",
+        "$value": 0.12
+      },
+      "spreadRadius": {
+        "$type": "number",
+        "$value": -2
+      }
+    },
+    "none": {
+      "android": {
+        "$type": "number",
+        "$value": 0
+      },
+      "blur": {
+        "$type": "number",
+        "$value": 0
+      },
+      "offsetY": {
+        "$type": "number",
+        "$value": 0
+      },
+      "shadowOpacity": {
+        "$type": "number",
+        "$value": 0
+      },
+      "spreadRadius": {
+        "$type": "number",
+        "$value": 0
+      }
+    },
+    "sm": {
+      "android": {
+        "$type": "number",
+        "$value": 2
+      },
+      "blur": {
+        "$type": "number",
+        "$value": 4
+      },
+      "offsetY": {
+        "$type": "number",
+        "$value": 2
+      },
+      "shadowOpacity": {
+        "$type": "number",
+        "$value": 0.08
+      },
+      "spreadRadius": {
+        "$type": "number",
+        "$value": -1
+      }
+    },
+    "xl": {
+      "android": {
+        "$type": "number",
+        "$value": 16
+      },
+      "blur": {
+        "$type": "number",
+        "$value": 32
+      },
+      "offsetY": {
+        "$type": "number",
+        "$value": 16
+      },
+      "shadowOpacity": {
+        "$type": "number",
+        "$value": 0.2
+      },
+      "spreadRadius": {
+        "$type": "number",
+        "$value": -8
+      }
+    },
+    "xs": {
+      "android": {
+        "$type": "number",
+        "$value": 1
+      },
+      "blur": {
+        "$type": "number",
+        "$value": 2
+      },
+      "offsetY": {
+        "$type": "number",
+        "$value": 1
+      },
+      "shadowOpacity": {
+        "$type": "number",
+        "$value": 0.05
+      },
+      "spreadRadius": {
+        "$type": "number",
+        "$value": 0
+      }
+    }
+  }
+}

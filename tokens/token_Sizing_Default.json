@@ -1,0 +1,88 @@
+{
+  "size": {
+    "avatar": {
+      "2xl": {
+        "$type": "number",
+        "$value": 80
+      },
+      "lg": {
+        "$type": "number",
+        "$value": 48
+      },
+      "md": {
+        "$type": "number",
+        "$value": 40
+      },
+      "sm": {
+        "$type": "number",
+        "$value": 32
+      },
+      "xl": {
+        "$type": "number",
+        "$value": 64
+      },
+      "xs": {
+        "$type": "number",
+        "$value": 24
+      }
+    },
+    "button": {
+      "lg": {
+        "$type": "number",
+        "$value": 48
+      },
+      "md": {
+        "$type": "number",
+        "$value": 40
+      },
+      "sm": {
+        "$type": "number",
+        "$value": 32
+      }
+    },
+    "icon": {
+      "2xl": {
+        "$type": "number",
+        "$value": 40
+      },
+      "lg": {
+        "$type": "number",
+        "$value": 24
+      },
+      "md": {
+        "$type": "number",
+        "$value": 20
+      },
+      "sm": {
+        "$type": "number",
+        "$value": 16
+      },
+      "xl": {
+        "$type": "number",
+        "$value": 32
+      },
+      "xs": {
+        "$type": "number",
+        "$value": 12
+      }
+    },
+    "input": {
+      "lg": {
+        "$type": "number",
+        "$value": 52
+      },
+      "md": {
+        "$type": "number",
+        "$value": 44
+      },
+      "sm": {
+        "$type": "number",
+        "$value": 36
+      }
+    },
+    "touch-target": {
+      "$type": "number",
+      "$value": 48
+    }
+  }
+}

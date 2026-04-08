@@ -1,0 +1,52 @@
+{
+  "zIndex": {
+    "banner": {
+      "$type": "number",
+      "$value": 30
+    },
+    "base": {
+      "$type": "number",
+      "$value": 0
+    },
+    "bottomSheet": {
+      "$type": "number",
+      "$value": 60
+    },
+    "dropdown": {
+      "$type": "number",
+      "$value": 10
+    },
+    "fab": {
+      "$type": "number",
+      "$value": 70
+    },
+    "max": {
+      "$type": "number",
+      "$value": 999
+    },
+    "modal": {
+      "$type": "number",
+      "$value": 50
+    },
+    "overlay": {
+      "$type": "number",
+      "$value": 40
+    },
+    "raised": {
+      "$type": "number",
+      "$value": 1
+    },
+    "sticky": {
+      "$type": "number",
+      "$value": 20
+    },
+    "toast": {
+      "$type": "number",
+      "$value": 80
+    },
+    "tooltip": {
+      "$type": "number",
+      "$value": 90
+    }
+  }
+}
