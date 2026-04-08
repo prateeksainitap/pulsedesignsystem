@@ -1,0 +1,39 @@
+{
+  "name": "@your-org/pulse-rn",
+  "version": "0.1.0",
+  "description": "WeightEasy / Pulse React Native component library with Storybook.",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "files": ["src", "assets"],
+  "scripts": {
+    "storybook": "storybook dev -p 6006",
+    "storybook:build": "storybook build -o storybook-static",
+    "storybook:rn": "expo start --config metro.storybook.config.js",
+    "lint": "echo 'lint todo'",
+    "test": "echo 'test todo'"
+  },
+  "peerDependencies": {
+    "react": ">=18",
+    "react-native": ">=0.74",
+    "react-native-svg": ">=15",
+    "@expo/vector-icons": ">=14",
+    "expo-font": ">=12",
+    "expo-linear-gradient": ">=13"
+  },
+  "dependencies": {
+    "@your-org/pulse-tokens": "file:../pulse-tokens"
+  },
+  "devDependencies": {
+    "@storybook/addon-essentials": "^8.3.0",
+    "@storybook/react-vite": "^8.3.0",
+    "@storybook/test": "^8.3.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-native-web": "^0.19.12",
+    "storybook": "^8.3.0",
+    "vite": "^5.4.0"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  }
+}
