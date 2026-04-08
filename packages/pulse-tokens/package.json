@@ -1,0 +1,37 @@
+{
+  "name": "@your-org/pulse-tokens",
+  "version": "0.1.0",
+  "description": "WeightEasy / Pulse design tokens — generated from Zeroheight.",
+  "type": "module",
+  "main": "index.js",
+  "module": "index.js",
+  "types": "build/ts/tokens.d.ts",
+  "exports": {
+    ".": "./index.js",
+    "./raw": "./build/js/tokens.esm.js",
+    "./flat": "./build/json/tokens.flat.json"
+  },
+  "files": [
+    "build",
+    "tokens",
+    "index.js"
+  ],
+  "scripts": {
+    "sync": "node scripts/fetch-tokens.mjs",
+    "prebuild": "npm run sync",
+    "build": "style-dictionary build --config ./style-dictionary.config.mjs",
+    "clean": "rm -rf build",
+    "prepublishOnly": "npm run clean && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-org/pulse-tokens.git"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "devDependencies": {
+    "@tokens-studio/sd-transforms": "^2.0.3",
+    "style-dictionary": "^4.3.0"
+  }
+}

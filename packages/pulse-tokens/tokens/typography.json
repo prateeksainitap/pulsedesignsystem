@@ -1,0 +1,35 @@
+{
+  "typography": {
+    "fontFamily": {
+      "regular":  { "$value": "GoogleSans-Regular",  "$type": "fontFamily" },
+      "medium":   { "$value": "GoogleSans-Medium",   "$type": "fontFamily" },
+      "semiBold": { "$value": "GoogleSans-SemiBold", "$type": "fontFamily" },
+      "bold":     { "$value": "GoogleSans-Bold",     "$type": "fontFamily" }
+    },
+    "display": {
+      "lg": { "$value": { "fontSize": 36, "lineHeight": 44, "fontWeight": "700", "letterSpacing": -1,   "fontFamily": "GoogleSans-Bold" }, "$type": "typography" },
+      "md": { "$value": { "fontSize": 30, "lineHeight": 38, "fontWeight": "700", "letterSpacing": -1,   "fontFamily": "GoogleSans-Bold" }, "$type": "typography" },
+      "sm": { "$value": { "fontSize": 24, "lineHeight": 32, "fontWeight": "700", "letterSpacing": -0.5, "fontFamily": "GoogleSans-Bold" }, "$type": "typography" }
+    },
+    "heading": {
+      "lg": { "$value": { "fontSize": 22, "lineHeight": 26, "fontWeight": "700", "letterSpacing": 0, "fontFamily": "GoogleSans-Bold" }, "$type": "typography" },
+      "md": { "$value": { "fontSize": 18, "lineHeight": 26, "fontWeight": "700", "letterSpacing": 0, "fontFamily": "GoogleSans-Bold" }, "$type": "typography" },
+      "sm": { "$value": { "fontSize": 16, "lineHeight": 24, "fontWeight": "700", "letterSpacing": 0, "fontFamily": "GoogleSans-Bold" }, "$type": "typography" }
+    },
+    "title": {
+      "lg": { "$value": { "fontSize": 20, "lineHeight": 28, "fontWeight": "600", "letterSpacing": 0,   "fontFamily": "GoogleSans-SemiBold" }, "$type": "typography" },
+      "md": { "$value": { "fontSize": 16, "lineHeight": 24, "fontWeight": "600", "letterSpacing": 0,   "fontFamily": "GoogleSans-SemiBold" }, "$type": "typography" },
+      "sm": { "$value": { "fontSize": 14, "lineHeight": 20, "fontWeight": "600", "letterSpacing": 0.1, "fontFamily": "GoogleSans-SemiBold" }, "$type": "typography" }
+    },
+    "body": {
+      "lg": { "$value": { "fontSize": 16, "lineHeight": 24, "fontWeight": "400", "letterSpacing": 0,    "fontFamily": "GoogleSans-Regular" }, "$type": "typography" },
+      "md": { "$value": { "fontSize": 14, "lineHeight": 20, "fontWeight": "400", "letterSpacing": 0.15, "fontFamily": "GoogleSans-Regular" }, "$type": "typography" },
+      "sm": { "$value": { "fontSize": 12, "lineHeight": 16, "fontWeight": "400", "letterSpacing": 0.25, "fontFamily": "GoogleSans-Regular" }, "$type": "typography" }
+    },
+    "label": {
+      "lg": { "$value": { "fontSize": 14, "lineHeight": 20, "fontWeight": "500", "letterSpacing": 0.1,  "fontFamily": "GoogleSans-Medium" }, "$type": "typography" },
+      "md": { "$value": { "fontSize": 12, "lineHeight": 16, "fontWeight": "500", "letterSpacing": 0.15, "fontFamily": "GoogleSans-Medium" }, "$type": "typography" },
+      "sm": { "$value": { "fontSize": 11, "lineHeight": 14, "fontWeight": "500", "letterSpacing": 0.25, "fontFamily": "GoogleSans-Medium" }, "$type": "typography" }
+    }
+  }
+}

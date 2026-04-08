@@ -1,0 +1,89 @@
+name: Sync tokens from upstream, build & publish
+
+# Triggers:
+#  - repository_dispatch: upstream (prateeksainitap/pulsedesignsystem) fires this
+#    from its own workflow whenever /tokens changes, giving near-realtime sync.
+#  - schedule: every 30 min fallback in case the webhook is missed.
+#  - workflow_dispatch: manual run / manual version bump.
+#  - push to main: rebuilds if the style-dictionary config or scripts change.
+
+on:
+  repository_dispatch:
+    types: [tokens-updated]
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+    inputs:
+      release:
+        description: 'Bump patch & publish to GitHub Packages'
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'style-dictionary.config.mjs'
+      - 'index.js'
+      - 'package.json'
+      - '.github/workflows/**'
+
+concurrency:
+  group: sync-tokens
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      packages: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          registry-url: 'https://npm.pkg.github.com'
+          scope: '@your-org'
+
+      - name: Install deps
+        run: npm ci --legacy-peer-deps || npm install --legacy-peer-deps
+
+      - name: Sync tokens from upstream
+        env:
+          PULSE_UPSTREAM_OWNER: prateeksainitap
+          PULSE_UPSTREAM_REPO:  pulsedesignsystem
+          PULSE_UPSTREAM_REF:   main
+          PULSE_UPSTREAM_PATH:  tokens
+          # Needed only if the upstream repo is private; otherwise optional.
+          PULSE_GITHUB_TOKEN: ${{ secrets.UPSTREAM_TOKEN || github.token }}
+        run: npm run sync
+
+      - name: Build with Style Dictionary
+        run: npm run build
+
+      - name: Commit synced + built artifacts
+        id: commit
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add tokens/ build/
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No upstream changes."
+          else
+            echo "changed=true"  >> "$GITHUB_OUTPUT"
+            git commit -m "chore(tokens): sync from prateeksainitap/pulsedesignsystem [skip ci]"
+            git push
+          fi
+
+      - name: Bump version & publish to GitHub Packages
+        if: steps.commit.outputs.changed == 'true' || inputs.release == true
+        run: |
+          npm version patch -m "chore: release v%s [skip ci]"
+          npm publish
+          git push --follow-tags
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
