@@ -1,0 +1,96 @@
+{
+  "source": "figma",
+  "fileKey": "1frpO4Dn5KQyNVU7NqM3lm",
+  "fileName": "Pulse",
+  "extractedAt": "2026-02-25T21:57:58.086894",
+  "totalVariables": 417,
+  "collections": [
+    {
+      "name": "Color Primitives",
+      "count": 85,
+      "modes": [
+        "Default"
+      ]
+    },
+    {
+      "name": "Semantic Colors",
+      "count": 73,
+      "modes": [
+        "Light",
+        "Dark"
+      ]
+    },
+    {
+      "name": "Font Primitives",
+      "count": 47,
+      "modes": [
+        "Default"
+      ]
+    },
+    {
+      "name": "Typography",
+      "count": 68,
+      "modes": [
+        "Mobile",
+        "Tablet",
+        "Desktop"
+      ]
+    },
+    {
+      "name": "Spacing",
+      "count": 23,
+      "modes": [
+        "Default"
+      ]
+    },
+    {
+      "name": "Border Radius",
+      "count": 10,
+      "modes": [
+        "Default"
+      ]
+    },
+    {
+      "name": "Border Width",
+      "count": 5,
+      "modes": [
+        "Default"
+      ]
+    },
+    {
+      "name": "Sizing",
+      "count": 19,
+      "modes": [
+        "Default"
+      ]
+    },
+    {
+      "name": "Opacity",
+      "count": 13,
+      "modes": [
+        "Default"
+      ]
+    },
+    {
+      "name": "Elevation",
+      "count": 30,
+      "modes": [
+        "Default"
+      ]
+    },
+    {
+      "name": "Z-Index",
+      "count": 12,
+      "modes": [
+        "Default"
+      ]
+    },
+    {
+      "name": "Motion",
+      "count": 31,
+      "modes": [
+        "Default"
+      ]
+    }
+  ]
+}

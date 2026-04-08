@@ -1,0 +1,52 @@
+{
+  "zIndex": {
+    "base": {
+      "value": 0,
+      "type": "number"
+    },
+    "raised": {
+      "value": 1,
+      "type": "number"
+    },
+    "dropdown": {
+      "value": 10,
+      "type": "number"
+    },
+    "sticky": {
+      "value": 20,
+      "type": "number"
+    },
+    "banner": {
+      "value": 30,
+      "type": "number"
+    },
+    "overlay": {
+      "value": 40,
+      "type": "number"
+    },
+    "modal": {
+      "value": 50,
+      "type": "number"
+    },
+    "bottomSheet": {
+      "value": 60,
+      "type": "number"
+    },
+    "fab": {
+      "value": 70,
+      "type": "number"
+    },
+    "toast": {
+      "value": 80,
+      "type": "number"
+    },
+    "tooltip": {
+      "value": 90,
+      "type": "number"
+    },
+    "max": {
+      "value": 999,
+      "type": "number"
+    }
+  }
+}
