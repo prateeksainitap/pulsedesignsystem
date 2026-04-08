@@ -1,0 +1,144 @@
+{
+  "motion": {
+    "duration": {
+      "instant": {
+        "value": 0,
+        "type": "number"
+      },
+      "fastest": {
+        "value": 50,
+        "type": "number"
+      },
+      "fast": {
+        "value": 100,
+        "type": "number"
+      },
+      "normal": {
+        "value": 200,
+        "type": "number"
+      },
+      "moderate": {
+        "value": 300,
+        "type": "number"
+      },
+      "slow": {
+        "value": 400,
+        "type": "number"
+      },
+      "slower": {
+        "value": 500,
+        "type": "number"
+      },
+      "slowest": {
+        "value": 800,
+        "type": "number"
+      }
+    },
+    "delay": {
+      "none": {
+        "value": 0,
+        "type": "number"
+      },
+      "short": {
+        "value": 100,
+        "type": "number"
+      },
+      "medium": {
+        "value": 200,
+        "type": "number"
+      },
+      "long": {
+        "value": 400,
+        "type": "number"
+      }
+    },
+    "scale": {
+      "pressed": {
+        "value": 0.97,
+        "type": "number"
+      },
+      "cardPressed": {
+        "value": 0.98,
+        "type": "number"
+      },
+      "bounceIn": {
+        "value": 1.05,
+        "type": "number"
+      },
+      "none": {
+        "value": 1,
+        "type": "number"
+      }
+    },
+    "opacity": {
+      "pressed": {
+        "value": 0.7,
+        "type": "number"
+      },
+      "disabled": {
+        "value": 0.4,
+        "type": "number"
+      },
+      "hidden": {
+        "value": 0,
+        "type": "number"
+      },
+      "visible": {
+        "value": 1,
+        "type": "number"
+      }
+    },
+    "spring": {
+      "damping": {
+        "stiff": {
+          "value": 20,
+          "type": "number"
+        },
+        "default": {
+          "value": 15,
+          "type": "number"
+        },
+        "gentle": {
+          "value": 10,
+          "type": "number"
+        },
+        "bouncy": {
+          "value": 8,
+          "type": "number"
+        }
+      },
+      "stiffness": {
+        "stiff": {
+          "value": 300,
+          "type": "number"
+        },
+        "default": {
+          "value": 180,
+          "type": "number"
+        },
+        "gentle": {
+          "value": 120,
+          "type": "number"
+        },
+        "bouncy": {
+          "value": 200,
+          "type": "number"
+        }
+      },
+      "mass": {
+        "light": {
+          "value": 0.8,
+          "type": "number"
+        },
+        "default": {
+          "value": 1,
+          "type": "number"
+        },
+        "heavy": {
+          "value": 1.2,
+          "type": "number"
+        }
+      }
+    }
+  }
+}
