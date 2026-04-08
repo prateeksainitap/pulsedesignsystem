@@ -69,7 +69,7 @@
       },
       "500": {
         "$type": "color",
-        "$value": "#3B82F6"
+        "$value": "#FF00FF"
       },
       "600": {
         "$type": "color",
