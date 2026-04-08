@@ -1,0 +1,20 @@
+{
+  "name": "@pulse/tokens",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "index.js",
+  "module": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./raw": "./build/js/tokens.esm.js",
+    "./flat": "./build/json/tokens.flat.json"
+  },
+  "scripts": {
+    "build": "style-dictionary build --config ./style-dictionary.config.mjs",
+    "clean": "rm -rf build"
+  },
+  "devDependencies": {
+    "@tokens-studio/sd-transforms": "^2.0.3",
+    "style-dictionary": "^4.3.0"
+  }
+}
