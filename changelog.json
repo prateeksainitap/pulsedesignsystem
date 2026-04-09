@@ -1,0 +1,8430 @@
+[
+  {
+    "date": "2026-04-08",
+    "summary": "Initial snapshot — 2105 tokens across 5 platforms",
+    "added": [
+      {
+        "token": "default::FontSize10",
+        "value": 10
+      },
+      {
+        "token": "default::FontSize11",
+        "value": 11
+      },
+      {
+        "token": "default::FontSize12",
+        "value": 12
+      },
+      {
+        "token": "default::FontSize14",
+        "value": 14
+      },
+      {
+        "token": "default::FontSize16",
+        "value": 16
+      },
+      {
+        "token": "default::FontSize18",
+        "value": 18
+      },
+      {
+        "token": "default::FontSize20",
+        "value": 20
+      },
+      {
+        "token": "default::FontSize22",
+        "value": 22
+      },
+      {
+        "token": "default::FontSize24",
+        "value": 24
+      },
+      {
+        "token": "default::FontSize26",
+        "value": 26
+      },
+      {
+        "token": "default::FontSize28",
+        "value": 28
+      },
+      {
+        "token": "default::FontSize30",
+        "value": 30
+      },
+      {
+        "token": "default::FontSize32",
+        "value": 32
+      },
+      {
+        "token": "default::FontSize36",
+        "value": 36
+      },
+      {
+        "token": "default::FontSize40",
+        "value": 40
+      },
+      {
+        "token": "default::FontSize48",
+        "value": 48
+      },
+      {
+        "token": "default::FontSize56",
+        "value": 56
+      },
+      {
+        "token": "default::FontSize84",
+        "value": 84
+      },
+      {
+        "token": "default::FontSize96",
+        "value": 96
+      },
+      {
+        "token": "default::FontLineHeight14",
+        "value": 14
+      },
+      {
+        "token": "default::FontLineHeight16",
+        "value": 16
+      },
+      {
+        "token": "default::FontLineHeight20",
+        "value": 20
+      },
+      {
+        "token": "default::FontLineHeight24",
+        "value": 24
+      },
+      {
+        "token": "default::FontLineHeight26",
+        "value": 26
+      },
+      {
+        "token": "default::FontLineHeight28",
+        "value": 28
+      },
+      {
+        "token": "default::FontLineHeight32",
+        "value": 32
+      },
+      {
+        "token": "default::FontLineHeight34",
+        "value": 34
+      },
+      {
+        "token": "default::FontLineHeight36",
+        "value": 36
+      },
+      {
+        "token": "default::FontLineHeight38",
+        "value": 38
+      },
+      {
+        "token": "default::FontLineHeight40",
+        "value": 40
+      },
+      {
+        "token": "default::FontLineHeight44",
+        "value": 44
+      },
+      {
+        "token": "default::FontLineHeight52",
+        "value": 52
+      },
+      {
+        "token": "default::FontLineHeight64",
+        "value": 64
+      },
+      {
+        "token": "default::FontLineHeight92",
+        "value": 92
+      },
+      {
+        "token": "default::FontLineHeight100",
+        "value": 100
+      },
+      {
+        "token": "default::FontWeightRegular",
+        "value": 400
+      },
+      {
+        "token": "default::FontWeightMedium",
+        "value": 500
+      },
+      {
+        "token": "default::FontWeightSemibold",
+        "value": 600
+      },
+      {
+        "token": "default::FontWeightBold",
+        "value": 700
+      },
+      {
+        "token": "default::FontLetterSpacingTight",
+        "value": -1
+      },
+      {
+        "token": "default::FontLetterSpacingSlightlyTight",
+        "value": -0.5
+      },
+      {
+        "token": "default::FontLetterSpacingNormal",
+        "value": 0
+      },
+      {
+        "token": "default::FontLetterSpacingSlight",
+        "value": 0.10000000149011612
+      },
+      {
+        "token": "default::FontLetterSpacingWide",
+        "value": 0.15000000596046448
+      },
+      {
+        "token": "default::FontLetterSpacingWider",
+        "value": 0.25
+      },
+      {
+        "token": "default::FontLetterSpacingWidest",
+        "value": 0.5
+      },
+      {
+        "token": "default::FontLetterSpacingTighter",
+        "value": -1.5
+      },
+      {
+        "token": "default::TypoDisplayLgSize",
+        "value": 36
+      },
+      {
+        "token": "default::TypoDisplayLgLineHeight",
+        "value": 44
+      },
+      {
+        "token": "default::TypoDisplayLgWeight",
+        "value": 700
+      },
+      {
+        "token": "default::TypoDisplayLgLetterSpacing",
+        "value": -1
+      },
+      {
+        "token": "default::TypoDisplayMdSize",
+        "value": 30
+      },
+      {
+        "token": "default::TypoDisplayMdLineHeight",
+        "value": 38
+      },
+      {
+        "token": "default::TypoDisplayMdWeight",
+        "value": 700
+      },
+      {
+        "token": "default::TypoDisplayMdLetterSpacing",
+        "value": -1
+      },
+      {
+        "token": "default::TypoDisplaySmSize",
+        "value": 24
+      },
+      {
+        "token": "default::TypoDisplaySmLineHeight",
+        "value": 32
+      },
+      {
+        "token": "default::TypoDisplaySmWeight",
+        "value": 700
+      },
+      {
+        "token": "default::TypoDisplaySmLetterSpacing",
+        "value": -0.5
+      },
+      {
+        "token": "default::TypoDisplayXlSize",
+        "value": 48
+      },
+      {
+        "token": "default::TypoDisplayXlLineHeight",
+        "value": 52
+      },
+      {
+        "token": "default::TypoDisplayXlWeight",
+        "value": 700
+      },
+      {
+        "token": "default::TypoDisplayXlLetterSpacing",
+        "value": -1
+      },
+      {
+        "token": "default::TypoDisplay2xlSize",
+        "value": 84
+      },
+      {
+        "token": "default::TypoDisplay2xlLineHeight",
+        "value": 92
+      },
+      {
+        "token": "default::TypoDisplay2xlWeight",
+        "value": 700
+      },
+      {
+        "token": "default::TypoDisplay2xlLetterSpacing",
+        "value": -1
+      },
+      {
+        "token": "default::TypoHeadingLgSize",
+        "value": 22
+      },
+      {
+        "token": "default::TypoHeadingLgLineHeight",
+        "value": 26
+      },
+      {
+        "token": "default::TypoHeadingLgWeight",
+        "value": 700
+      },
+      {
+        "token": "default::TypoHeadingLgLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "default::TypoHeadingMdSize",
+        "value": 18
+      },
+      {
+        "token": "default::TypoHeadingMdLineHeight",
+        "value": 26
+      },
+      {
+        "token": "default::TypoHeadingMdWeight",
+        "value": 700
+      },
+      {
+        "token": "default::TypoHeadingMdLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "default::TypoHeadingSmSize",
+        "value": 16
+      },
+      {
+        "token": "default::TypoHeadingSmLineHeight",
+        "value": 24
+      },
+      {
+        "token": "default::TypoHeadingSmWeight",
+        "value": 700
+      },
+      {
+        "token": "default::TypoHeadingSmLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "default::TypoTitleLgSize",
+        "value": 20
+      },
+      {
+        "token": "default::TypoTitleLgLineHeight",
+        "value": 28
+      },
+      {
+        "token": "default::TypoTitleLgWeight",
+        "value": 600
+      },
+      {
+        "token": "default::TypoTitleLgLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "default::TypoTitleMdSize",
+        "value": 16
+      },
+      {
+        "token": "default::TypoTitleMdLineHeight",
+        "value": 24
+      },
+      {
+        "token": "default::TypoTitleMdWeight",
+        "value": 600
+      },
+      {
+        "token": "default::TypoTitleMdLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "default::TypoTitleSmSize",
+        "value": 14
+      },
+      {
+        "token": "default::TypoTitleSmLineHeight",
+        "value": 20
+      },
+      {
+        "token": "default::TypoTitleSmWeight",
+        "value": 600
+      },
+      {
+        "token": "default::TypoTitleSmLetterSpacing",
+        "value": 0.10000000149011612
+      },
+      {
+        "token": "default::TypoBodyLgSize",
+        "value": 16
+      },
+      {
+        "token": "default::TypoBodyLgLineHeight",
+        "value": 24
+      },
+      {
+        "token": "default::TypoBodyLgWeight",
+        "value": 400
+      },
+      {
+        "token": "default::TypoBodyLgLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "default::TypoBodyMdSize",
+        "value": 14
+      },
+      {
+        "token": "default::TypoBodyMdLineHeight",
+        "value": 20
+      },
+      {
+        "token": "default::TypoBodyMdWeight",
+        "value": 400
+      },
+      {
+        "token": "default::TypoBodyMdLetterSpacing",
+        "value": 0.15000000596046448
+      },
+      {
+        "token": "default::TypoBodySmSize",
+        "value": 12
+      },
+      {
+        "token": "default::TypoBodySmLineHeight",
+        "value": 16
+      },
+      {
+        "token": "default::TypoBodySmWeight",
+        "value": 400
+      },
+      {
+        "token": "default::TypoBodySmLetterSpacing",
+        "value": 0.25
+      },
+      {
+        "token": "default::TypoLabelLgSize",
+        "value": 14
+      },
+      {
+        "token": "default::TypoLabelLgLineHeight",
+        "value": 20
+      },
+      {
+        "token": "default::TypoLabelLgWeight",
+        "value": 500
+      },
+      {
+        "token": "default::TypoLabelLgLetterSpacing",
+        "value": -0.5
+      },
+      {
+        "token": "default::TypoLabelMdSize",
+        "value": 12
+      },
+      {
+        "token": "default::TypoLabelMdLineHeight",
+        "value": 16
+      },
+      {
+        "token": "default::TypoLabelMdWeight",
+        "value": 500
+      },
+      {
+        "token": "default::TypoLabelMdLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "default::TypoLabelSmSize",
+        "value": 11
+      },
+      {
+        "token": "default::TypoLabelSmLineHeight",
+        "value": 14
+      },
+      {
+        "token": "default::TypoLabelSmWeight",
+        "value": 500
+      },
+      {
+        "token": "default::TypoLabelSmLetterSpacing",
+        "value": -0.5
+      },
+      {
+        "token": "default::ColorNeutral50",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "default::ColorNeutral100",
+        "value": "#f2f5f9"
+      },
+      {
+        "token": "default::ColorNeutral200",
+        "value": "#dce1e8"
+      },
+      {
+        "token": "default::ColorNeutral300",
+        "value": "#bec5d2"
+      },
+      {
+        "token": "default::ColorNeutral400",
+        "value": "#9ea7b8"
+      },
+      {
+        "token": "default::ColorNeutral500",
+        "value": "#818ba0"
+      },
+      {
+        "token": "default::ColorNeutral600",
+        "value": "#5d6a85"
+      },
+      {
+        "token": "default::ColorNeutral700",
+        "value": "#3d4966"
+      },
+      {
+        "token": "default::ColorNeutral800",
+        "value": "#252e49"
+      },
+      {
+        "token": "default::ColorNeutral900",
+        "value": "#18203a"
+      },
+      {
+        "token": "default::ColorNeutral950",
+        "value": "#050914"
+      },
+      {
+        "token": "default::ColorBrand50",
+        "value": "#eff6ff"
+      },
+      {
+        "token": "default::ColorBrand100",
+        "value": "#dbeafe"
+      },
+      {
+        "token": "default::ColorBrand200",
+        "value": "#bfdbfe"
+      },
+      {
+        "token": "default::ColorBrand300",
+        "value": "#93c5fd"
+      },
+      {
+        "token": "default::ColorBrand400",
+        "value": "#60a5fa"
+      },
+      {
+        "token": "default::ColorBrand500",
+        "value": "#3b82f6"
+      },
+      {
+        "token": "default::ColorBrand600",
+        "value": "#2563eb"
+      },
+      {
+        "token": "default::ColorBrand700",
+        "value": "#1d4ed8"
+      },
+      {
+        "token": "default::ColorBrand800",
+        "value": "#1e40af"
+      },
+      {
+        "token": "default::ColorBrand900",
+        "value": "#1e3a8a"
+      },
+      {
+        "token": "default::ColorBrand950",
+        "value": "#172554"
+      },
+      {
+        "token": "default::ColorGreen50",
+        "value": "#f0fdf4"
+      },
+      {
+        "token": "default::ColorGreen100",
+        "value": "#dcfce7"
+      },
+      {
+        "token": "default::ColorGreen200",
+        "value": "#bbf7d0"
+      },
+      {
+        "token": "default::ColorGreen300",
+        "value": "#86efac"
+      },
+      {
+        "token": "default::ColorGreen400",
+        "value": "#4ade80"
+      },
+      {
+        "token": "default::ColorGreen500",
+        "value": "#22c55e"
+      },
+      {
+        "token": "default::ColorGreen600",
+        "value": "#16a34a"
+      },
+      {
+        "token": "default::ColorGreen700",
+        "value": "#15803d"
+      },
+      {
+        "token": "default::ColorGreen800",
+        "value": "#166534"
+      },
+      {
+        "token": "default::ColorGreen900",
+        "value": "#14532d"
+      },
+      {
+        "token": "default::ColorGreen950",
+        "value": "#052e16"
+      },
+      {
+        "token": "default::ColorRed50",
+        "value": "#fef2f2"
+      },
+      {
+        "token": "default::ColorRed100",
+        "value": "#fee2e2"
+      },
+      {
+        "token": "default::ColorRed200",
+        "value": "#fecaca"
+      },
+      {
+        "token": "default::ColorRed300",
+        "value": "#fca5a5"
+      },
+      {
+        "token": "default::ColorRed400",
+        "value": "#f87171"
+      },
+      {
+        "token": "default::ColorRed500",
+        "value": "#ef4444"
+      },
+      {
+        "token": "default::ColorRed600",
+        "value": "#dc2626"
+      },
+      {
+        "token": "default::ColorRed700",
+        "value": "#b91c1c"
+      },
+      {
+        "token": "default::ColorRed800",
+        "value": "#991b1b"
+      },
+      {
+        "token": "default::ColorRed900",
+        "value": "#7f1d1d"
+      },
+      {
+        "token": "default::ColorRed950",
+        "value": "#450a0a"
+      },
+      {
+        "token": "default::ColorAmber50",
+        "value": "#fffbeb"
+      },
+      {
+        "token": "default::ColorAmber100",
+        "value": "#fef3c7"
+      },
+      {
+        "token": "default::ColorAmber200",
+        "value": "#fde68a"
+      },
+      {
+        "token": "default::ColorAmber300",
+        "value": "#fcd34d"
+      },
+      {
+        "token": "default::ColorAmber400",
+        "value": "#fbbf24"
+      },
+      {
+        "token": "default::ColorAmber500",
+        "value": "#f59e0b"
+      },
+      {
+        "token": "default::ColorAmber600",
+        "value": "#d97706"
+      },
+      {
+        "token": "default::ColorAmber700",
+        "value": "#b45309"
+      },
+      {
+        "token": "default::ColorAmber800",
+        "value": "#92400e"
+      },
+      {
+        "token": "default::ColorAmber900",
+        "value": "#78350f"
+      },
+      {
+        "token": "default::ColorAmber950",
+        "value": "#451a03"
+      },
+      {
+        "token": "default::ColorTeal50",
+        "value": "#f0fdfa"
+      },
+      {
+        "token": "default::ColorTeal100",
+        "value": "#ccfbf1"
+      },
+      {
+        "token": "default::ColorTeal200",
+        "value": "#99f6e4"
+      },
+      {
+        "token": "default::ColorTeal300",
+        "value": "#5eead4"
+      },
+      {
+        "token": "default::ColorTeal400",
+        "value": "#2dd4bf"
+      },
+      {
+        "token": "default::ColorTeal500",
+        "value": "#14b8a6"
+      },
+      {
+        "token": "default::ColorTeal600",
+        "value": "#0d9488"
+      },
+      {
+        "token": "default::ColorTeal700",
+        "value": "#0f766e"
+      },
+      {
+        "token": "default::ColorTeal800",
+        "value": "#115e59"
+      },
+      {
+        "token": "default::ColorTeal900",
+        "value": "#134e4a"
+      },
+      {
+        "token": "default::ColorTeal950",
+        "value": "#042f2e"
+      },
+      {
+        "token": "default::ColorPurple50",
+        "value": "#f5f3ff"
+      },
+      {
+        "token": "default::ColorPurple100",
+        "value": "#ede9fe"
+      },
+      {
+        "token": "default::ColorPurple200",
+        "value": "#ddd6fe"
+      },
+      {
+        "token": "default::ColorPurple300",
+        "value": "#c4b5fd"
+      },
+      {
+        "token": "default::ColorPurple400",
+        "value": "#a78bfa"
+      },
+      {
+        "token": "default::ColorPurple500",
+        "value": "#8b5cf6"
+      },
+      {
+        "token": "default::ColorPurple600",
+        "value": "#7c3aed"
+      },
+      {
+        "token": "default::ColorPurple700",
+        "value": "#6d28d9"
+      },
+      {
+        "token": "default::ColorPurple800",
+        "value": "#5b21b6"
+      },
+      {
+        "token": "default::ColorPurple900",
+        "value": "#4c1d95"
+      },
+      {
+        "token": "default::ColorPurple950",
+        "value": "#2e1065"
+      },
+      {
+        "token": "default::ColorGradientHeaderStart",
+        "value": "#0d503c"
+      },
+      {
+        "token": "default::ColorGradientHeaderMid",
+        "value": "#0c3547"
+      },
+      {
+        "token": "default::ColorGradientHeaderEnd",
+        "value": "#0a1628"
+      },
+      {
+        "token": "default::ColorGradientHeaderAccent",
+        "value": "#10b981"
+      },
+      {
+        "token": "default::ColorGradientHeaderCyan",
+        "value": "#0891b2"
+      },
+      {
+        "token": "default::ColorOpacity5",
+        "value": "#0c0c0d0d"
+      },
+      {
+        "token": "default::ColorOpacity10",
+        "value": "#0c0c0d1a"
+      },
+      {
+        "token": "default::ColorOpacity20",
+        "value": "#0c0c0d33"
+      },
+      {
+        "token": "default::ColorOpacity50",
+        "value": "#0c0c0d80"
+      },
+      {
+        "token": "default::ColorOpacity75",
+        "value": "#0c0c0dbf"
+      },
+      {
+        "token": "default::SurfaceDefault",
+        "value": "#eff6ff"
+      },
+      {
+        "token": "default::SurfaceContainer",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "default::SurfaceInverse",
+        "value": "#050914"
+      },
+      {
+        "token": "default::SurfaceOverlay",
+        "value": "#0c0c0dbf"
+      },
+      {
+        "token": "default::SurfaceTint",
+        "value": "#3b82f6"
+      },
+      {
+        "token": "default::PrimaryDefault",
+        "value": "#2563eb"
+      },
+      {
+        "token": "default::PrimaryOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "default::PrimaryContainer",
+        "value": "#dbeafe"
+      },
+      {
+        "token": "default::PrimaryOnContainer",
+        "value": "#1e40af"
+      },
+      {
+        "token": "default::PrimaryHover",
+        "value": "#1d4ed8"
+      },
+      {
+        "token": "default::PrimaryPressed",
+        "value": "#1e40af"
+      },
+      {
+        "token": "default::SecondaryDefault",
+        "value": "#00737d"
+      },
+      {
+        "token": "default::SecondaryOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "default::SecondaryContainer",
+        "value": "#ccfbf1"
+      },
+      {
+        "token": "default::SecondaryOnContainer",
+        "value": "#115e59"
+      },
+      {
+        "token": "default::SecondaryHover",
+        "value": "#0f766e"
+      },
+      {
+        "token": "default::SecondaryPressed",
+        "value": "#115e59"
+      },
+      {
+        "token": "default::TertiaryDefault",
+        "value": "#7c3aed"
+      },
+      {
+        "token": "default::TertiaryOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "default::TertiaryContainer",
+        "value": "#ede9fe"
+      },
+      {
+        "token": "default::TertiaryOnContainer",
+        "value": "#5b21b6"
+      },
+      {
+        "token": "default::TertiaryHover",
+        "value": "#6d28d9"
+      },
+      {
+        "token": "default::TertiaryPressed",
+        "value": "#5b21b6"
+      },
+      {
+        "token": "default::ContentPrimary",
+        "value": "#18203a"
+      },
+      {
+        "token": "default::ContentSecondary",
+        "value": "#3d4966"
+      },
+      {
+        "token": "default::ContentTertiary",
+        "value": "#818ba0"
+      },
+      {
+        "token": "default::ContentDisabled",
+        "value": "#bec5d2"
+      },
+      {
+        "token": "default::ContentInverse",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "default::ContentLink",
+        "value": "#2563eb"
+      },
+      {
+        "token": "default::ContentOnPrimary",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "default::ContentOnSecondary",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "default::ContentOnTertiary",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "default::ContentOnSurface",
+        "value": "#18203a"
+      },
+      {
+        "token": "default::ContentOnInverse",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "default::ContentSelected",
+        "value": "#2563eb"
+      },
+      {
+        "token": "default::BorderDefault",
+        "value": "#dce1e8"
+      },
+      {
+        "token": "default::BorderStrong",
+        "value": "#bec5d2"
+      },
+      {
+        "token": "default::BorderSubtle",
+        "value": "#f2f5f9"
+      },
+      {
+        "token": "default::BorderBrand",
+        "value": "#3b82f6"
+      },
+      {
+        "token": "default::BorderFocus",
+        "value": "#2563eb"
+      },
+      {
+        "token": "default::BorderDisabled",
+        "value": "#dce1e8"
+      },
+      {
+        "token": "default::BorderInteractive",
+        "value": "#9ea7b8"
+      },
+      {
+        "token": "default::BorderNone",
+        "value": 0
+      },
+      {
+        "token": "default::BorderThin",
+        "value": 1
+      },
+      {
+        "token": "default::BorderMedium",
+        "value": 1.5
+      },
+      {
+        "token": "default::BorderThick",
+        "value": 2
+      },
+      {
+        "token": "default::BorderHeavy",
+        "value": 4
+      },
+      {
+        "token": "default::BorderError",
+        "value": "#991b1b"
+      },
+      {
+        "token": "default::StatusSuccess",
+        "value": "#16a34a"
+      },
+      {
+        "token": "default::StatusSuccessOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "default::StatusSuccessContainer",
+        "value": "#dcfce7"
+      },
+      {
+        "token": "default::StatusSuccessOnContainer",
+        "value": "#166534"
+      },
+      {
+        "token": "default::StatusWarning",
+        "value": "#d97706"
+      },
+      {
+        "token": "default::StatusWarningOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "default::StatusWarningContainer",
+        "value": "#fffbeb"
+      },
+      {
+        "token": "default::StatusWarningOnContainer",
+        "value": "#78350f"
+      },
+      {
+        "token": "default::StatusError",
+        "value": "#dc2626"
+      },
+      {
+        "token": "default::StatusErrorOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "default::StatusErrorContainer",
+        "value": "#fef2f2"
+      },
+      {
+        "token": "default::StatusErrorOnContainer",
+        "value": "#7f1d1d"
+      },
+      {
+        "token": "default::StatusInfo",
+        "value": "#2563eb"
+      },
+      {
+        "token": "default::StatusInfoOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "default::StatusInfoContainer",
+        "value": "#eff6ff"
+      },
+      {
+        "token": "default::StatusInfoOnContainer",
+        "value": "#1e3a8a"
+      },
+      {
+        "token": "default::InteractionHover",
+        "value": "#f2f5f9"
+      },
+      {
+        "token": "default::InteractionPressed",
+        "value": "#dce1e8"
+      },
+      {
+        "token": "default::InteractionFocusRing",
+        "value": "#2563eb"
+      },
+      {
+        "token": "default::InteractionSelected",
+        "value": "#dbeafe"
+      },
+      {
+        "token": "default::InteractionSelectedSubtle",
+        "value": "#eff6ff"
+      },
+      {
+        "token": "default::InteractionDragged",
+        "value": "#dce1e8"
+      },
+      {
+        "token": "default::FixedWhite",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "default::FixedBlack",
+        "value": "#050914"
+      },
+      {
+        "token": "default::FixedDimOverlay",
+        "value": "#0c0c0dbf"
+      },
+      {
+        "token": "default::Space0",
+        "value": 0
+      },
+      {
+        "token": "default::Space2",
+        "value": 2
+      },
+      {
+        "token": "default::Space4",
+        "value": 4
+      },
+      {
+        "token": "default::Space8",
+        "value": 8
+      },
+      {
+        "token": "default::Space12",
+        "value": 12
+      },
+      {
+        "token": "default::Space16",
+        "value": 16
+      },
+      {
+        "token": "default::Space20",
+        "value": 20
+      },
+      {
+        "token": "default::Space24",
+        "value": 24
+      },
+      {
+        "token": "default::Space28",
+        "value": 28
+      },
+      {
+        "token": "default::Space32",
+        "value": 32
+      },
+      {
+        "token": "default::Space36",
+        "value": 36
+      },
+      {
+        "token": "default::Space40",
+        "value": 40
+      },
+      {
+        "token": "default::Space44",
+        "value": 44
+      },
+      {
+        "token": "default::Space48",
+        "value": 48
+      },
+      {
+        "token": "default::Space56",
+        "value": 56
+      },
+      {
+        "token": "default::Space64",
+        "value": 64
+      },
+      {
+        "token": "default::Space80",
+        "value": 80
+      },
+      {
+        "token": "default::Space96",
+        "value": 96
+      },
+      {
+        "token": "default::Space112",
+        "value": 112
+      },
+      {
+        "token": "default::Space128",
+        "value": 128
+      },
+      {
+        "token": "default::Space160",
+        "value": 160
+      },
+      {
+        "token": "default::Space192",
+        "value": 192
+      },
+      {
+        "token": "default::Space256",
+        "value": 256
+      },
+      {
+        "token": "default::RadiusNone",
+        "value": 0
+      },
+      {
+        "token": "default::RadiusXs",
+        "value": 2
+      },
+      {
+        "token": "default::RadiusSm",
+        "value": 4
+      },
+      {
+        "token": "default::RadiusMd",
+        "value": 8
+      },
+      {
+        "token": "default::RadiusLg",
+        "value": 12
+      },
+      {
+        "token": "default::RadiusXl",
+        "value": 16
+      },
+      {
+        "token": "default::Radius2xl",
+        "value": 20
+      },
+      {
+        "token": "default::Radius3xl",
+        "value": 24
+      },
+      {
+        "token": "default::Radius4xl",
+        "value": 28
+      },
+      {
+        "token": "default::RadiusFull",
+        "value": 9999
+      },
+      {
+        "token": "default::SizeIconXs",
+        "value": 12
+      },
+      {
+        "token": "default::SizeIconSm",
+        "value": 16
+      },
+      {
+        "token": "default::SizeIconMd",
+        "value": 20
+      },
+      {
+        "token": "default::SizeIconLg",
+        "value": 24
+      },
+      {
+        "token": "default::SizeIconXl",
+        "value": 32
+      },
+      {
+        "token": "default::SizeIcon2xl",
+        "value": 40
+      },
+      {
+        "token": "default::SizeAvatarXs",
+        "value": 24
+      },
+      {
+        "token": "default::SizeAvatarSm",
+        "value": 32
+      },
+      {
+        "token": "default::SizeAvatarMd",
+        "value": 40
+      },
+      {
+        "token": "default::SizeAvatarLg",
+        "value": 48
+      },
+      {
+        "token": "default::SizeAvatarXl",
+        "value": 64
+      },
+      {
+        "token": "default::SizeAvatar2xl",
+        "value": 80
+      },
+      {
+        "token": "default::SizeTouchTarget",
+        "value": 48
+      },
+      {
+        "token": "default::SizeButtonSm",
+        "value": 32
+      },
+      {
+        "token": "default::SizeButtonMd",
+        "value": 40
+      },
+      {
+        "token": "default::SizeButtonLg",
+        "value": 48
+      },
+      {
+        "token": "default::SizeInputSm",
+        "value": 36
+      },
+      {
+        "token": "default::SizeInputMd",
+        "value": 44
+      },
+      {
+        "token": "default::SizeInputLg",
+        "value": 52
+      },
+      {
+        "token": "default::Opacity0",
+        "value": 0
+      },
+      {
+        "token": "default::Opacity5",
+        "value": 0.05000000074505806
+      },
+      {
+        "token": "default::Opacity10",
+        "value": 0.10000000149011612
+      },
+      {
+        "token": "default::Opacity15",
+        "value": 0.15000000596046448
+      },
+      {
+        "token": "default::Opacity20",
+        "value": 0.20000000298023224
+      },
+      {
+        "token": "default::Opacity30",
+        "value": 0.30000001192092896
+      },
+      {
+        "token": "default::Opacity40",
+        "value": 0.4000000059604645
+      },
+      {
+        "token": "default::Opacity50",
+        "value": 0.5
+      },
+      {
+        "token": "default::Opacity60",
+        "value": 0.6000000238418579
+      },
+      {
+        "token": "default::Opacity70",
+        "value": 0.699999988079071
+      },
+      {
+        "token": "default::Opacity80",
+        "value": 0.800000011920929
+      },
+      {
+        "token": "default::Opacity90",
+        "value": 0.8999999761581421
+      },
+      {
+        "token": "default::Opacity100",
+        "value": 1
+      },
+      {
+        "token": "default::ElevationNoneOffsetY",
+        "value": 0
+      },
+      {
+        "token": "default::ElevationNoneBlur",
+        "value": 0
+      },
+      {
+        "token": "default::ElevationNoneSpreadRadius",
+        "value": 0
+      },
+      {
+        "token": "default::ElevationNoneShadowOpacity",
+        "value": 0
+      },
+      {
+        "token": "default::ElevationNoneAndroid",
+        "value": 0
+      },
+      {
+        "token": "default::ElevationXsOffsetY",
+        "value": 1
+      },
+      {
+        "token": "default::ElevationXsBlur",
+        "value": 2
+      },
+      {
+        "token": "default::ElevationXsSpreadRadius",
+        "value": 0
+      },
+      {
+        "token": "default::ElevationXsShadowOpacity",
+        "value": 0.05000000074505806
+      },
+      {
+        "token": "default::ElevationXsAndroid",
+        "value": 1
+      },
+      {
+        "token": "default::ElevationSmOffsetY",
+        "value": 2
+      },
+      {
+        "token": "default::ElevationSmBlur",
+        "value": 4
+      },
+      {
+        "token": "default::ElevationSmSpreadRadius",
+        "value": -1
+      },
+      {
+        "token": "default::ElevationSmShadowOpacity",
+        "value": 0.07999999821186066
+      },
+      {
+        "token": "default::ElevationSmAndroid",
+        "value": 2
+      },
+      {
+        "token": "default::ElevationMdOffsetY",
+        "value": 4
+      },
+      {
+        "token": "default::ElevationMdBlur",
+        "value": 8
+      },
+      {
+        "token": "default::ElevationMdSpreadRadius",
+        "value": -2
+      },
+      {
+        "token": "default::ElevationMdShadowOpacity",
+        "value": 0.11999999731779099
+      },
+      {
+        "token": "default::ElevationMdAndroid",
+        "value": 4
+      },
+      {
+        "token": "default::ElevationLgOffsetY",
+        "value": 8
+      },
+      {
+        "token": "default::ElevationLgBlur",
+        "value": 16
+      },
+      {
+        "token": "default::ElevationLgSpreadRadius",
+        "value": -4
+      },
+      {
+        "token": "default::ElevationLgShadowOpacity",
+        "value": 0.1599999964237213
+      },
+      {
+        "token": "default::ElevationLgAndroid",
+        "value": 8
+      },
+      {
+        "token": "default::ElevationXlOffsetY",
+        "value": 16
+      },
+      {
+        "token": "default::ElevationXlBlur",
+        "value": 32
+      },
+      {
+        "token": "default::ElevationXlSpreadRadius",
+        "value": -8
+      },
+      {
+        "token": "default::ElevationXlShadowOpacity",
+        "value": 0.20000000298023224
+      },
+      {
+        "token": "default::ElevationXlAndroid",
+        "value": 16
+      },
+      {
+        "token": "default::ElevationDepth0",
+        "value": 0
+      },
+      {
+        "token": "default::ElevationDepth1",
+        "value": -1
+      },
+      {
+        "token": "default::ElevationDepth4",
+        "value": -4
+      },
+      {
+        "token": "default::ElevationDepth16",
+        "value": 16
+      },
+      {
+        "token": "default::ElevationDepth8",
+        "value": -8
+      },
+      {
+        "token": "default::ZIndexBase",
+        "value": 0
+      },
+      {
+        "token": "default::ZIndexRaised",
+        "value": 1
+      },
+      {
+        "token": "default::ZIndexDropdown",
+        "value": 10
+      },
+      {
+        "token": "default::ZIndexSticky",
+        "value": 20
+      },
+      {
+        "token": "default::ZIndexBanner",
+        "value": 30
+      },
+      {
+        "token": "default::ZIndexOverlay",
+        "value": 40
+      },
+      {
+        "token": "default::ZIndexModal",
+        "value": 50
+      },
+      {
+        "token": "default::ZIndexBottomSheet",
+        "value": 60
+      },
+      {
+        "token": "default::ZIndexFab",
+        "value": 70
+      },
+      {
+        "token": "default::ZIndexToast",
+        "value": 80
+      },
+      {
+        "token": "default::ZIndexTooltip",
+        "value": 90
+      },
+      {
+        "token": "default::ZIndexMax",
+        "value": 999
+      },
+      {
+        "token": "default::MotionDurationInstant",
+        "value": 0
+      },
+      {
+        "token": "default::MotionDurationFastest",
+        "value": 50
+      },
+      {
+        "token": "default::MotionDurationFast",
+        "value": 100
+      },
+      {
+        "token": "default::MotionDurationNormal",
+        "value": 200
+      },
+      {
+        "token": "default::MotionDurationModerate",
+        "value": 300
+      },
+      {
+        "token": "default::MotionDurationSlow",
+        "value": 400
+      },
+      {
+        "token": "default::MotionDurationSlower",
+        "value": 500
+      },
+      {
+        "token": "default::MotionDurationSlowest",
+        "value": 800
+      },
+      {
+        "token": "default::MotionDelayNone",
+        "value": 0
+      },
+      {
+        "token": "default::MotionDelayShort",
+        "value": 100
+      },
+      {
+        "token": "default::MotionDelayMedium",
+        "value": 200
+      },
+      {
+        "token": "default::MotionDelayLong",
+        "value": 400
+      },
+      {
+        "token": "default::MotionScalePressed",
+        "value": 0.9700000286102295
+      },
+      {
+        "token": "default::MotionScaleCardPressed",
+        "value": 0.9800000190734863
+      },
+      {
+        "token": "default::MotionScaleBounceIn",
+        "value": 1.0499999523162842
+      },
+      {
+        "token": "default::MotionScaleNone",
+        "value": 1
+      },
+      {
+        "token": "default::MotionOpacityPressed",
+        "value": 0.699999988079071
+      },
+      {
+        "token": "default::MotionOpacityDisabled",
+        "value": 0.4000000059604645
+      },
+      {
+        "token": "default::MotionOpacityHidden",
+        "value": 0
+      },
+      {
+        "token": "default::MotionOpacityVisible",
+        "value": 1
+      },
+      {
+        "token": "default::MotionSpringDampingStiff",
+        "value": 20
+      },
+      {
+        "token": "default::MotionSpringDampingDefault",
+        "value": 15
+      },
+      {
+        "token": "default::MotionSpringDampingGentle",
+        "value": 10
+      },
+      {
+        "token": "default::MotionSpringDampingBouncy",
+        "value": 8
+      },
+      {
+        "token": "default::MotionSpringStiffnessStiff",
+        "value": 300
+      },
+      {
+        "token": "default::MotionSpringStiffnessDefault",
+        "value": 180
+      },
+      {
+        "token": "default::MotionSpringStiffnessGentle",
+        "value": 120
+      },
+      {
+        "token": "default::MotionSpringStiffnessBouncy",
+        "value": 200
+      },
+      {
+        "token": "default::MotionSpringMassLight",
+        "value": 0.800000011920929
+      },
+      {
+        "token": "default::MotionSpringMassDefault",
+        "value": 1
+      },
+      {
+        "token": "default::MotionSpringMassHeavy",
+        "value": 1.2000000476837158
+      },
+      {
+        "token": "default::IconTertiary",
+        "value": "#818ba0"
+      },
+      {
+        "token": "default::IconPrimary",
+        "value": "#252e49"
+      },
+      {
+        "token": "default::IconSecondary",
+        "value": "#3d4966"
+      },
+      {
+        "token": "dark::FontSize10",
+        "value": 10
+      },
+      {
+        "token": "dark::FontSize11",
+        "value": 11
+      },
+      {
+        "token": "dark::FontSize12",
+        "value": 12
+      },
+      {
+        "token": "dark::FontSize14",
+        "value": 14
+      },
+      {
+        "token": "dark::FontSize16",
+        "value": 16
+      },
+      {
+        "token": "dark::FontSize18",
+        "value": 18
+      },
+      {
+        "token": "dark::FontSize20",
+        "value": 20
+      },
+      {
+        "token": "dark::FontSize22",
+        "value": 22
+      },
+      {
+        "token": "dark::FontSize24",
+        "value": 24
+      },
+      {
+        "token": "dark::FontSize26",
+        "value": 26
+      },
+      {
+        "token": "dark::FontSize28",
+        "value": 28
+      },
+      {
+        "token": "dark::FontSize30",
+        "value": 30
+      },
+      {
+        "token": "dark::FontSize32",
+        "value": 32
+      },
+      {
+        "token": "dark::FontSize36",
+        "value": 36
+      },
+      {
+        "token": "dark::FontSize40",
+        "value": 40
+      },
+      {
+        "token": "dark::FontSize48",
+        "value": 48
+      },
+      {
+        "token": "dark::FontSize56",
+        "value": 56
+      },
+      {
+        "token": "dark::FontSize84",
+        "value": 84
+      },
+      {
+        "token": "dark::FontSize96",
+        "value": 96
+      },
+      {
+        "token": "dark::FontLineHeight14",
+        "value": 14
+      },
+      {
+        "token": "dark::FontLineHeight16",
+        "value": 16
+      },
+      {
+        "token": "dark::FontLineHeight20",
+        "value": 20
+      },
+      {
+        "token": "dark::FontLineHeight24",
+        "value": 24
+      },
+      {
+        "token": "dark::FontLineHeight26",
+        "value": 26
+      },
+      {
+        "token": "dark::FontLineHeight28",
+        "value": 28
+      },
+      {
+        "token": "dark::FontLineHeight32",
+        "value": 32
+      },
+      {
+        "token": "dark::FontLineHeight34",
+        "value": 34
+      },
+      {
+        "token": "dark::FontLineHeight36",
+        "value": 36
+      },
+      {
+        "token": "dark::FontLineHeight38",
+        "value": 38
+      },
+      {
+        "token": "dark::FontLineHeight40",
+        "value": 40
+      },
+      {
+        "token": "dark::FontLineHeight44",
+        "value": 44
+      },
+      {
+        "token": "dark::FontLineHeight52",
+        "value": 52
+      },
+      {
+        "token": "dark::FontLineHeight64",
+        "value": 64
+      },
+      {
+        "token": "dark::FontLineHeight92",
+        "value": 92
+      },
+      {
+        "token": "dark::FontLineHeight100",
+        "value": 100
+      },
+      {
+        "token": "dark::FontWeightRegular",
+        "value": 400
+      },
+      {
+        "token": "dark::FontWeightMedium",
+        "value": 500
+      },
+      {
+        "token": "dark::FontWeightSemibold",
+        "value": 600
+      },
+      {
+        "token": "dark::FontWeightBold",
+        "value": 700
+      },
+      {
+        "token": "dark::FontLetterSpacingTight",
+        "value": -1
+      },
+      {
+        "token": "dark::FontLetterSpacingSlightlyTight",
+        "value": -0.5
+      },
+      {
+        "token": "dark::FontLetterSpacingNormal",
+        "value": 0
+      },
+      {
+        "token": "dark::FontLetterSpacingSlight",
+        "value": 0.10000000149011612
+      },
+      {
+        "token": "dark::FontLetterSpacingWide",
+        "value": 0.15000000596046448
+      },
+      {
+        "token": "dark::FontLetterSpacingWider",
+        "value": 0.25
+      },
+      {
+        "token": "dark::FontLetterSpacingWidest",
+        "value": 0.5
+      },
+      {
+        "token": "dark::FontLetterSpacingTighter",
+        "value": -1.5
+      },
+      {
+        "token": "dark::TypoDisplayLgSize",
+        "value": 36
+      },
+      {
+        "token": "dark::TypoDisplayLgLineHeight",
+        "value": 44
+      },
+      {
+        "token": "dark::TypoDisplayLgWeight",
+        "value": 700
+      },
+      {
+        "token": "dark::TypoDisplayLgLetterSpacing",
+        "value": -1
+      },
+      {
+        "token": "dark::TypoDisplayMdSize",
+        "value": 30
+      },
+      {
+        "token": "dark::TypoDisplayMdLineHeight",
+        "value": 38
+      },
+      {
+        "token": "dark::TypoDisplayMdWeight",
+        "value": 700
+      },
+      {
+        "token": "dark::TypoDisplayMdLetterSpacing",
+        "value": -1
+      },
+      {
+        "token": "dark::TypoDisplaySmSize",
+        "value": 24
+      },
+      {
+        "token": "dark::TypoDisplaySmLineHeight",
+        "value": 32
+      },
+      {
+        "token": "dark::TypoDisplaySmWeight",
+        "value": 700
+      },
+      {
+        "token": "dark::TypoDisplaySmLetterSpacing",
+        "value": -0.5
+      },
+      {
+        "token": "dark::TypoDisplayXlSize",
+        "value": 48
+      },
+      {
+        "token": "dark::TypoDisplayXlLineHeight",
+        "value": 52
+      },
+      {
+        "token": "dark::TypoDisplayXlWeight",
+        "value": 700
+      },
+      {
+        "token": "dark::TypoDisplayXlLetterSpacing",
+        "value": -1
+      },
+      {
+        "token": "dark::TypoDisplay2xlSize",
+        "value": 84
+      },
+      {
+        "token": "dark::TypoDisplay2xlLineHeight",
+        "value": 92
+      },
+      {
+        "token": "dark::TypoDisplay2xlWeight",
+        "value": 700
+      },
+      {
+        "token": "dark::TypoDisplay2xlLetterSpacing",
+        "value": -1
+      },
+      {
+        "token": "dark::TypoHeadingLgSize",
+        "value": 22
+      },
+      {
+        "token": "dark::TypoHeadingLgLineHeight",
+        "value": 26
+      },
+      {
+        "token": "dark::TypoHeadingLgWeight",
+        "value": 700
+      },
+      {
+        "token": "dark::TypoHeadingLgLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "dark::TypoHeadingMdSize",
+        "value": 18
+      },
+      {
+        "token": "dark::TypoHeadingMdLineHeight",
+        "value": 26
+      },
+      {
+        "token": "dark::TypoHeadingMdWeight",
+        "value": 700
+      },
+      {
+        "token": "dark::TypoHeadingMdLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "dark::TypoHeadingSmSize",
+        "value": 16
+      },
+      {
+        "token": "dark::TypoHeadingSmLineHeight",
+        "value": 24
+      },
+      {
+        "token": "dark::TypoHeadingSmWeight",
+        "value": 700
+      },
+      {
+        "token": "dark::TypoHeadingSmLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "dark::TypoTitleLgSize",
+        "value": 20
+      },
+      {
+        "token": "dark::TypoTitleLgLineHeight",
+        "value": 28
+      },
+      {
+        "token": "dark::TypoTitleLgWeight",
+        "value": 600
+      },
+      {
+        "token": "dark::TypoTitleLgLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "dark::TypoTitleMdSize",
+        "value": 16
+      },
+      {
+        "token": "dark::TypoTitleMdLineHeight",
+        "value": 24
+      },
+      {
+        "token": "dark::TypoTitleMdWeight",
+        "value": 600
+      },
+      {
+        "token": "dark::TypoTitleMdLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "dark::TypoTitleSmSize",
+        "value": 14
+      },
+      {
+        "token": "dark::TypoTitleSmLineHeight",
+        "value": 20
+      },
+      {
+        "token": "dark::TypoTitleSmWeight",
+        "value": 600
+      },
+      {
+        "token": "dark::TypoTitleSmLetterSpacing",
+        "value": 0.10000000149011612
+      },
+      {
+        "token": "dark::TypoBodyLgSize",
+        "value": 16
+      },
+      {
+        "token": "dark::TypoBodyLgLineHeight",
+        "value": 24
+      },
+      {
+        "token": "dark::TypoBodyLgWeight",
+        "value": 400
+      },
+      {
+        "token": "dark::TypoBodyLgLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "dark::TypoBodyMdSize",
+        "value": 14
+      },
+      {
+        "token": "dark::TypoBodyMdLineHeight",
+        "value": 20
+      },
+      {
+        "token": "dark::TypoBodyMdWeight",
+        "value": 400
+      },
+      {
+        "token": "dark::TypoBodyMdLetterSpacing",
+        "value": 0.15000000596046448
+      },
+      {
+        "token": "dark::TypoBodySmSize",
+        "value": 12
+      },
+      {
+        "token": "dark::TypoBodySmLineHeight",
+        "value": 16
+      },
+      {
+        "token": "dark::TypoBodySmWeight",
+        "value": 400
+      },
+      {
+        "token": "dark::TypoBodySmLetterSpacing",
+        "value": 0.25
+      },
+      {
+        "token": "dark::TypoLabelLgSize",
+        "value": 14
+      },
+      {
+        "token": "dark::TypoLabelLgLineHeight",
+        "value": 20
+      },
+      {
+        "token": "dark::TypoLabelLgWeight",
+        "value": 500
+      },
+      {
+        "token": "dark::TypoLabelLgLetterSpacing",
+        "value": -0.5
+      },
+      {
+        "token": "dark::TypoLabelMdSize",
+        "value": 12
+      },
+      {
+        "token": "dark::TypoLabelMdLineHeight",
+        "value": 16
+      },
+      {
+        "token": "dark::TypoLabelMdWeight",
+        "value": 500
+      },
+      {
+        "token": "dark::TypoLabelMdLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "dark::TypoLabelSmSize",
+        "value": 11
+      },
+      {
+        "token": "dark::TypoLabelSmLineHeight",
+        "value": 14
+      },
+      {
+        "token": "dark::TypoLabelSmWeight",
+        "value": 500
+      },
+      {
+        "token": "dark::TypoLabelSmLetterSpacing",
+        "value": -0.5
+      },
+      {
+        "token": "dark::ColorNeutral50",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "dark::ColorNeutral100",
+        "value": "#f2f5f9"
+      },
+      {
+        "token": "dark::ColorNeutral200",
+        "value": "#dce1e8"
+      },
+      {
+        "token": "dark::ColorNeutral300",
+        "value": "#bec5d2"
+      },
+      {
+        "token": "dark::ColorNeutral400",
+        "value": "#9ea7b8"
+      },
+      {
+        "token": "dark::ColorNeutral500",
+        "value": "#818ba0"
+      },
+      {
+        "token": "dark::ColorNeutral600",
+        "value": "#5d6a85"
+      },
+      {
+        "token": "dark::ColorNeutral700",
+        "value": "#3d4966"
+      },
+      {
+        "token": "dark::ColorNeutral800",
+        "value": "#252e49"
+      },
+      {
+        "token": "dark::ColorNeutral900",
+        "value": "#18203a"
+      },
+      {
+        "token": "dark::ColorNeutral950",
+        "value": "#050914"
+      },
+      {
+        "token": "dark::ColorBrand50",
+        "value": "#eff6ff"
+      },
+      {
+        "token": "dark::ColorBrand100",
+        "value": "#dbeafe"
+      },
+      {
+        "token": "dark::ColorBrand200",
+        "value": "#bfdbfe"
+      },
+      {
+        "token": "dark::ColorBrand300",
+        "value": "#93c5fd"
+      },
+      {
+        "token": "dark::ColorBrand400",
+        "value": "#60a5fa"
+      },
+      {
+        "token": "dark::ColorBrand500",
+        "value": "#3b82f6"
+      },
+      {
+        "token": "dark::ColorBrand600",
+        "value": "#2563eb"
+      },
+      {
+        "token": "dark::ColorBrand700",
+        "value": "#1d4ed8"
+      },
+      {
+        "token": "dark::ColorBrand800",
+        "value": "#1e40af"
+      },
+      {
+        "token": "dark::ColorBrand900",
+        "value": "#1e3a8a"
+      },
+      {
+        "token": "dark::ColorBrand950",
+        "value": "#172554"
+      },
+      {
+        "token": "dark::ColorGreen50",
+        "value": "#f0fdf4"
+      },
+      {
+        "token": "dark::ColorGreen100",
+        "value": "#dcfce7"
+      },
+      {
+        "token": "dark::ColorGreen200",
+        "value": "#bbf7d0"
+      },
+      {
+        "token": "dark::ColorGreen300",
+        "value": "#86efac"
+      },
+      {
+        "token": "dark::ColorGreen400",
+        "value": "#4ade80"
+      },
+      {
+        "token": "dark::ColorGreen500",
+        "value": "#22c55e"
+      },
+      {
+        "token": "dark::ColorGreen600",
+        "value": "#16a34a"
+      },
+      {
+        "token": "dark::ColorGreen700",
+        "value": "#15803d"
+      },
+      {
+        "token": "dark::ColorGreen800",
+        "value": "#166534"
+      },
+      {
+        "token": "dark::ColorGreen900",
+        "value": "#14532d"
+      },
+      {
+        "token": "dark::ColorGreen950",
+        "value": "#052e16"
+      },
+      {
+        "token": "dark::ColorRed50",
+        "value": "#fef2f2"
+      },
+      {
+        "token": "dark::ColorRed100",
+        "value": "#fee2e2"
+      },
+      {
+        "token": "dark::ColorRed200",
+        "value": "#fecaca"
+      },
+      {
+        "token": "dark::ColorRed300",
+        "value": "#fca5a5"
+      },
+      {
+        "token": "dark::ColorRed400",
+        "value": "#f87171"
+      },
+      {
+        "token": "dark::ColorRed500",
+        "value": "#ef4444"
+      },
+      {
+        "token": "dark::ColorRed600",
+        "value": "#dc2626"
+      },
+      {
+        "token": "dark::ColorRed700",
+        "value": "#b91c1c"
+      },
+      {
+        "token": "dark::ColorRed800",
+        "value": "#991b1b"
+      },
+      {
+        "token": "dark::ColorRed900",
+        "value": "#7f1d1d"
+      },
+      {
+        "token": "dark::ColorRed950",
+        "value": "#450a0a"
+      },
+      {
+        "token": "dark::ColorAmber50",
+        "value": "#fffbeb"
+      },
+      {
+        "token": "dark::ColorAmber100",
+        "value": "#fef3c7"
+      },
+      {
+        "token": "dark::ColorAmber200",
+        "value": "#fde68a"
+      },
+      {
+        "token": "dark::ColorAmber300",
+        "value": "#fcd34d"
+      },
+      {
+        "token": "dark::ColorAmber400",
+        "value": "#fbbf24"
+      },
+      {
+        "token": "dark::ColorAmber500",
+        "value": "#f59e0b"
+      },
+      {
+        "token": "dark::ColorAmber600",
+        "value": "#d97706"
+      },
+      {
+        "token": "dark::ColorAmber700",
+        "value": "#b45309"
+      },
+      {
+        "token": "dark::ColorAmber800",
+        "value": "#92400e"
+      },
+      {
+        "token": "dark::ColorAmber900",
+        "value": "#78350f"
+      },
+      {
+        "token": "dark::ColorAmber950",
+        "value": "#451a03"
+      },
+      {
+        "token": "dark::ColorTeal50",
+        "value": "#f0fdfa"
+      },
+      {
+        "token": "dark::ColorTeal100",
+        "value": "#ccfbf1"
+      },
+      {
+        "token": "dark::ColorTeal200",
+        "value": "#99f6e4"
+      },
+      {
+        "token": "dark::ColorTeal300",
+        "value": "#5eead4"
+      },
+      {
+        "token": "dark::ColorTeal400",
+        "value": "#2dd4bf"
+      },
+      {
+        "token": "dark::ColorTeal500",
+        "value": "#14b8a6"
+      },
+      {
+        "token": "dark::ColorTeal600",
+        "value": "#0d9488"
+      },
+      {
+        "token": "dark::ColorTeal700",
+        "value": "#0f766e"
+      },
+      {
+        "token": "dark::ColorTeal800",
+        "value": "#115e59"
+      },
+      {
+        "token": "dark::ColorTeal900",
+        "value": "#134e4a"
+      },
+      {
+        "token": "dark::ColorTeal950",
+        "value": "#042f2e"
+      },
+      {
+        "token": "dark::ColorPurple50",
+        "value": "#f5f3ff"
+      },
+      {
+        "token": "dark::ColorPurple100",
+        "value": "#ede9fe"
+      },
+      {
+        "token": "dark::ColorPurple200",
+        "value": "#ddd6fe"
+      },
+      {
+        "token": "dark::ColorPurple300",
+        "value": "#c4b5fd"
+      },
+      {
+        "token": "dark::ColorPurple400",
+        "value": "#a78bfa"
+      },
+      {
+        "token": "dark::ColorPurple500",
+        "value": "#8b5cf6"
+      },
+      {
+        "token": "dark::ColorPurple600",
+        "value": "#7c3aed"
+      },
+      {
+        "token": "dark::ColorPurple700",
+        "value": "#6d28d9"
+      },
+      {
+        "token": "dark::ColorPurple800",
+        "value": "#5b21b6"
+      },
+      {
+        "token": "dark::ColorPurple900",
+        "value": "#4c1d95"
+      },
+      {
+        "token": "dark::ColorPurple950",
+        "value": "#2e1065"
+      },
+      {
+        "token": "dark::ColorGradientHeaderStart",
+        "value": "#0d503c"
+      },
+      {
+        "token": "dark::ColorGradientHeaderMid",
+        "value": "#0c3547"
+      },
+      {
+        "token": "dark::ColorGradientHeaderEnd",
+        "value": "#0a1628"
+      },
+      {
+        "token": "dark::ColorGradientHeaderAccent",
+        "value": "#10b981"
+      },
+      {
+        "token": "dark::ColorGradientHeaderCyan",
+        "value": "#0891b2"
+      },
+      {
+        "token": "dark::ColorOpacity5",
+        "value": "#0c0c0d0d"
+      },
+      {
+        "token": "dark::ColorOpacity10",
+        "value": "#0c0c0d1a"
+      },
+      {
+        "token": "dark::ColorOpacity20",
+        "value": "#0c0c0d33"
+      },
+      {
+        "token": "dark::ColorOpacity50",
+        "value": "#0c0c0d80"
+      },
+      {
+        "token": "dark::ColorOpacity75",
+        "value": "#0c0c0dbf"
+      },
+      {
+        "token": "dark::SurfaceDefault",
+        "value": "#050914"
+      },
+      {
+        "token": "dark::SurfaceContainer",
+        "value": "#252e49"
+      },
+      {
+        "token": "dark::SurfaceInverse",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "dark::SurfaceOverlay",
+        "value": "#0c0c0dbf"
+      },
+      {
+        "token": "dark::SurfaceTint",
+        "value": "#60a5fa"
+      },
+      {
+        "token": "dark::PrimaryDefault",
+        "value": "#eff6ff"
+      },
+      {
+        "token": "dark::PrimaryOn",
+        "value": "#050914"
+      },
+      {
+        "token": "dark::PrimaryContainer",
+        "value": "#1e3a8a"
+      },
+      {
+        "token": "dark::PrimaryOnContainer",
+        "value": "#bfdbfe"
+      },
+      {
+        "token": "dark::PrimaryHover",
+        "value": "#93c5fd"
+      },
+      {
+        "token": "dark::PrimaryPressed",
+        "value": "#bfdbfe"
+      },
+      {
+        "token": "dark::SecondaryDefault",
+        "value": "#2dd4bf"
+      },
+      {
+        "token": "dark::SecondaryOn",
+        "value": "#050914"
+      },
+      {
+        "token": "dark::SecondaryContainer",
+        "value": "#134e4a"
+      },
+      {
+        "token": "dark::SecondaryOnContainer",
+        "value": "#99f6e4"
+      },
+      {
+        "token": "dark::SecondaryHover",
+        "value": "#5eead4"
+      },
+      {
+        "token": "dark::SecondaryPressed",
+        "value": "#99f6e4"
+      },
+      {
+        "token": "dark::TertiaryDefault",
+        "value": "#a78bfa"
+      },
+      {
+        "token": "dark::TertiaryOn",
+        "value": "#050914"
+      },
+      {
+        "token": "dark::TertiaryContainer",
+        "value": "#4c1d95"
+      },
+      {
+        "token": "dark::TertiaryOnContainer",
+        "value": "#ddd6fe"
+      },
+      {
+        "token": "dark::TertiaryHover",
+        "value": "#c4b5fd"
+      },
+      {
+        "token": "dark::TertiaryPressed",
+        "value": "#ddd6fe"
+      },
+      {
+        "token": "dark::ContentPrimary",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "dark::ContentSecondary",
+        "value": "#dce1e8"
+      },
+      {
+        "token": "dark::ContentTertiary",
+        "value": "#9ea7b8"
+      },
+      {
+        "token": "dark::ContentDisabled",
+        "value": "#3d4966"
+      },
+      {
+        "token": "dark::ContentInverse",
+        "value": "#050914"
+      },
+      {
+        "token": "dark::ContentLink",
+        "value": "#60a5fa"
+      },
+      {
+        "token": "dark::ContentOnPrimary",
+        "value": "#050914"
+      },
+      {
+        "token": "dark::ContentOnSecondary",
+        "value": "#050914"
+      },
+      {
+        "token": "dark::ContentOnTertiary",
+        "value": "#050914"
+      },
+      {
+        "token": "dark::ContentOnSurface",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "dark::ContentOnInverse",
+        "value": "#18203a"
+      },
+      {
+        "token": "dark::ContentSelected",
+        "value": "#60a5fa"
+      },
+      {
+        "token": "dark::BorderDefault",
+        "value": "#3d4966"
+      },
+      {
+        "token": "dark::BorderStrong",
+        "value": "#5d6a85"
+      },
+      {
+        "token": "dark::BorderSubtle",
+        "value": "#252e49"
+      },
+      {
+        "token": "dark::BorderBrand",
+        "value": "#60a5fa"
+      },
+      {
+        "token": "dark::BorderFocus",
+        "value": "#60a5fa"
+      },
+      {
+        "token": "dark::BorderDisabled",
+        "value": "#252e49"
+      },
+      {
+        "token": "dark::BorderInteractive",
+        "value": "#818ba0"
+      },
+      {
+        "token": "dark::BorderNone",
+        "value": 0
+      },
+      {
+        "token": "dark::BorderThin",
+        "value": 1
+      },
+      {
+        "token": "dark::BorderMedium",
+        "value": 1.5
+      },
+      {
+        "token": "dark::BorderThick",
+        "value": 2
+      },
+      {
+        "token": "dark::BorderHeavy",
+        "value": 4
+      },
+      {
+        "token": "dark::BorderError",
+        "value": "#fca5a5"
+      },
+      {
+        "token": "dark::StatusSuccess",
+        "value": "#4ade80"
+      },
+      {
+        "token": "dark::StatusSuccessOn",
+        "value": "#052e16"
+      },
+      {
+        "token": "dark::StatusSuccessContainer",
+        "value": "#052e16"
+      },
+      {
+        "token": "dark::StatusSuccessOnContainer",
+        "value": "#bbf7d0"
+      },
+      {
+        "token": "dark::StatusWarning",
+        "value": "#fbbf24"
+      },
+      {
+        "token": "dark::StatusWarningOn",
+        "value": "#451a03"
+      },
+      {
+        "token": "dark::StatusWarningContainer",
+        "value": "#451a03"
+      },
+      {
+        "token": "dark::StatusWarningOnContainer",
+        "value": "#fde68a"
+      },
+      {
+        "token": "dark::StatusError",
+        "value": "#f87171"
+      },
+      {
+        "token": "dark::StatusErrorOn",
+        "value": "#450a0a"
+      },
+      {
+        "token": "dark::StatusErrorContainer",
+        "value": "#450a0a"
+      },
+      {
+        "token": "dark::StatusErrorOnContainer",
+        "value": "#fecaca"
+      },
+      {
+        "token": "dark::StatusInfo",
+        "value": "#60a5fa"
+      },
+      {
+        "token": "dark::StatusInfoOn",
+        "value": "#172554"
+      },
+      {
+        "token": "dark::StatusInfoContainer",
+        "value": "#172554"
+      },
+      {
+        "token": "dark::StatusInfoOnContainer",
+        "value": "#bfdbfe"
+      },
+      {
+        "token": "dark::InteractionHover",
+        "value": "#3d4966"
+      },
+      {
+        "token": "dark::InteractionPressed",
+        "value": "#5d6a85"
+      },
+      {
+        "token": "dark::InteractionFocusRing",
+        "value": "#60a5fa"
+      },
+      {
+        "token": "dark::InteractionSelected",
+        "value": "#1e3a8a"
+      },
+      {
+        "token": "dark::InteractionSelectedSubtle",
+        "value": "#172554"
+      },
+      {
+        "token": "dark::InteractionDragged",
+        "value": "#3d4966"
+      },
+      {
+        "token": "dark::FixedWhite",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "dark::FixedBlack",
+        "value": "#050914"
+      },
+      {
+        "token": "dark::FixedDimOverlay",
+        "value": "#0c0c0dbf"
+      },
+      {
+        "token": "dark::Space0",
+        "value": 0
+      },
+      {
+        "token": "dark::Space2",
+        "value": 2
+      },
+      {
+        "token": "dark::Space4",
+        "value": 4
+      },
+      {
+        "token": "dark::Space8",
+        "value": 8
+      },
+      {
+        "token": "dark::Space12",
+        "value": 12
+      },
+      {
+        "token": "dark::Space16",
+        "value": 16
+      },
+      {
+        "token": "dark::Space20",
+        "value": 20
+      },
+      {
+        "token": "dark::Space24",
+        "value": 24
+      },
+      {
+        "token": "dark::Space28",
+        "value": 28
+      },
+      {
+        "token": "dark::Space32",
+        "value": 32
+      },
+      {
+        "token": "dark::Space36",
+        "value": 36
+      },
+      {
+        "token": "dark::Space40",
+        "value": 40
+      },
+      {
+        "token": "dark::Space44",
+        "value": 44
+      },
+      {
+        "token": "dark::Space48",
+        "value": 48
+      },
+      {
+        "token": "dark::Space56",
+        "value": 56
+      },
+      {
+        "token": "dark::Space64",
+        "value": 64
+      },
+      {
+        "token": "dark::Space80",
+        "value": 80
+      },
+      {
+        "token": "dark::Space96",
+        "value": 96
+      },
+      {
+        "token": "dark::Space112",
+        "value": 112
+      },
+      {
+        "token": "dark::Space128",
+        "value": 128
+      },
+      {
+        "token": "dark::Space160",
+        "value": 160
+      },
+      {
+        "token": "dark::Space192",
+        "value": 192
+      },
+      {
+        "token": "dark::Space256",
+        "value": 256
+      },
+      {
+        "token": "dark::RadiusNone",
+        "value": 0
+      },
+      {
+        "token": "dark::RadiusXs",
+        "value": 2
+      },
+      {
+        "token": "dark::RadiusSm",
+        "value": 4
+      },
+      {
+        "token": "dark::RadiusMd",
+        "value": 8
+      },
+      {
+        "token": "dark::RadiusLg",
+        "value": 12
+      },
+      {
+        "token": "dark::RadiusXl",
+        "value": 16
+      },
+      {
+        "token": "dark::Radius2xl",
+        "value": 20
+      },
+      {
+        "token": "dark::Radius3xl",
+        "value": 24
+      },
+      {
+        "token": "dark::Radius4xl",
+        "value": 28
+      },
+      {
+        "token": "dark::RadiusFull",
+        "value": 9999
+      },
+      {
+        "token": "dark::SizeIconXs",
+        "value": 12
+      },
+      {
+        "token": "dark::SizeIconSm",
+        "value": 16
+      },
+      {
+        "token": "dark::SizeIconMd",
+        "value": 20
+      },
+      {
+        "token": "dark::SizeIconLg",
+        "value": 24
+      },
+      {
+        "token": "dark::SizeIconXl",
+        "value": 32
+      },
+      {
+        "token": "dark::SizeIcon2xl",
+        "value": 40
+      },
+      {
+        "token": "dark::SizeAvatarXs",
+        "value": 24
+      },
+      {
+        "token": "dark::SizeAvatarSm",
+        "value": 32
+      },
+      {
+        "token": "dark::SizeAvatarMd",
+        "value": 40
+      },
+      {
+        "token": "dark::SizeAvatarLg",
+        "value": 48
+      },
+      {
+        "token": "dark::SizeAvatarXl",
+        "value": 64
+      },
+      {
+        "token": "dark::SizeAvatar2xl",
+        "value": 80
+      },
+      {
+        "token": "dark::SizeTouchTarget",
+        "value": 48
+      },
+      {
+        "token": "dark::SizeButtonSm",
+        "value": 32
+      },
+      {
+        "token": "dark::SizeButtonMd",
+        "value": 40
+      },
+      {
+        "token": "dark::SizeButtonLg",
+        "value": 48
+      },
+      {
+        "token": "dark::SizeInputSm",
+        "value": 36
+      },
+      {
+        "token": "dark::SizeInputMd",
+        "value": 44
+      },
+      {
+        "token": "dark::SizeInputLg",
+        "value": 52
+      },
+      {
+        "token": "dark::Opacity0",
+        "value": 0
+      },
+      {
+        "token": "dark::Opacity5",
+        "value": 0.05000000074505806
+      },
+      {
+        "token": "dark::Opacity10",
+        "value": 0.10000000149011612
+      },
+      {
+        "token": "dark::Opacity15",
+        "value": 0.15000000596046448
+      },
+      {
+        "token": "dark::Opacity20",
+        "value": 0.20000000298023224
+      },
+      {
+        "token": "dark::Opacity30",
+        "value": 0.30000001192092896
+      },
+      {
+        "token": "dark::Opacity40",
+        "value": 0.4000000059604645
+      },
+      {
+        "token": "dark::Opacity50",
+        "value": 0.5
+      },
+      {
+        "token": "dark::Opacity60",
+        "value": 0.6000000238418579
+      },
+      {
+        "token": "dark::Opacity70",
+        "value": 0.699999988079071
+      },
+      {
+        "token": "dark::Opacity80",
+        "value": 0.800000011920929
+      },
+      {
+        "token": "dark::Opacity90",
+        "value": 0.8999999761581421
+      },
+      {
+        "token": "dark::Opacity100",
+        "value": 1
+      },
+      {
+        "token": "dark::ElevationNoneOffsetY",
+        "value": 0
+      },
+      {
+        "token": "dark::ElevationNoneBlur",
+        "value": 0
+      },
+      {
+        "token": "dark::ElevationNoneSpreadRadius",
+        "value": 0
+      },
+      {
+        "token": "dark::ElevationNoneShadowOpacity",
+        "value": 0
+      },
+      {
+        "token": "dark::ElevationNoneAndroid",
+        "value": 0
+      },
+      {
+        "token": "dark::ElevationXsOffsetY",
+        "value": 1
+      },
+      {
+        "token": "dark::ElevationXsBlur",
+        "value": 2
+      },
+      {
+        "token": "dark::ElevationXsSpreadRadius",
+        "value": 0
+      },
+      {
+        "token": "dark::ElevationXsShadowOpacity",
+        "value": 0.05000000074505806
+      },
+      {
+        "token": "dark::ElevationXsAndroid",
+        "value": 1
+      },
+      {
+        "token": "dark::ElevationSmOffsetY",
+        "value": 2
+      },
+      {
+        "token": "dark::ElevationSmBlur",
+        "value": 4
+      },
+      {
+        "token": "dark::ElevationSmSpreadRadius",
+        "value": -1
+      },
+      {
+        "token": "dark::ElevationSmShadowOpacity",
+        "value": 0.07999999821186066
+      },
+      {
+        "token": "dark::ElevationSmAndroid",
+        "value": 2
+      },
+      {
+        "token": "dark::ElevationMdOffsetY",
+        "value": 4
+      },
+      {
+        "token": "dark::ElevationMdBlur",
+        "value": 8
+      },
+      {
+        "token": "dark::ElevationMdSpreadRadius",
+        "value": -2
+      },
+      {
+        "token": "dark::ElevationMdShadowOpacity",
+        "value": 0.11999999731779099
+      },
+      {
+        "token": "dark::ElevationMdAndroid",
+        "value": 4
+      },
+      {
+        "token": "dark::ElevationLgOffsetY",
+        "value": 8
+      },
+      {
+        "token": "dark::ElevationLgBlur",
+        "value": 16
+      },
+      {
+        "token": "dark::ElevationLgSpreadRadius",
+        "value": -4
+      },
+      {
+        "token": "dark::ElevationLgShadowOpacity",
+        "value": 0.1599999964237213
+      },
+      {
+        "token": "dark::ElevationLgAndroid",
+        "value": 8
+      },
+      {
+        "token": "dark::ElevationXlOffsetY",
+        "value": 16
+      },
+      {
+        "token": "dark::ElevationXlBlur",
+        "value": 32
+      },
+      {
+        "token": "dark::ElevationXlSpreadRadius",
+        "value": -8
+      },
+      {
+        "token": "dark::ElevationXlShadowOpacity",
+        "value": 0.20000000298023224
+      },
+      {
+        "token": "dark::ElevationXlAndroid",
+        "value": 16
+      },
+      {
+        "token": "dark::ElevationDepth0",
+        "value": 0
+      },
+      {
+        "token": "dark::ElevationDepth1",
+        "value": -1
+      },
+      {
+        "token": "dark::ElevationDepth4",
+        "value": -4
+      },
+      {
+        "token": "dark::ElevationDepth16",
+        "value": 16
+      },
+      {
+        "token": "dark::ElevationDepth8",
+        "value": -8
+      },
+      {
+        "token": "dark::ZIndexBase",
+        "value": 0
+      },
+      {
+        "token": "dark::ZIndexRaised",
+        "value": 1
+      },
+      {
+        "token": "dark::ZIndexDropdown",
+        "value": 10
+      },
+      {
+        "token": "dark::ZIndexSticky",
+        "value": 20
+      },
+      {
+        "token": "dark::ZIndexBanner",
+        "value": 30
+      },
+      {
+        "token": "dark::ZIndexOverlay",
+        "value": 40
+      },
+      {
+        "token": "dark::ZIndexModal",
+        "value": 50
+      },
+      {
+        "token": "dark::ZIndexBottomSheet",
+        "value": 60
+      },
+      {
+        "token": "dark::ZIndexFab",
+        "value": 70
+      },
+      {
+        "token": "dark::ZIndexToast",
+        "value": 80
+      },
+      {
+        "token": "dark::ZIndexTooltip",
+        "value": 90
+      },
+      {
+        "token": "dark::ZIndexMax",
+        "value": 999
+      },
+      {
+        "token": "dark::MotionDurationInstant",
+        "value": 0
+      },
+      {
+        "token": "dark::MotionDurationFastest",
+        "value": 50
+      },
+      {
+        "token": "dark::MotionDurationFast",
+        "value": 100
+      },
+      {
+        "token": "dark::MotionDurationNormal",
+        "value": 200
+      },
+      {
+        "token": "dark::MotionDurationModerate",
+        "value": 300
+      },
+      {
+        "token": "dark::MotionDurationSlow",
+        "value": 400
+      },
+      {
+        "token": "dark::MotionDurationSlower",
+        "value": 500
+      },
+      {
+        "token": "dark::MotionDurationSlowest",
+        "value": 800
+      },
+      {
+        "token": "dark::MotionDelayNone",
+        "value": 0
+      },
+      {
+        "token": "dark::MotionDelayShort",
+        "value": 100
+      },
+      {
+        "token": "dark::MotionDelayMedium",
+        "value": 200
+      },
+      {
+        "token": "dark::MotionDelayLong",
+        "value": 400
+      },
+      {
+        "token": "dark::MotionScalePressed",
+        "value": 0.9700000286102295
+      },
+      {
+        "token": "dark::MotionScaleCardPressed",
+        "value": 0.9800000190734863
+      },
+      {
+        "token": "dark::MotionScaleBounceIn",
+        "value": 1.0499999523162842
+      },
+      {
+        "token": "dark::MotionScaleNone",
+        "value": 1
+      },
+      {
+        "token": "dark::MotionOpacityPressed",
+        "value": 0.699999988079071
+      },
+      {
+        "token": "dark::MotionOpacityDisabled",
+        "value": 0.4000000059604645
+      },
+      {
+        "token": "dark::MotionOpacityHidden",
+        "value": 0
+      },
+      {
+        "token": "dark::MotionOpacityVisible",
+        "value": 1
+      },
+      {
+        "token": "dark::MotionSpringDampingStiff",
+        "value": 20
+      },
+      {
+        "token": "dark::MotionSpringDampingDefault",
+        "value": 15
+      },
+      {
+        "token": "dark::MotionSpringDampingGentle",
+        "value": 10
+      },
+      {
+        "token": "dark::MotionSpringDampingBouncy",
+        "value": 8
+      },
+      {
+        "token": "dark::MotionSpringStiffnessStiff",
+        "value": 300
+      },
+      {
+        "token": "dark::MotionSpringStiffnessDefault",
+        "value": 180
+      },
+      {
+        "token": "dark::MotionSpringStiffnessGentle",
+        "value": 120
+      },
+      {
+        "token": "dark::MotionSpringStiffnessBouncy",
+        "value": 200
+      },
+      {
+        "token": "dark::MotionSpringMassLight",
+        "value": 0.800000011920929
+      },
+      {
+        "token": "dark::MotionSpringMassDefault",
+        "value": 1
+      },
+      {
+        "token": "dark::MotionSpringMassHeavy",
+        "value": 1.2000000476837158
+      },
+      {
+        "token": "dark::IconTertiary",
+        "value": "#9ea7b8"
+      },
+      {
+        "token": "dark::IconPrimary",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "dark::IconSecondary",
+        "value": "#dce1e8"
+      },
+      {
+        "token": "weighteasy-light::FontSize10",
+        "value": 10
+      },
+      {
+        "token": "weighteasy-light::FontSize11",
+        "value": 11
+      },
+      {
+        "token": "weighteasy-light::FontSize12",
+        "value": 12
+      },
+      {
+        "token": "weighteasy-light::FontSize14",
+        "value": 14
+      },
+      {
+        "token": "weighteasy-light::FontSize16",
+        "value": 16
+      },
+      {
+        "token": "weighteasy-light::FontSize18",
+        "value": 18
+      },
+      {
+        "token": "weighteasy-light::FontSize20",
+        "value": 20
+      },
+      {
+        "token": "weighteasy-light::FontSize22",
+        "value": 22
+      },
+      {
+        "token": "weighteasy-light::FontSize24",
+        "value": 24
+      },
+      {
+        "token": "weighteasy-light::FontSize26",
+        "value": 26
+      },
+      {
+        "token": "weighteasy-light::FontSize28",
+        "value": 28
+      },
+      {
+        "token": "weighteasy-light::FontSize30",
+        "value": 30
+      },
+      {
+        "token": "weighteasy-light::FontSize32",
+        "value": 32
+      },
+      {
+        "token": "weighteasy-light::FontSize36",
+        "value": 36
+      },
+      {
+        "token": "weighteasy-light::FontSize40",
+        "value": 40
+      },
+      {
+        "token": "weighteasy-light::FontSize48",
+        "value": 48
+      },
+      {
+        "token": "weighteasy-light::FontSize56",
+        "value": 56
+      },
+      {
+        "token": "weighteasy-light::FontSize84",
+        "value": 84
+      },
+      {
+        "token": "weighteasy-light::FontSize96",
+        "value": 96
+      },
+      {
+        "token": "weighteasy-light::FontLineHeight14",
+        "value": 14
+      },
+      {
+        "token": "weighteasy-light::FontLineHeight16",
+        "value": 16
+      },
+      {
+        "token": "weighteasy-light::FontLineHeight20",
+        "value": 20
+      },
+      {
+        "token": "weighteasy-light::FontLineHeight24",
+        "value": 24
+      },
+      {
+        "token": "weighteasy-light::FontLineHeight26",
+        "value": 26
+      },
+      {
+        "token": "weighteasy-light::FontLineHeight28",
+        "value": 28
+      },
+      {
+        "token": "weighteasy-light::FontLineHeight32",
+        "value": 32
+      },
+      {
+        "token": "weighteasy-light::FontLineHeight34",
+        "value": 34
+      },
+      {
+        "token": "weighteasy-light::FontLineHeight36",
+        "value": 36
+      },
+      {
+        "token": "weighteasy-light::FontLineHeight38",
+        "value": 38
+      },
+      {
+        "token": "weighteasy-light::FontLineHeight40",
+        "value": 40
+      },
+      {
+        "token": "weighteasy-light::FontLineHeight44",
+        "value": 44
+      },
+      {
+        "token": "weighteasy-light::FontLineHeight52",
+        "value": 52
+      },
+      {
+        "token": "weighteasy-light::FontLineHeight64",
+        "value": 64
+      },
+      {
+        "token": "weighteasy-light::FontLineHeight92",
+        "value": 92
+      },
+      {
+        "token": "weighteasy-light::FontLineHeight100",
+        "value": 100
+      },
+      {
+        "token": "weighteasy-light::FontWeightRegular",
+        "value": 400
+      },
+      {
+        "token": "weighteasy-light::FontWeightMedium",
+        "value": 500
+      },
+      {
+        "token": "weighteasy-light::FontWeightSemibold",
+        "value": 600
+      },
+      {
+        "token": "weighteasy-light::FontWeightBold",
+        "value": 700
+      },
+      {
+        "token": "weighteasy-light::FontLetterSpacingTight",
+        "value": -1
+      },
+      {
+        "token": "weighteasy-light::FontLetterSpacingSlightlyTight",
+        "value": -0.5
+      },
+      {
+        "token": "weighteasy-light::FontLetterSpacingNormal",
+        "value": 0
+      },
+      {
+        "token": "weighteasy-light::FontLetterSpacingSlight",
+        "value": 0.10000000149011612
+      },
+      {
+        "token": "weighteasy-light::FontLetterSpacingWide",
+        "value": 0.15000000596046448
+      },
+      {
+        "token": "weighteasy-light::FontLetterSpacingWider",
+        "value": 0.25
+      },
+      {
+        "token": "weighteasy-light::FontLetterSpacingWidest",
+        "value": 0.5
+      },
+      {
+        "token": "weighteasy-light::FontLetterSpacingTighter",
+        "value": -1.5
+      },
+      {
+        "token": "weighteasy-light::TypoDisplayLgSize",
+        "value": 36
+      },
+      {
+        "token": "weighteasy-light::TypoDisplayLgLineHeight",
+        "value": 44
+      },
+      {
+        "token": "weighteasy-light::TypoDisplayLgWeight",
+        "value": 700
+      },
+      {
+        "token": "weighteasy-light::TypoDisplayLgLetterSpacing",
+        "value": -1
+      },
+      {
+        "token": "weighteasy-light::TypoDisplayMdSize",
+        "value": 30
+      },
+      {
+        "token": "weighteasy-light::TypoDisplayMdLineHeight",
+        "value": 38
+      },
+      {
+        "token": "weighteasy-light::TypoDisplayMdWeight",
+        "value": 700
+      },
+      {
+        "token": "weighteasy-light::TypoDisplayMdLetterSpacing",
+        "value": -1
+      },
+      {
+        "token": "weighteasy-light::TypoDisplaySmSize",
+        "value": 24
+      },
+      {
+        "token": "weighteasy-light::TypoDisplaySmLineHeight",
+        "value": 32
+      },
+      {
+        "token": "weighteasy-light::TypoDisplaySmWeight",
+        "value": 700
+      },
+      {
+        "token": "weighteasy-light::TypoDisplaySmLetterSpacing",
+        "value": -0.5
+      },
+      {
+        "token": "weighteasy-light::TypoDisplayXlSize",
+        "value": 48
+      },
+      {
+        "token": "weighteasy-light::TypoDisplayXlLineHeight",
+        "value": 52
+      },
+      {
+        "token": "weighteasy-light::TypoDisplayXlWeight",
+        "value": 700
+      },
+      {
+        "token": "weighteasy-light::TypoDisplayXlLetterSpacing",
+        "value": -1
+      },
+      {
+        "token": "weighteasy-light::TypoDisplay2xlSize",
+        "value": 84
+      },
+      {
+        "token": "weighteasy-light::TypoDisplay2xlLineHeight",
+        "value": 92
+      },
+      {
+        "token": "weighteasy-light::TypoDisplay2xlWeight",
+        "value": 700
+      },
+      {
+        "token": "weighteasy-light::TypoDisplay2xlLetterSpacing",
+        "value": -1
+      },
+      {
+        "token": "weighteasy-light::TypoHeadingLgSize",
+        "value": 22
+      },
+      {
+        "token": "weighteasy-light::TypoHeadingLgLineHeight",
+        "value": 26
+      },
+      {
+        "token": "weighteasy-light::TypoHeadingLgWeight",
+        "value": 700
+      },
+      {
+        "token": "weighteasy-light::TypoHeadingLgLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "weighteasy-light::TypoHeadingMdSize",
+        "value": 18
+      },
+      {
+        "token": "weighteasy-light::TypoHeadingMdLineHeight",
+        "value": 26
+      },
+      {
+        "token": "weighteasy-light::TypoHeadingMdWeight",
+        "value": 700
+      },
+      {
+        "token": "weighteasy-light::TypoHeadingMdLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "weighteasy-light::TypoHeadingSmSize",
+        "value": 16
+      },
+      {
+        "token": "weighteasy-light::TypoHeadingSmLineHeight",
+        "value": 24
+      },
+      {
+        "token": "weighteasy-light::TypoHeadingSmWeight",
+        "value": 700
+      },
+      {
+        "token": "weighteasy-light::TypoHeadingSmLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "weighteasy-light::TypoTitleLgSize",
+        "value": 20
+      },
+      {
+        "token": "weighteasy-light::TypoTitleLgLineHeight",
+        "value": 28
+      },
+      {
+        "token": "weighteasy-light::TypoTitleLgWeight",
+        "value": 600
+      },
+      {
+        "token": "weighteasy-light::TypoTitleLgLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "weighteasy-light::TypoTitleMdSize",
+        "value": 16
+      },
+      {
+        "token": "weighteasy-light::TypoTitleMdLineHeight",
+        "value": 24
+      },
+      {
+        "token": "weighteasy-light::TypoTitleMdWeight",
+        "value": 600
+      },
+      {
+        "token": "weighteasy-light::TypoTitleMdLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "weighteasy-light::TypoTitleSmSize",
+        "value": 14
+      },
+      {
+        "token": "weighteasy-light::TypoTitleSmLineHeight",
+        "value": 20
+      },
+      {
+        "token": "weighteasy-light::TypoTitleSmWeight",
+        "value": 600
+      },
+      {
+        "token": "weighteasy-light::TypoTitleSmLetterSpacing",
+        "value": 0.10000000149011612
+      },
+      {
+        "token": "weighteasy-light::TypoBodyLgSize",
+        "value": 16
+      },
+      {
+        "token": "weighteasy-light::TypoBodyLgLineHeight",
+        "value": 24
+      },
+      {
+        "token": "weighteasy-light::TypoBodyLgWeight",
+        "value": 400
+      },
+      {
+        "token": "weighteasy-light::TypoBodyLgLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "weighteasy-light::TypoBodyMdSize",
+        "value": 14
+      },
+      {
+        "token": "weighteasy-light::TypoBodyMdLineHeight",
+        "value": 20
+      },
+      {
+        "token": "weighteasy-light::TypoBodyMdWeight",
+        "value": 400
+      },
+      {
+        "token": "weighteasy-light::TypoBodyMdLetterSpacing",
+        "value": 0.15000000596046448
+      },
+      {
+        "token": "weighteasy-light::TypoBodySmSize",
+        "value": 12
+      },
+      {
+        "token": "weighteasy-light::TypoBodySmLineHeight",
+        "value": 16
+      },
+      {
+        "token": "weighteasy-light::TypoBodySmWeight",
+        "value": 400
+      },
+      {
+        "token": "weighteasy-light::TypoBodySmLetterSpacing",
+        "value": 0.25
+      },
+      {
+        "token": "weighteasy-light::TypoLabelLgSize",
+        "value": 14
+      },
+      {
+        "token": "weighteasy-light::TypoLabelLgLineHeight",
+        "value": 20
+      },
+      {
+        "token": "weighteasy-light::TypoLabelLgWeight",
+        "value": 500
+      },
+      {
+        "token": "weighteasy-light::TypoLabelLgLetterSpacing",
+        "value": -0.5
+      },
+      {
+        "token": "weighteasy-light::TypoLabelMdSize",
+        "value": 12
+      },
+      {
+        "token": "weighteasy-light::TypoLabelMdLineHeight",
+        "value": 16
+      },
+      {
+        "token": "weighteasy-light::TypoLabelMdWeight",
+        "value": 500
+      },
+      {
+        "token": "weighteasy-light::TypoLabelMdLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "weighteasy-light::TypoLabelSmSize",
+        "value": 11
+      },
+      {
+        "token": "weighteasy-light::TypoLabelSmLineHeight",
+        "value": 14
+      },
+      {
+        "token": "weighteasy-light::TypoLabelSmWeight",
+        "value": 500
+      },
+      {
+        "token": "weighteasy-light::TypoLabelSmLetterSpacing",
+        "value": -0.5
+      },
+      {
+        "token": "weighteasy-light::ColorNeutral50",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "weighteasy-light::ColorNeutral100",
+        "value": "#f2f5f9"
+      },
+      {
+        "token": "weighteasy-light::ColorNeutral200",
+        "value": "#dce1e8"
+      },
+      {
+        "token": "weighteasy-light::ColorNeutral300",
+        "value": "#bec5d2"
+      },
+      {
+        "token": "weighteasy-light::ColorNeutral400",
+        "value": "#9ea7b8"
+      },
+      {
+        "token": "weighteasy-light::ColorNeutral500",
+        "value": "#818ba0"
+      },
+      {
+        "token": "weighteasy-light::ColorNeutral600",
+        "value": "#5d6a85"
+      },
+      {
+        "token": "weighteasy-light::ColorNeutral700",
+        "value": "#3d4966"
+      },
+      {
+        "token": "weighteasy-light::ColorNeutral800",
+        "value": "#252e49"
+      },
+      {
+        "token": "weighteasy-light::ColorNeutral900",
+        "value": "#18203a"
+      },
+      {
+        "token": "weighteasy-light::ColorNeutral950",
+        "value": "#050914"
+      },
+      {
+        "token": "weighteasy-light::ColorBrand50",
+        "value": "#eff6ff"
+      },
+      {
+        "token": "weighteasy-light::ColorBrand100",
+        "value": "#dbeafe"
+      },
+      {
+        "token": "weighteasy-light::ColorBrand200",
+        "value": "#bfdbfe"
+      },
+      {
+        "token": "weighteasy-light::ColorBrand300",
+        "value": "#93c5fd"
+      },
+      {
+        "token": "weighteasy-light::ColorBrand400",
+        "value": "#60a5fa"
+      },
+      {
+        "token": "weighteasy-light::ColorBrand500",
+        "value": "#3b82f6"
+      },
+      {
+        "token": "weighteasy-light::ColorBrand600",
+        "value": "#2563eb"
+      },
+      {
+        "token": "weighteasy-light::ColorBrand700",
+        "value": "#1d4ed8"
+      },
+      {
+        "token": "weighteasy-light::ColorBrand800",
+        "value": "#1e40af"
+      },
+      {
+        "token": "weighteasy-light::ColorBrand900",
+        "value": "#1e3a8a"
+      },
+      {
+        "token": "weighteasy-light::ColorBrand950",
+        "value": "#172554"
+      },
+      {
+        "token": "weighteasy-light::ColorGreen50",
+        "value": "#f0fdf4"
+      },
+      {
+        "token": "weighteasy-light::ColorGreen100",
+        "value": "#dcfce7"
+      },
+      {
+        "token": "weighteasy-light::ColorGreen200",
+        "value": "#bbf7d0"
+      },
+      {
+        "token": "weighteasy-light::ColorGreen300",
+        "value": "#86efac"
+      },
+      {
+        "token": "weighteasy-light::ColorGreen400",
+        "value": "#4ade80"
+      },
+      {
+        "token": "weighteasy-light::ColorGreen500",
+        "value": "#22c55e"
+      },
+      {
+        "token": "weighteasy-light::ColorGreen600",
+        "value": "#16a34a"
+      },
+      {
+        "token": "weighteasy-light::ColorGreen700",
+        "value": "#15803d"
+      },
+      {
+        "token": "weighteasy-light::ColorGreen800",
+        "value": "#166534"
+      },
+      {
+        "token": "weighteasy-light::ColorGreen900",
+        "value": "#14532d"
+      },
+      {
+        "token": "weighteasy-light::ColorGreen950",
+        "value": "#052e16"
+      },
+      {
+        "token": "weighteasy-light::ColorRed50",
+        "value": "#fef2f2"
+      },
+      {
+        "token": "weighteasy-light::ColorRed100",
+        "value": "#fee2e2"
+      },
+      {
+        "token": "weighteasy-light::ColorRed200",
+        "value": "#fecaca"
+      },
+      {
+        "token": "weighteasy-light::ColorRed300",
+        "value": "#fca5a5"
+      },
+      {
+        "token": "weighteasy-light::ColorRed400",
+        "value": "#f87171"
+      },
+      {
+        "token": "weighteasy-light::ColorRed500",
+        "value": "#ef4444"
+      },
+      {
+        "token": "weighteasy-light::ColorRed600",
+        "value": "#dc2626"
+      },
+      {
+        "token": "weighteasy-light::ColorRed700",
+        "value": "#b91c1c"
+      },
+      {
+        "token": "weighteasy-light::ColorRed800",
+        "value": "#991b1b"
+      },
+      {
+        "token": "weighteasy-light::ColorRed900",
+        "value": "#7f1d1d"
+      },
+      {
+        "token": "weighteasy-light::ColorRed950",
+        "value": "#450a0a"
+      },
+      {
+        "token": "weighteasy-light::ColorAmber50",
+        "value": "#fffbeb"
+      },
+      {
+        "token": "weighteasy-light::ColorAmber100",
+        "value": "#fef3c7"
+      },
+      {
+        "token": "weighteasy-light::ColorAmber200",
+        "value": "#fde68a"
+      },
+      {
+        "token": "weighteasy-light::ColorAmber300",
+        "value": "#fcd34d"
+      },
+      {
+        "token": "weighteasy-light::ColorAmber400",
+        "value": "#fbbf24"
+      },
+      {
+        "token": "weighteasy-light::ColorAmber500",
+        "value": "#f59e0b"
+      },
+      {
+        "token": "weighteasy-light::ColorAmber600",
+        "value": "#d97706"
+      },
+      {
+        "token": "weighteasy-light::ColorAmber700",
+        "value": "#b45309"
+      },
+      {
+        "token": "weighteasy-light::ColorAmber800",
+        "value": "#92400e"
+      },
+      {
+        "token": "weighteasy-light::ColorAmber900",
+        "value": "#78350f"
+      },
+      {
+        "token": "weighteasy-light::ColorAmber950",
+        "value": "#451a03"
+      },
+      {
+        "token": "weighteasy-light::ColorTeal50",
+        "value": "#f0fdfa"
+      },
+      {
+        "token": "weighteasy-light::ColorTeal100",
+        "value": "#ccfbf1"
+      },
+      {
+        "token": "weighteasy-light::ColorTeal200",
+        "value": "#99f6e4"
+      },
+      {
+        "token": "weighteasy-light::ColorTeal300",
+        "value": "#5eead4"
+      },
+      {
+        "token": "weighteasy-light::ColorTeal400",
+        "value": "#2dd4bf"
+      },
+      {
+        "token": "weighteasy-light::ColorTeal500",
+        "value": "#14b8a6"
+      },
+      {
+        "token": "weighteasy-light::ColorTeal600",
+        "value": "#0d9488"
+      },
+      {
+        "token": "weighteasy-light::ColorTeal700",
+        "value": "#0f766e"
+      },
+      {
+        "token": "weighteasy-light::ColorTeal800",
+        "value": "#115e59"
+      },
+      {
+        "token": "weighteasy-light::ColorTeal900",
+        "value": "#134e4a"
+      },
+      {
+        "token": "weighteasy-light::ColorTeal950",
+        "value": "#042f2e"
+      },
+      {
+        "token": "weighteasy-light::ColorPurple50",
+        "value": "#f5f3ff"
+      },
+      {
+        "token": "weighteasy-light::ColorPurple100",
+        "value": "#ede9fe"
+      },
+      {
+        "token": "weighteasy-light::ColorPurple200",
+        "value": "#ddd6fe"
+      },
+      {
+        "token": "weighteasy-light::ColorPurple300",
+        "value": "#c4b5fd"
+      },
+      {
+        "token": "weighteasy-light::ColorPurple400",
+        "value": "#a78bfa"
+      },
+      {
+        "token": "weighteasy-light::ColorPurple500",
+        "value": "#8b5cf6"
+      },
+      {
+        "token": "weighteasy-light::ColorPurple600",
+        "value": "#7c3aed"
+      },
+      {
+        "token": "weighteasy-light::ColorPurple700",
+        "value": "#6d28d9"
+      },
+      {
+        "token": "weighteasy-light::ColorPurple800",
+        "value": "#5b21b6"
+      },
+      {
+        "token": "weighteasy-light::ColorPurple900",
+        "value": "#4c1d95"
+      },
+      {
+        "token": "weighteasy-light::ColorPurple950",
+        "value": "#2e1065"
+      },
+      {
+        "token": "weighteasy-light::ColorGradientHeaderStart",
+        "value": "#0d503c"
+      },
+      {
+        "token": "weighteasy-light::ColorGradientHeaderMid",
+        "value": "#0c3547"
+      },
+      {
+        "token": "weighteasy-light::ColorGradientHeaderEnd",
+        "value": "#0a1628"
+      },
+      {
+        "token": "weighteasy-light::ColorGradientHeaderAccent",
+        "value": "#10b981"
+      },
+      {
+        "token": "weighteasy-light::ColorGradientHeaderCyan",
+        "value": "#0891b2"
+      },
+      {
+        "token": "weighteasy-light::ColorOpacity5",
+        "value": "#0c0c0d0d"
+      },
+      {
+        "token": "weighteasy-light::ColorOpacity10",
+        "value": "#0c0c0d1a"
+      },
+      {
+        "token": "weighteasy-light::ColorOpacity20",
+        "value": "#0c0c0d33"
+      },
+      {
+        "token": "weighteasy-light::ColorOpacity50",
+        "value": "#0c0c0d80"
+      },
+      {
+        "token": "weighteasy-light::ColorOpacity75",
+        "value": "#0c0c0dbf"
+      },
+      {
+        "token": "weighteasy-light::SurfaceDefault",
+        "value": "#f2f5f9"
+      },
+      {
+        "token": "weighteasy-light::SurfaceContainer",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "weighteasy-light::SurfaceInverse",
+        "value": "#050914"
+      },
+      {
+        "token": "weighteasy-light::SurfaceOverlay",
+        "value": "#0c0c0dbf"
+      },
+      {
+        "token": "weighteasy-light::SurfaceTint",
+        "value": "#050914"
+      },
+      {
+        "token": "weighteasy-light::PrimaryDefault",
+        "value": "#2563eb"
+      },
+      {
+        "token": "weighteasy-light::PrimaryOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "weighteasy-light::PrimaryContainer",
+        "value": "#f2f5f9"
+      },
+      {
+        "token": "weighteasy-light::PrimaryOnContainer",
+        "value": "#18203a"
+      },
+      {
+        "token": "weighteasy-light::PrimaryHover",
+        "value": "#3d4966"
+      },
+      {
+        "token": "weighteasy-light::PrimaryPressed",
+        "value": "#18203a"
+      },
+      {
+        "token": "weighteasy-light::SecondaryDefault",
+        "value": "#00737d"
+      },
+      {
+        "token": "weighteasy-light::SecondaryOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "weighteasy-light::SecondaryContainer",
+        "value": "#ccfbf1"
+      },
+      {
+        "token": "weighteasy-light::SecondaryOnContainer",
+        "value": "#115e59"
+      },
+      {
+        "token": "weighteasy-light::SecondaryHover",
+        "value": "#0f766e"
+      },
+      {
+        "token": "weighteasy-light::SecondaryPressed",
+        "value": "#115e59"
+      },
+      {
+        "token": "weighteasy-light::TertiaryDefault",
+        "value": "#7c3aed"
+      },
+      {
+        "token": "weighteasy-light::TertiaryOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "weighteasy-light::TertiaryContainer",
+        "value": "#ede9fe"
+      },
+      {
+        "token": "weighteasy-light::TertiaryOnContainer",
+        "value": "#5b21b6"
+      },
+      {
+        "token": "weighteasy-light::TertiaryHover",
+        "value": "#6d28d9"
+      },
+      {
+        "token": "weighteasy-light::TertiaryPressed",
+        "value": "#5b21b6"
+      },
+      {
+        "token": "weighteasy-light::ContentPrimary",
+        "value": "#050914"
+      },
+      {
+        "token": "weighteasy-light::ContentSecondary",
+        "value": "#3d4966"
+      },
+      {
+        "token": "weighteasy-light::ContentTertiary",
+        "value": "#818ba0"
+      },
+      {
+        "token": "weighteasy-light::ContentDisabled",
+        "value": "#bec5d2"
+      },
+      {
+        "token": "weighteasy-light::ContentInverse",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "weighteasy-light::ContentLink",
+        "value": "#050914"
+      },
+      {
+        "token": "weighteasy-light::ContentOnPrimary",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "weighteasy-light::ContentOnSecondary",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "weighteasy-light::ContentOnTertiary",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "weighteasy-light::ContentOnSurface",
+        "value": "#18203a"
+      },
+      {
+        "token": "weighteasy-light::ContentOnInverse",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "weighteasy-light::ContentSelected",
+        "value": "#2563eb"
+      },
+      {
+        "token": "weighteasy-light::BorderDefault",
+        "value": "#dce1e8"
+      },
+      {
+        "token": "weighteasy-light::BorderStrong",
+        "value": "#bec5d2"
+      },
+      {
+        "token": "weighteasy-light::BorderSubtle",
+        "value": "#f2f5f9"
+      },
+      {
+        "token": "weighteasy-light::BorderBrand",
+        "value": "#818ba0"
+      },
+      {
+        "token": "weighteasy-light::BorderFocus",
+        "value": "#2563eb"
+      },
+      {
+        "token": "weighteasy-light::BorderDisabled",
+        "value": "#dce1e8"
+      },
+      {
+        "token": "weighteasy-light::BorderInteractive",
+        "value": "#9ea7b8"
+      },
+      {
+        "token": "weighteasy-light::BorderNone",
+        "value": 0
+      },
+      {
+        "token": "weighteasy-light::BorderThin",
+        "value": 1
+      },
+      {
+        "token": "weighteasy-light::BorderMedium",
+        "value": 1.5
+      },
+      {
+        "token": "weighteasy-light::BorderThick",
+        "value": 2
+      },
+      {
+        "token": "weighteasy-light::BorderHeavy",
+        "value": 4
+      },
+      {
+        "token": "weighteasy-light::BorderError",
+        "value": "#991b1b"
+      },
+      {
+        "token": "weighteasy-light::StatusSuccess",
+        "value": "#16a34a"
+      },
+      {
+        "token": "weighteasy-light::StatusSuccessOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "weighteasy-light::StatusSuccessContainer",
+        "value": "#dcfce7"
+      },
+      {
+        "token": "weighteasy-light::StatusSuccessOnContainer",
+        "value": "#166534"
+      },
+      {
+        "token": "weighteasy-light::StatusWarning",
+        "value": "#d97706"
+      },
+      {
+        "token": "weighteasy-light::StatusWarningOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "weighteasy-light::StatusWarningContainer",
+        "value": "#fffbeb"
+      },
+      {
+        "token": "weighteasy-light::StatusWarningOnContainer",
+        "value": "#78350f"
+      },
+      {
+        "token": "weighteasy-light::StatusError",
+        "value": "#dc2626"
+      },
+      {
+        "token": "weighteasy-light::StatusErrorOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "weighteasy-light::StatusErrorContainer",
+        "value": "#fef2f2"
+      },
+      {
+        "token": "weighteasy-light::StatusErrorOnContainer",
+        "value": "#7f1d1d"
+      },
+      {
+        "token": "weighteasy-light::StatusInfo",
+        "value": "#2563eb"
+      },
+      {
+        "token": "weighteasy-light::StatusInfoOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "weighteasy-light::StatusInfoContainer",
+        "value": "#eff6ff"
+      },
+      {
+        "token": "weighteasy-light::StatusInfoOnContainer",
+        "value": "#1e3a8a"
+      },
+      {
+        "token": "weighteasy-light::InteractionHover",
+        "value": "#f2f5f9"
+      },
+      {
+        "token": "weighteasy-light::InteractionPressed",
+        "value": "#bec5d2"
+      },
+      {
+        "token": "weighteasy-light::InteractionFocusRing",
+        "value": "#2563eb"
+      },
+      {
+        "token": "weighteasy-light::InteractionSelected",
+        "value": "#dbeafe"
+      },
+      {
+        "token": "weighteasy-light::InteractionSelectedSubtle",
+        "value": "#eff6ff"
+      },
+      {
+        "token": "weighteasy-light::InteractionDragged",
+        "value": "#dce1e8"
+      },
+      {
+        "token": "weighteasy-light::FixedWhite",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "weighteasy-light::FixedBlack",
+        "value": "#050914"
+      },
+      {
+        "token": "weighteasy-light::FixedDimOverlay",
+        "value": "#0c0c0dbf"
+      },
+      {
+        "token": "weighteasy-light::Space0",
+        "value": 0
+      },
+      {
+        "token": "weighteasy-light::Space2",
+        "value": 2
+      },
+      {
+        "token": "weighteasy-light::Space4",
+        "value": 4
+      },
+      {
+        "token": "weighteasy-light::Space8",
+        "value": 8
+      },
+      {
+        "token": "weighteasy-light::Space12",
+        "value": 12
+      },
+      {
+        "token": "weighteasy-light::Space16",
+        "value": 16
+      },
+      {
+        "token": "weighteasy-light::Space20",
+        "value": 20
+      },
+      {
+        "token": "weighteasy-light::Space24",
+        "value": 24
+      },
+      {
+        "token": "weighteasy-light::Space28",
+        "value": 28
+      },
+      {
+        "token": "weighteasy-light::Space32",
+        "value": 32
+      },
+      {
+        "token": "weighteasy-light::Space36",
+        "value": 36
+      },
+      {
+        "token": "weighteasy-light::Space40",
+        "value": 40
+      },
+      {
+        "token": "weighteasy-light::Space44",
+        "value": 44
+      },
+      {
+        "token": "weighteasy-light::Space48",
+        "value": 48
+      },
+      {
+        "token": "weighteasy-light::Space56",
+        "value": 56
+      },
+      {
+        "token": "weighteasy-light::Space64",
+        "value": 64
+      },
+      {
+        "token": "weighteasy-light::Space80",
+        "value": 80
+      },
+      {
+        "token": "weighteasy-light::Space96",
+        "value": 96
+      },
+      {
+        "token": "weighteasy-light::Space112",
+        "value": 112
+      },
+      {
+        "token": "weighteasy-light::Space128",
+        "value": 128
+      },
+      {
+        "token": "weighteasy-light::Space160",
+        "value": 160
+      },
+      {
+        "token": "weighteasy-light::Space192",
+        "value": 192
+      },
+      {
+        "token": "weighteasy-light::Space256",
+        "value": 256
+      },
+      {
+        "token": "weighteasy-light::RadiusNone",
+        "value": 0
+      },
+      {
+        "token": "weighteasy-light::RadiusXs",
+        "value": 2
+      },
+      {
+        "token": "weighteasy-light::RadiusSm",
+        "value": 4
+      },
+      {
+        "token": "weighteasy-light::RadiusMd",
+        "value": 8
+      },
+      {
+        "token": "weighteasy-light::RadiusLg",
+        "value": 12
+      },
+      {
+        "token": "weighteasy-light::RadiusXl",
+        "value": 16
+      },
+      {
+        "token": "weighteasy-light::Radius2xl",
+        "value": 20
+      },
+      {
+        "token": "weighteasy-light::Radius3xl",
+        "value": 24
+      },
+      {
+        "token": "weighteasy-light::Radius4xl",
+        "value": 28
+      },
+      {
+        "token": "weighteasy-light::RadiusFull",
+        "value": 9999
+      },
+      {
+        "token": "weighteasy-light::SizeIconXs",
+        "value": 12
+      },
+      {
+        "token": "weighteasy-light::SizeIconSm",
+        "value": 16
+      },
+      {
+        "token": "weighteasy-light::SizeIconMd",
+        "value": 20
+      },
+      {
+        "token": "weighteasy-light::SizeIconLg",
+        "value": 24
+      },
+      {
+        "token": "weighteasy-light::SizeIconXl",
+        "value": 32
+      },
+      {
+        "token": "weighteasy-light::SizeIcon2xl",
+        "value": 40
+      },
+      {
+        "token": "weighteasy-light::SizeAvatarXs",
+        "value": 24
+      },
+      {
+        "token": "weighteasy-light::SizeAvatarSm",
+        "value": 32
+      },
+      {
+        "token": "weighteasy-light::SizeAvatarMd",
+        "value": 40
+      },
+      {
+        "token": "weighteasy-light::SizeAvatarLg",
+        "value": 48
+      },
+      {
+        "token": "weighteasy-light::SizeAvatarXl",
+        "value": 64
+      },
+      {
+        "token": "weighteasy-light::SizeAvatar2xl",
+        "value": 80
+      },
+      {
+        "token": "weighteasy-light::SizeTouchTarget",
+        "value": 48
+      },
+      {
+        "token": "weighteasy-light::SizeButtonSm",
+        "value": 32
+      },
+      {
+        "token": "weighteasy-light::SizeButtonMd",
+        "value": 40
+      },
+      {
+        "token": "weighteasy-light::SizeButtonLg",
+        "value": 48
+      },
+      {
+        "token": "weighteasy-light::SizeInputSm",
+        "value": 36
+      },
+      {
+        "token": "weighteasy-light::SizeInputMd",
+        "value": 44
+      },
+      {
+        "token": "weighteasy-light::SizeInputLg",
+        "value": 52
+      },
+      {
+        "token": "weighteasy-light::Opacity0",
+        "value": 0
+      },
+      {
+        "token": "weighteasy-light::Opacity5",
+        "value": 0.05000000074505806
+      },
+      {
+        "token": "weighteasy-light::Opacity10",
+        "value": 0.10000000149011612
+      },
+      {
+        "token": "weighteasy-light::Opacity15",
+        "value": 0.15000000596046448
+      },
+      {
+        "token": "weighteasy-light::Opacity20",
+        "value": 0.20000000298023224
+      },
+      {
+        "token": "weighteasy-light::Opacity30",
+        "value": 0.30000001192092896
+      },
+      {
+        "token": "weighteasy-light::Opacity40",
+        "value": 0.4000000059604645
+      },
+      {
+        "token": "weighteasy-light::Opacity50",
+        "value": 0.5
+      },
+      {
+        "token": "weighteasy-light::Opacity60",
+        "value": 0.6000000238418579
+      },
+      {
+        "token": "weighteasy-light::Opacity70",
+        "value": 0.699999988079071
+      },
+      {
+        "token": "weighteasy-light::Opacity80",
+        "value": 0.800000011920929
+      },
+      {
+        "token": "weighteasy-light::Opacity90",
+        "value": 0.8999999761581421
+      },
+      {
+        "token": "weighteasy-light::Opacity100",
+        "value": 1
+      },
+      {
+        "token": "weighteasy-light::ElevationNoneOffsetY",
+        "value": 0
+      },
+      {
+        "token": "weighteasy-light::ElevationNoneBlur",
+        "value": 0
+      },
+      {
+        "token": "weighteasy-light::ElevationNoneSpreadRadius",
+        "value": 0
+      },
+      {
+        "token": "weighteasy-light::ElevationNoneShadowOpacity",
+        "value": 0
+      },
+      {
+        "token": "weighteasy-light::ElevationNoneAndroid",
+        "value": 0
+      },
+      {
+        "token": "weighteasy-light::ElevationXsOffsetY",
+        "value": 1
+      },
+      {
+        "token": "weighteasy-light::ElevationXsBlur",
+        "value": 2
+      },
+      {
+        "token": "weighteasy-light::ElevationXsSpreadRadius",
+        "value": 0
+      },
+      {
+        "token": "weighteasy-light::ElevationXsShadowOpacity",
+        "value": 0.05000000074505806
+      },
+      {
+        "token": "weighteasy-light::ElevationXsAndroid",
+        "value": 1
+      },
+      {
+        "token": "weighteasy-light::ElevationSmOffsetY",
+        "value": 2
+      },
+      {
+        "token": "weighteasy-light::ElevationSmBlur",
+        "value": 4
+      },
+      {
+        "token": "weighteasy-light::ElevationSmSpreadRadius",
+        "value": -1
+      },
+      {
+        "token": "weighteasy-light::ElevationSmShadowOpacity",
+        "value": 0.07999999821186066
+      },
+      {
+        "token": "weighteasy-light::ElevationSmAndroid",
+        "value": 2
+      },
+      {
+        "token": "weighteasy-light::ElevationMdOffsetY",
+        "value": 4
+      },
+      {
+        "token": "weighteasy-light::ElevationMdBlur",
+        "value": 8
+      },
+      {
+        "token": "weighteasy-light::ElevationMdSpreadRadius",
+        "value": -2
+      },
+      {
+        "token": "weighteasy-light::ElevationMdShadowOpacity",
+        "value": 0.11999999731779099
+      },
+      {
+        "token": "weighteasy-light::ElevationMdAndroid",
+        "value": 4
+      },
+      {
+        "token": "weighteasy-light::ElevationLgOffsetY",
+        "value": 8
+      },
+      {
+        "token": "weighteasy-light::ElevationLgBlur",
+        "value": 16
+      },
+      {
+        "token": "weighteasy-light::ElevationLgSpreadRadius",
+        "value": -4
+      },
+      {
+        "token": "weighteasy-light::ElevationLgShadowOpacity",
+        "value": 0.1599999964237213
+      },
+      {
+        "token": "weighteasy-light::ElevationLgAndroid",
+        "value": 8
+      },
+      {
+        "token": "weighteasy-light::ElevationXlOffsetY",
+        "value": 16
+      },
+      {
+        "token": "weighteasy-light::ElevationXlBlur",
+        "value": 32
+      },
+      {
+        "token": "weighteasy-light::ElevationXlSpreadRadius",
+        "value": -8
+      },
+      {
+        "token": "weighteasy-light::ElevationXlShadowOpacity",
+        "value": 0.20000000298023224
+      },
+      {
+        "token": "weighteasy-light::ElevationXlAndroid",
+        "value": 16
+      },
+      {
+        "token": "weighteasy-light::ElevationDepth0",
+        "value": 0
+      },
+      {
+        "token": "weighteasy-light::ElevationDepth1",
+        "value": -1
+      },
+      {
+        "token": "weighteasy-light::ElevationDepth4",
+        "value": -4
+      },
+      {
+        "token": "weighteasy-light::ElevationDepth16",
+        "value": 16
+      },
+      {
+        "token": "weighteasy-light::ElevationDepth8",
+        "value": -8
+      },
+      {
+        "token": "weighteasy-light::ZIndexBase",
+        "value": 0
+      },
+      {
+        "token": "weighteasy-light::ZIndexRaised",
+        "value": 1
+      },
+      {
+        "token": "weighteasy-light::ZIndexDropdown",
+        "value": 10
+      },
+      {
+        "token": "weighteasy-light::ZIndexSticky",
+        "value": 20
+      },
+      {
+        "token": "weighteasy-light::ZIndexBanner",
+        "value": 30
+      },
+      {
+        "token": "weighteasy-light::ZIndexOverlay",
+        "value": 40
+      },
+      {
+        "token": "weighteasy-light::ZIndexModal",
+        "value": 50
+      },
+      {
+        "token": "weighteasy-light::ZIndexBottomSheet",
+        "value": 60
+      },
+      {
+        "token": "weighteasy-light::ZIndexFab",
+        "value": 70
+      },
+      {
+        "token": "weighteasy-light::ZIndexToast",
+        "value": 80
+      },
+      {
+        "token": "weighteasy-light::ZIndexTooltip",
+        "value": 90
+      },
+      {
+        "token": "weighteasy-light::ZIndexMax",
+        "value": 999
+      },
+      {
+        "token": "weighteasy-light::MotionDurationInstant",
+        "value": 0
+      },
+      {
+        "token": "weighteasy-light::MotionDurationFastest",
+        "value": 50
+      },
+      {
+        "token": "weighteasy-light::MotionDurationFast",
+        "value": 100
+      },
+      {
+        "token": "weighteasy-light::MotionDurationNormal",
+        "value": 200
+      },
+      {
+        "token": "weighteasy-light::MotionDurationModerate",
+        "value": 300
+      },
+      {
+        "token": "weighteasy-light::MotionDurationSlow",
+        "value": 400
+      },
+      {
+        "token": "weighteasy-light::MotionDurationSlower",
+        "value": 500
+      },
+      {
+        "token": "weighteasy-light::MotionDurationSlowest",
+        "value": 800
+      },
+      {
+        "token": "weighteasy-light::MotionDelayNone",
+        "value": 0
+      },
+      {
+        "token": "weighteasy-light::MotionDelayShort",
+        "value": 100
+      },
+      {
+        "token": "weighteasy-light::MotionDelayMedium",
+        "value": 200
+      },
+      {
+        "token": "weighteasy-light::MotionDelayLong",
+        "value": 400
+      },
+      {
+        "token": "weighteasy-light::MotionScalePressed",
+        "value": 0.9700000286102295
+      },
+      {
+        "token": "weighteasy-light::MotionScaleCardPressed",
+        "value": 0.9800000190734863
+      },
+      {
+        "token": "weighteasy-light::MotionScaleBounceIn",
+        "value": 1.0499999523162842
+      },
+      {
+        "token": "weighteasy-light::MotionScaleNone",
+        "value": 1
+      },
+      {
+        "token": "weighteasy-light::MotionOpacityPressed",
+        "value": 0.699999988079071
+      },
+      {
+        "token": "weighteasy-light::MotionOpacityDisabled",
+        "value": 0.4000000059604645
+      },
+      {
+        "token": "weighteasy-light::MotionOpacityHidden",
+        "value": 0
+      },
+      {
+        "token": "weighteasy-light::MotionOpacityVisible",
+        "value": 1
+      },
+      {
+        "token": "weighteasy-light::MotionSpringDampingStiff",
+        "value": 20
+      },
+      {
+        "token": "weighteasy-light::MotionSpringDampingDefault",
+        "value": 15
+      },
+      {
+        "token": "weighteasy-light::MotionSpringDampingGentle",
+        "value": 10
+      },
+      {
+        "token": "weighteasy-light::MotionSpringDampingBouncy",
+        "value": 8
+      },
+      {
+        "token": "weighteasy-light::MotionSpringStiffnessStiff",
+        "value": 300
+      },
+      {
+        "token": "weighteasy-light::MotionSpringStiffnessDefault",
+        "value": 180
+      },
+      {
+        "token": "weighteasy-light::MotionSpringStiffnessGentle",
+        "value": 120
+      },
+      {
+        "token": "weighteasy-light::MotionSpringStiffnessBouncy",
+        "value": 200
+      },
+      {
+        "token": "weighteasy-light::MotionSpringMassLight",
+        "value": 0.800000011920929
+      },
+      {
+        "token": "weighteasy-light::MotionSpringMassDefault",
+        "value": 1
+      },
+      {
+        "token": "weighteasy-light::MotionSpringMassHeavy",
+        "value": 1.2000000476837158
+      },
+      {
+        "token": "weighteasy-light::IconTertiary",
+        "value": "#818ba0"
+      },
+      {
+        "token": "weighteasy-light::IconPrimary",
+        "value": "#050914"
+      },
+      {
+        "token": "weighteasy-light::IconSecondary",
+        "value": "#3d4966"
+      },
+      {
+        "token": "typo.tablet::FontSize10",
+        "value": 10
+      },
+      {
+        "token": "typo.tablet::FontSize11",
+        "value": 11
+      },
+      {
+        "token": "typo.tablet::FontSize12",
+        "value": 12
+      },
+      {
+        "token": "typo.tablet::FontSize14",
+        "value": 14
+      },
+      {
+        "token": "typo.tablet::FontSize16",
+        "value": 16
+      },
+      {
+        "token": "typo.tablet::FontSize18",
+        "value": 18
+      },
+      {
+        "token": "typo.tablet::FontSize20",
+        "value": 20
+      },
+      {
+        "token": "typo.tablet::FontSize22",
+        "value": 22
+      },
+      {
+        "token": "typo.tablet::FontSize24",
+        "value": 24
+      },
+      {
+        "token": "typo.tablet::FontSize26",
+        "value": 26
+      },
+      {
+        "token": "typo.tablet::FontSize28",
+        "value": 28
+      },
+      {
+        "token": "typo.tablet::FontSize30",
+        "value": 30
+      },
+      {
+        "token": "typo.tablet::FontSize32",
+        "value": 32
+      },
+      {
+        "token": "typo.tablet::FontSize36",
+        "value": 36
+      },
+      {
+        "token": "typo.tablet::FontSize40",
+        "value": 40
+      },
+      {
+        "token": "typo.tablet::FontSize48",
+        "value": 48
+      },
+      {
+        "token": "typo.tablet::FontSize56",
+        "value": 56
+      },
+      {
+        "token": "typo.tablet::FontSize84",
+        "value": 84
+      },
+      {
+        "token": "typo.tablet::FontSize96",
+        "value": 96
+      },
+      {
+        "token": "typo.tablet::FontLineHeight14",
+        "value": 14
+      },
+      {
+        "token": "typo.tablet::FontLineHeight16",
+        "value": 16
+      },
+      {
+        "token": "typo.tablet::FontLineHeight20",
+        "value": 20
+      },
+      {
+        "token": "typo.tablet::FontLineHeight24",
+        "value": 24
+      },
+      {
+        "token": "typo.tablet::FontLineHeight26",
+        "value": 26
+      },
+      {
+        "token": "typo.tablet::FontLineHeight28",
+        "value": 28
+      },
+      {
+        "token": "typo.tablet::FontLineHeight32",
+        "value": 32
+      },
+      {
+        "token": "typo.tablet::FontLineHeight34",
+        "value": 34
+      },
+      {
+        "token": "typo.tablet::FontLineHeight36",
+        "value": 36
+      },
+      {
+        "token": "typo.tablet::FontLineHeight38",
+        "value": 38
+      },
+      {
+        "token": "typo.tablet::FontLineHeight40",
+        "value": 40
+      },
+      {
+        "token": "typo.tablet::FontLineHeight44",
+        "value": 44
+      },
+      {
+        "token": "typo.tablet::FontLineHeight52",
+        "value": 52
+      },
+      {
+        "token": "typo.tablet::FontLineHeight64",
+        "value": 64
+      },
+      {
+        "token": "typo.tablet::FontLineHeight92",
+        "value": 92
+      },
+      {
+        "token": "typo.tablet::FontLineHeight100",
+        "value": 100
+      },
+      {
+        "token": "typo.tablet::FontWeightRegular",
+        "value": 400
+      },
+      {
+        "token": "typo.tablet::FontWeightMedium",
+        "value": 500
+      },
+      {
+        "token": "typo.tablet::FontWeightSemibold",
+        "value": 600
+      },
+      {
+        "token": "typo.tablet::FontWeightBold",
+        "value": 700
+      },
+      {
+        "token": "typo.tablet::FontLetterSpacingTight",
+        "value": -1
+      },
+      {
+        "token": "typo.tablet::FontLetterSpacingSlightlyTight",
+        "value": -0.5
+      },
+      {
+        "token": "typo.tablet::FontLetterSpacingNormal",
+        "value": 0
+      },
+      {
+        "token": "typo.tablet::FontLetterSpacingSlight",
+        "value": 0.10000000149011612
+      },
+      {
+        "token": "typo.tablet::FontLetterSpacingWide",
+        "value": 0.15000000596046448
+      },
+      {
+        "token": "typo.tablet::FontLetterSpacingWider",
+        "value": 0.25
+      },
+      {
+        "token": "typo.tablet::FontLetterSpacingWidest",
+        "value": 0.5
+      },
+      {
+        "token": "typo.tablet::FontLetterSpacingTighter",
+        "value": -1.5
+      },
+      {
+        "token": "typo.tablet::TypoDisplayLgSize",
+        "value": 48
+      },
+      {
+        "token": "typo.tablet::TypoDisplayLgLineHeight",
+        "value": 52
+      },
+      {
+        "token": "typo.tablet::TypoDisplayLgWeight",
+        "value": 700
+      },
+      {
+        "token": "typo.tablet::TypoDisplayLgLetterSpacing",
+        "value": -1
+      },
+      {
+        "token": "typo.tablet::TypoDisplayMdSize",
+        "value": 40
+      },
+      {
+        "token": "typo.tablet::TypoDisplayMdLineHeight",
+        "value": 44
+      },
+      {
+        "token": "typo.tablet::TypoDisplayMdWeight",
+        "value": 700
+      },
+      {
+        "token": "typo.tablet::TypoDisplayMdLetterSpacing",
+        "value": -1
+      },
+      {
+        "token": "typo.tablet::TypoDisplaySmSize",
+        "value": 30
+      },
+      {
+        "token": "typo.tablet::TypoDisplaySmLineHeight",
+        "value": 38
+      },
+      {
+        "token": "typo.tablet::TypoDisplaySmWeight",
+        "value": 700
+      },
+      {
+        "token": "typo.tablet::TypoDisplaySmLetterSpacing",
+        "value": -0.5
+      },
+      {
+        "token": "typo.tablet::TypoDisplayXlSize",
+        "value": 56
+      },
+      {
+        "token": "typo.tablet::TypoDisplayXlLineHeight",
+        "value": 64
+      },
+      {
+        "token": "typo.tablet::TypoDisplayXlWeight",
+        "value": 700
+      },
+      {
+        "token": "typo.tablet::TypoDisplayXlLetterSpacing",
+        "value": -1
+      },
+      {
+        "token": "typo.tablet::TypoDisplay2xlSize",
+        "value": 96
+      },
+      {
+        "token": "typo.tablet::TypoDisplay2xlLineHeight",
+        "value": 100
+      },
+      {
+        "token": "typo.tablet::TypoDisplay2xlWeight",
+        "value": 700
+      },
+      {
+        "token": "typo.tablet::TypoDisplay2xlLetterSpacing",
+        "value": -1
+      },
+      {
+        "token": "typo.tablet::TypoHeadingLgSize",
+        "value": 26
+      },
+      {
+        "token": "typo.tablet::TypoHeadingLgLineHeight",
+        "value": 34
+      },
+      {
+        "token": "typo.tablet::TypoHeadingLgWeight",
+        "value": 700
+      },
+      {
+        "token": "typo.tablet::TypoHeadingLgLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "typo.tablet::TypoHeadingMdSize",
+        "value": 22
+      },
+      {
+        "token": "typo.tablet::TypoHeadingMdLineHeight",
+        "value": 28
+      },
+      {
+        "token": "typo.tablet::TypoHeadingMdWeight",
+        "value": 700
+      },
+      {
+        "token": "typo.tablet::TypoHeadingMdLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "typo.tablet::TypoHeadingSmSize",
+        "value": 18
+      },
+      {
+        "token": "typo.tablet::TypoHeadingSmLineHeight",
+        "value": 26
+      },
+      {
+        "token": "typo.tablet::TypoHeadingSmWeight",
+        "value": 700
+      },
+      {
+        "token": "typo.tablet::TypoHeadingSmLetterSpacing",
+        "value": 0.15000000596046448
+      },
+      {
+        "token": "typo.tablet::TypoTitleLgSize",
+        "value": 20
+      },
+      {
+        "token": "typo.tablet::TypoTitleLgLineHeight",
+        "value": 28
+      },
+      {
+        "token": "typo.tablet::TypoTitleLgWeight",
+        "value": 600
+      },
+      {
+        "token": "typo.tablet::TypoTitleLgLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "typo.tablet::TypoTitleMdSize",
+        "value": 16
+      },
+      {
+        "token": "typo.tablet::TypoTitleMdLineHeight",
+        "value": 24
+      },
+      {
+        "token": "typo.tablet::TypoTitleMdWeight",
+        "value": 600
+      },
+      {
+        "token": "typo.tablet::TypoTitleMdLetterSpacing",
+        "value": 0.15000000596046448
+      },
+      {
+        "token": "typo.tablet::TypoTitleSmSize",
+        "value": 14
+      },
+      {
+        "token": "typo.tablet::TypoTitleSmLineHeight",
+        "value": 20
+      },
+      {
+        "token": "typo.tablet::TypoTitleSmWeight",
+        "value": 600
+      },
+      {
+        "token": "typo.tablet::TypoTitleSmLetterSpacing",
+        "value": 0.10000000149011612
+      },
+      {
+        "token": "typo.tablet::TypoBodyLgSize",
+        "value": 16
+      },
+      {
+        "token": "typo.tablet::TypoBodyLgLineHeight",
+        "value": 24
+      },
+      {
+        "token": "typo.tablet::TypoBodyLgWeight",
+        "value": 400
+      },
+      {
+        "token": "typo.tablet::TypoBodyLgLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "typo.tablet::TypoBodyMdSize",
+        "value": 14
+      },
+      {
+        "token": "typo.tablet::TypoBodyMdLineHeight",
+        "value": 20
+      },
+      {
+        "token": "typo.tablet::TypoBodyMdWeight",
+        "value": 400
+      },
+      {
+        "token": "typo.tablet::TypoBodyMdLetterSpacing",
+        "value": 0.15000000596046448
+      },
+      {
+        "token": "typo.tablet::TypoBodySmSize",
+        "value": 12
+      },
+      {
+        "token": "typo.tablet::TypoBodySmLineHeight",
+        "value": 16
+      },
+      {
+        "token": "typo.tablet::TypoBodySmWeight",
+        "value": 400
+      },
+      {
+        "token": "typo.tablet::TypoBodySmLetterSpacing",
+        "value": 0.25
+      },
+      {
+        "token": "typo.tablet::TypoLabelLgSize",
+        "value": 14
+      },
+      {
+        "token": "typo.tablet::TypoLabelLgLineHeight",
+        "value": 20
+      },
+      {
+        "token": "typo.tablet::TypoLabelLgWeight",
+        "value": 500
+      },
+      {
+        "token": "typo.tablet::TypoLabelLgLetterSpacing",
+        "value": 0.10000000149011612
+      },
+      {
+        "token": "typo.tablet::TypoLabelMdSize",
+        "value": 12
+      },
+      {
+        "token": "typo.tablet::TypoLabelMdLineHeight",
+        "value": 16
+      },
+      {
+        "token": "typo.tablet::TypoLabelMdWeight",
+        "value": 500
+      },
+      {
+        "token": "typo.tablet::TypoLabelMdLetterSpacing",
+        "value": 0.5
+      },
+      {
+        "token": "typo.tablet::TypoLabelSmSize",
+        "value": 11
+      },
+      {
+        "token": "typo.tablet::TypoLabelSmLineHeight",
+        "value": 16
+      },
+      {
+        "token": "typo.tablet::TypoLabelSmWeight",
+        "value": 500
+      },
+      {
+        "token": "typo.tablet::TypoLabelSmLetterSpacing",
+        "value": 0.5
+      },
+      {
+        "token": "typo.tablet::ColorNeutral50",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.tablet::ColorNeutral100",
+        "value": "#f2f5f9"
+      },
+      {
+        "token": "typo.tablet::ColorNeutral200",
+        "value": "#dce1e8"
+      },
+      {
+        "token": "typo.tablet::ColorNeutral300",
+        "value": "#bec5d2"
+      },
+      {
+        "token": "typo.tablet::ColorNeutral400",
+        "value": "#9ea7b8"
+      },
+      {
+        "token": "typo.tablet::ColorNeutral500",
+        "value": "#818ba0"
+      },
+      {
+        "token": "typo.tablet::ColorNeutral600",
+        "value": "#5d6a85"
+      },
+      {
+        "token": "typo.tablet::ColorNeutral700",
+        "value": "#3d4966"
+      },
+      {
+        "token": "typo.tablet::ColorNeutral800",
+        "value": "#252e49"
+      },
+      {
+        "token": "typo.tablet::ColorNeutral900",
+        "value": "#18203a"
+      },
+      {
+        "token": "typo.tablet::ColorNeutral950",
+        "value": "#050914"
+      },
+      {
+        "token": "typo.tablet::ColorBrand50",
+        "value": "#eff6ff"
+      },
+      {
+        "token": "typo.tablet::ColorBrand100",
+        "value": "#dbeafe"
+      },
+      {
+        "token": "typo.tablet::ColorBrand200",
+        "value": "#bfdbfe"
+      },
+      {
+        "token": "typo.tablet::ColorBrand300",
+        "value": "#93c5fd"
+      },
+      {
+        "token": "typo.tablet::ColorBrand400",
+        "value": "#60a5fa"
+      },
+      {
+        "token": "typo.tablet::ColorBrand500",
+        "value": "#3b82f6"
+      },
+      {
+        "token": "typo.tablet::ColorBrand600",
+        "value": "#2563eb"
+      },
+      {
+        "token": "typo.tablet::ColorBrand700",
+        "value": "#1d4ed8"
+      },
+      {
+        "token": "typo.tablet::ColorBrand800",
+        "value": "#1e40af"
+      },
+      {
+        "token": "typo.tablet::ColorBrand900",
+        "value": "#1e3a8a"
+      },
+      {
+        "token": "typo.tablet::ColorBrand950",
+        "value": "#172554"
+      },
+      {
+        "token": "typo.tablet::ColorGreen50",
+        "value": "#f0fdf4"
+      },
+      {
+        "token": "typo.tablet::ColorGreen100",
+        "value": "#dcfce7"
+      },
+      {
+        "token": "typo.tablet::ColorGreen200",
+        "value": "#bbf7d0"
+      },
+      {
+        "token": "typo.tablet::ColorGreen300",
+        "value": "#86efac"
+      },
+      {
+        "token": "typo.tablet::ColorGreen400",
+        "value": "#4ade80"
+      },
+      {
+        "token": "typo.tablet::ColorGreen500",
+        "value": "#22c55e"
+      },
+      {
+        "token": "typo.tablet::ColorGreen600",
+        "value": "#16a34a"
+      },
+      {
+        "token": "typo.tablet::ColorGreen700",
+        "value": "#15803d"
+      },
+      {
+        "token": "typo.tablet::ColorGreen800",
+        "value": "#166534"
+      },
+      {
+        "token": "typo.tablet::ColorGreen900",
+        "value": "#14532d"
+      },
+      {
+        "token": "typo.tablet::ColorGreen950",
+        "value": "#052e16"
+      },
+      {
+        "token": "typo.tablet::ColorRed50",
+        "value": "#fef2f2"
+      },
+      {
+        "token": "typo.tablet::ColorRed100",
+        "value": "#fee2e2"
+      },
+      {
+        "token": "typo.tablet::ColorRed200",
+        "value": "#fecaca"
+      },
+      {
+        "token": "typo.tablet::ColorRed300",
+        "value": "#fca5a5"
+      },
+      {
+        "token": "typo.tablet::ColorRed400",
+        "value": "#f87171"
+      },
+      {
+        "token": "typo.tablet::ColorRed500",
+        "value": "#ef4444"
+      },
+      {
+        "token": "typo.tablet::ColorRed600",
+        "value": "#dc2626"
+      },
+      {
+        "token": "typo.tablet::ColorRed700",
+        "value": "#b91c1c"
+      },
+      {
+        "token": "typo.tablet::ColorRed800",
+        "value": "#991b1b"
+      },
+      {
+        "token": "typo.tablet::ColorRed900",
+        "value": "#7f1d1d"
+      },
+      {
+        "token": "typo.tablet::ColorRed950",
+        "value": "#450a0a"
+      },
+      {
+        "token": "typo.tablet::ColorAmber50",
+        "value": "#fffbeb"
+      },
+      {
+        "token": "typo.tablet::ColorAmber100",
+        "value": "#fef3c7"
+      },
+      {
+        "token": "typo.tablet::ColorAmber200",
+        "value": "#fde68a"
+      },
+      {
+        "token": "typo.tablet::ColorAmber300",
+        "value": "#fcd34d"
+      },
+      {
+        "token": "typo.tablet::ColorAmber400",
+        "value": "#fbbf24"
+      },
+      {
+        "token": "typo.tablet::ColorAmber500",
+        "value": "#f59e0b"
+      },
+      {
+        "token": "typo.tablet::ColorAmber600",
+        "value": "#d97706"
+      },
+      {
+        "token": "typo.tablet::ColorAmber700",
+        "value": "#b45309"
+      },
+      {
+        "token": "typo.tablet::ColorAmber800",
+        "value": "#92400e"
+      },
+      {
+        "token": "typo.tablet::ColorAmber900",
+        "value": "#78350f"
+      },
+      {
+        "token": "typo.tablet::ColorAmber950",
+        "value": "#451a03"
+      },
+      {
+        "token": "typo.tablet::ColorTeal50",
+        "value": "#f0fdfa"
+      },
+      {
+        "token": "typo.tablet::ColorTeal100",
+        "value": "#ccfbf1"
+      },
+      {
+        "token": "typo.tablet::ColorTeal200",
+        "value": "#99f6e4"
+      },
+      {
+        "token": "typo.tablet::ColorTeal300",
+        "value": "#5eead4"
+      },
+      {
+        "token": "typo.tablet::ColorTeal400",
+        "value": "#2dd4bf"
+      },
+      {
+        "token": "typo.tablet::ColorTeal500",
+        "value": "#14b8a6"
+      },
+      {
+        "token": "typo.tablet::ColorTeal600",
+        "value": "#0d9488"
+      },
+      {
+        "token": "typo.tablet::ColorTeal700",
+        "value": "#0f766e"
+      },
+      {
+        "token": "typo.tablet::ColorTeal800",
+        "value": "#115e59"
+      },
+      {
+        "token": "typo.tablet::ColorTeal900",
+        "value": "#134e4a"
+      },
+      {
+        "token": "typo.tablet::ColorTeal950",
+        "value": "#042f2e"
+      },
+      {
+        "token": "typo.tablet::ColorPurple50",
+        "value": "#f5f3ff"
+      },
+      {
+        "token": "typo.tablet::ColorPurple100",
+        "value": "#ede9fe"
+      },
+      {
+        "token": "typo.tablet::ColorPurple200",
+        "value": "#ddd6fe"
+      },
+      {
+        "token": "typo.tablet::ColorPurple300",
+        "value": "#c4b5fd"
+      },
+      {
+        "token": "typo.tablet::ColorPurple400",
+        "value": "#a78bfa"
+      },
+      {
+        "token": "typo.tablet::ColorPurple500",
+        "value": "#8b5cf6"
+      },
+      {
+        "token": "typo.tablet::ColorPurple600",
+        "value": "#7c3aed"
+      },
+      {
+        "token": "typo.tablet::ColorPurple700",
+        "value": "#6d28d9"
+      },
+      {
+        "token": "typo.tablet::ColorPurple800",
+        "value": "#5b21b6"
+      },
+      {
+        "token": "typo.tablet::ColorPurple900",
+        "value": "#4c1d95"
+      },
+      {
+        "token": "typo.tablet::ColorPurple950",
+        "value": "#2e1065"
+      },
+      {
+        "token": "typo.tablet::ColorGradientHeaderStart",
+        "value": "#0d503c"
+      },
+      {
+        "token": "typo.tablet::ColorGradientHeaderMid",
+        "value": "#0c3547"
+      },
+      {
+        "token": "typo.tablet::ColorGradientHeaderEnd",
+        "value": "#0a1628"
+      },
+      {
+        "token": "typo.tablet::ColorGradientHeaderAccent",
+        "value": "#10b981"
+      },
+      {
+        "token": "typo.tablet::ColorGradientHeaderCyan",
+        "value": "#0891b2"
+      },
+      {
+        "token": "typo.tablet::ColorOpacity5",
+        "value": "#0c0c0d0d"
+      },
+      {
+        "token": "typo.tablet::ColorOpacity10",
+        "value": "#0c0c0d1a"
+      },
+      {
+        "token": "typo.tablet::ColorOpacity20",
+        "value": "#0c0c0d33"
+      },
+      {
+        "token": "typo.tablet::ColorOpacity50",
+        "value": "#0c0c0d80"
+      },
+      {
+        "token": "typo.tablet::ColorOpacity75",
+        "value": "#0c0c0dbf"
+      },
+      {
+        "token": "typo.tablet::SurfaceDefault",
+        "value": "#eff6ff"
+      },
+      {
+        "token": "typo.tablet::SurfaceContainer",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.tablet::SurfaceInverse",
+        "value": "#050914"
+      },
+      {
+        "token": "typo.tablet::SurfaceOverlay",
+        "value": "#0c0c0dbf"
+      },
+      {
+        "token": "typo.tablet::SurfaceTint",
+        "value": "#3b82f6"
+      },
+      {
+        "token": "typo.tablet::PrimaryDefault",
+        "value": "#2563eb"
+      },
+      {
+        "token": "typo.tablet::PrimaryOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.tablet::PrimaryContainer",
+        "value": "#dbeafe"
+      },
+      {
+        "token": "typo.tablet::PrimaryOnContainer",
+        "value": "#1e40af"
+      },
+      {
+        "token": "typo.tablet::PrimaryHover",
+        "value": "#1d4ed8"
+      },
+      {
+        "token": "typo.tablet::PrimaryPressed",
+        "value": "#1e40af"
+      },
+      {
+        "token": "typo.tablet::SecondaryDefault",
+        "value": "#00737d"
+      },
+      {
+        "token": "typo.tablet::SecondaryOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.tablet::SecondaryContainer",
+        "value": "#ccfbf1"
+      },
+      {
+        "token": "typo.tablet::SecondaryOnContainer",
+        "value": "#115e59"
+      },
+      {
+        "token": "typo.tablet::SecondaryHover",
+        "value": "#0f766e"
+      },
+      {
+        "token": "typo.tablet::SecondaryPressed",
+        "value": "#115e59"
+      },
+      {
+        "token": "typo.tablet::TertiaryDefault",
+        "value": "#7c3aed"
+      },
+      {
+        "token": "typo.tablet::TertiaryOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.tablet::TertiaryContainer",
+        "value": "#ede9fe"
+      },
+      {
+        "token": "typo.tablet::TertiaryOnContainer",
+        "value": "#5b21b6"
+      },
+      {
+        "token": "typo.tablet::TertiaryHover",
+        "value": "#6d28d9"
+      },
+      {
+        "token": "typo.tablet::TertiaryPressed",
+        "value": "#5b21b6"
+      },
+      {
+        "token": "typo.tablet::ContentPrimary",
+        "value": "#18203a"
+      },
+      {
+        "token": "typo.tablet::ContentSecondary",
+        "value": "#3d4966"
+      },
+      {
+        "token": "typo.tablet::ContentTertiary",
+        "value": "#818ba0"
+      },
+      {
+        "token": "typo.tablet::ContentDisabled",
+        "value": "#bec5d2"
+      },
+      {
+        "token": "typo.tablet::ContentInverse",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.tablet::ContentLink",
+        "value": "#2563eb"
+      },
+      {
+        "token": "typo.tablet::ContentOnPrimary",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.tablet::ContentOnSecondary",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.tablet::ContentOnTertiary",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.tablet::ContentOnSurface",
+        "value": "#18203a"
+      },
+      {
+        "token": "typo.tablet::ContentOnInverse",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.tablet::ContentSelected",
+        "value": "#2563eb"
+      },
+      {
+        "token": "typo.tablet::BorderDefault",
+        "value": "#dce1e8"
+      },
+      {
+        "token": "typo.tablet::BorderStrong",
+        "value": "#bec5d2"
+      },
+      {
+        "token": "typo.tablet::BorderSubtle",
+        "value": "#f2f5f9"
+      },
+      {
+        "token": "typo.tablet::BorderBrand",
+        "value": "#3b82f6"
+      },
+      {
+        "token": "typo.tablet::BorderFocus",
+        "value": "#2563eb"
+      },
+      {
+        "token": "typo.tablet::BorderDisabled",
+        "value": "#dce1e8"
+      },
+      {
+        "token": "typo.tablet::BorderInteractive",
+        "value": "#9ea7b8"
+      },
+      {
+        "token": "typo.tablet::BorderNone",
+        "value": 0
+      },
+      {
+        "token": "typo.tablet::BorderThin",
+        "value": 1
+      },
+      {
+        "token": "typo.tablet::BorderMedium",
+        "value": 1.5
+      },
+      {
+        "token": "typo.tablet::BorderThick",
+        "value": 2
+      },
+      {
+        "token": "typo.tablet::BorderHeavy",
+        "value": 4
+      },
+      {
+        "token": "typo.tablet::BorderError",
+        "value": "#991b1b"
+      },
+      {
+        "token": "typo.tablet::StatusSuccess",
+        "value": "#16a34a"
+      },
+      {
+        "token": "typo.tablet::StatusSuccessOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.tablet::StatusSuccessContainer",
+        "value": "#dcfce7"
+      },
+      {
+        "token": "typo.tablet::StatusSuccessOnContainer",
+        "value": "#166534"
+      },
+      {
+        "token": "typo.tablet::StatusWarning",
+        "value": "#d97706"
+      },
+      {
+        "token": "typo.tablet::StatusWarningOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.tablet::StatusWarningContainer",
+        "value": "#fffbeb"
+      },
+      {
+        "token": "typo.tablet::StatusWarningOnContainer",
+        "value": "#78350f"
+      },
+      {
+        "token": "typo.tablet::StatusError",
+        "value": "#dc2626"
+      },
+      {
+        "token": "typo.tablet::StatusErrorOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.tablet::StatusErrorContainer",
+        "value": "#fef2f2"
+      },
+      {
+        "token": "typo.tablet::StatusErrorOnContainer",
+        "value": "#7f1d1d"
+      },
+      {
+        "token": "typo.tablet::StatusInfo",
+        "value": "#2563eb"
+      },
+      {
+        "token": "typo.tablet::StatusInfoOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.tablet::StatusInfoContainer",
+        "value": "#eff6ff"
+      },
+      {
+        "token": "typo.tablet::StatusInfoOnContainer",
+        "value": "#1e3a8a"
+      },
+      {
+        "token": "typo.tablet::InteractionHover",
+        "value": "#f2f5f9"
+      },
+      {
+        "token": "typo.tablet::InteractionPressed",
+        "value": "#dce1e8"
+      },
+      {
+        "token": "typo.tablet::InteractionFocusRing",
+        "value": "#2563eb"
+      },
+      {
+        "token": "typo.tablet::InteractionSelected",
+        "value": "#dbeafe"
+      },
+      {
+        "token": "typo.tablet::InteractionSelectedSubtle",
+        "value": "#eff6ff"
+      },
+      {
+        "token": "typo.tablet::InteractionDragged",
+        "value": "#dce1e8"
+      },
+      {
+        "token": "typo.tablet::FixedWhite",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.tablet::FixedBlack",
+        "value": "#050914"
+      },
+      {
+        "token": "typo.tablet::FixedDimOverlay",
+        "value": "#0c0c0dbf"
+      },
+      {
+        "token": "typo.tablet::Space0",
+        "value": 0
+      },
+      {
+        "token": "typo.tablet::Space2",
+        "value": 2
+      },
+      {
+        "token": "typo.tablet::Space4",
+        "value": 4
+      },
+      {
+        "token": "typo.tablet::Space8",
+        "value": 8
+      },
+      {
+        "token": "typo.tablet::Space12",
+        "value": 12
+      },
+      {
+        "token": "typo.tablet::Space16",
+        "value": 16
+      },
+      {
+        "token": "typo.tablet::Space20",
+        "value": 20
+      },
+      {
+        "token": "typo.tablet::Space24",
+        "value": 24
+      },
+      {
+        "token": "typo.tablet::Space28",
+        "value": 28
+      },
+      {
+        "token": "typo.tablet::Space32",
+        "value": 32
+      },
+      {
+        "token": "typo.tablet::Space36",
+        "value": 36
+      },
+      {
+        "token": "typo.tablet::Space40",
+        "value": 40
+      },
+      {
+        "token": "typo.tablet::Space44",
+        "value": 44
+      },
+      {
+        "token": "typo.tablet::Space48",
+        "value": 48
+      },
+      {
+        "token": "typo.tablet::Space56",
+        "value": 56
+      },
+      {
+        "token": "typo.tablet::Space64",
+        "value": 64
+      },
+      {
+        "token": "typo.tablet::Space80",
+        "value": 80
+      },
+      {
+        "token": "typo.tablet::Space96",
+        "value": 96
+      },
+      {
+        "token": "typo.tablet::Space112",
+        "value": 112
+      },
+      {
+        "token": "typo.tablet::Space128",
+        "value": 128
+      },
+      {
+        "token": "typo.tablet::Space160",
+        "value": 160
+      },
+      {
+        "token": "typo.tablet::Space192",
+        "value": 192
+      },
+      {
+        "token": "typo.tablet::Space256",
+        "value": 256
+      },
+      {
+        "token": "typo.tablet::RadiusNone",
+        "value": 0
+      },
+      {
+        "token": "typo.tablet::RadiusXs",
+        "value": 2
+      },
+      {
+        "token": "typo.tablet::RadiusSm",
+        "value": 4
+      },
+      {
+        "token": "typo.tablet::RadiusMd",
+        "value": 8
+      },
+      {
+        "token": "typo.tablet::RadiusLg",
+        "value": 12
+      },
+      {
+        "token": "typo.tablet::RadiusXl",
+        "value": 16
+      },
+      {
+        "token": "typo.tablet::Radius2xl",
+        "value": 20
+      },
+      {
+        "token": "typo.tablet::Radius3xl",
+        "value": 24
+      },
+      {
+        "token": "typo.tablet::Radius4xl",
+        "value": 28
+      },
+      {
+        "token": "typo.tablet::RadiusFull",
+        "value": 9999
+      },
+      {
+        "token": "typo.tablet::SizeIconXs",
+        "value": 12
+      },
+      {
+        "token": "typo.tablet::SizeIconSm",
+        "value": 16
+      },
+      {
+        "token": "typo.tablet::SizeIconMd",
+        "value": 20
+      },
+      {
+        "token": "typo.tablet::SizeIconLg",
+        "value": 24
+      },
+      {
+        "token": "typo.tablet::SizeIconXl",
+        "value": 32
+      },
+      {
+        "token": "typo.tablet::SizeIcon2xl",
+        "value": 40
+      },
+      {
+        "token": "typo.tablet::SizeAvatarXs",
+        "value": 24
+      },
+      {
+        "token": "typo.tablet::SizeAvatarSm",
+        "value": 32
+      },
+      {
+        "token": "typo.tablet::SizeAvatarMd",
+        "value": 40
+      },
+      {
+        "token": "typo.tablet::SizeAvatarLg",
+        "value": 48
+      },
+      {
+        "token": "typo.tablet::SizeAvatarXl",
+        "value": 64
+      },
+      {
+        "token": "typo.tablet::SizeAvatar2xl",
+        "value": 80
+      },
+      {
+        "token": "typo.tablet::SizeTouchTarget",
+        "value": 48
+      },
+      {
+        "token": "typo.tablet::SizeButtonSm",
+        "value": 32
+      },
+      {
+        "token": "typo.tablet::SizeButtonMd",
+        "value": 40
+      },
+      {
+        "token": "typo.tablet::SizeButtonLg",
+        "value": 48
+      },
+      {
+        "token": "typo.tablet::SizeInputSm",
+        "value": 36
+      },
+      {
+        "token": "typo.tablet::SizeInputMd",
+        "value": 44
+      },
+      {
+        "token": "typo.tablet::SizeInputLg",
+        "value": 52
+      },
+      {
+        "token": "typo.tablet::Opacity0",
+        "value": 0
+      },
+      {
+        "token": "typo.tablet::Opacity5",
+        "value": 0.05000000074505806
+      },
+      {
+        "token": "typo.tablet::Opacity10",
+        "value": 0.10000000149011612
+      },
+      {
+        "token": "typo.tablet::Opacity15",
+        "value": 0.15000000596046448
+      },
+      {
+        "token": "typo.tablet::Opacity20",
+        "value": 0.20000000298023224
+      },
+      {
+        "token": "typo.tablet::Opacity30",
+        "value": 0.30000001192092896
+      },
+      {
+        "token": "typo.tablet::Opacity40",
+        "value": 0.4000000059604645
+      },
+      {
+        "token": "typo.tablet::Opacity50",
+        "value": 0.5
+      },
+      {
+        "token": "typo.tablet::Opacity60",
+        "value": 0.6000000238418579
+      },
+      {
+        "token": "typo.tablet::Opacity70",
+        "value": 0.699999988079071
+      },
+      {
+        "token": "typo.tablet::Opacity80",
+        "value": 0.800000011920929
+      },
+      {
+        "token": "typo.tablet::Opacity90",
+        "value": 0.8999999761581421
+      },
+      {
+        "token": "typo.tablet::Opacity100",
+        "value": 1
+      },
+      {
+        "token": "typo.tablet::ElevationNoneOffsetY",
+        "value": 0
+      },
+      {
+        "token": "typo.tablet::ElevationNoneBlur",
+        "value": 0
+      },
+      {
+        "token": "typo.tablet::ElevationNoneSpreadRadius",
+        "value": 0
+      },
+      {
+        "token": "typo.tablet::ElevationNoneShadowOpacity",
+        "value": 0
+      },
+      {
+        "token": "typo.tablet::ElevationNoneAndroid",
+        "value": 0
+      },
+      {
+        "token": "typo.tablet::ElevationXsOffsetY",
+        "value": 1
+      },
+      {
+        "token": "typo.tablet::ElevationXsBlur",
+        "value": 2
+      },
+      {
+        "token": "typo.tablet::ElevationXsSpreadRadius",
+        "value": 0
+      },
+      {
+        "token": "typo.tablet::ElevationXsShadowOpacity",
+        "value": 0.05000000074505806
+      },
+      {
+        "token": "typo.tablet::ElevationXsAndroid",
+        "value": 1
+      },
+      {
+        "token": "typo.tablet::ElevationSmOffsetY",
+        "value": 2
+      },
+      {
+        "token": "typo.tablet::ElevationSmBlur",
+        "value": 4
+      },
+      {
+        "token": "typo.tablet::ElevationSmSpreadRadius",
+        "value": -1
+      },
+      {
+        "token": "typo.tablet::ElevationSmShadowOpacity",
+        "value": 0.07999999821186066
+      },
+      {
+        "token": "typo.tablet::ElevationSmAndroid",
+        "value": 2
+      },
+      {
+        "token": "typo.tablet::ElevationMdOffsetY",
+        "value": 4
+      },
+      {
+        "token": "typo.tablet::ElevationMdBlur",
+        "value": 8
+      },
+      {
+        "token": "typo.tablet::ElevationMdSpreadRadius",
+        "value": -2
+      },
+      {
+        "token": "typo.tablet::ElevationMdShadowOpacity",
+        "value": 0.11999999731779099
+      },
+      {
+        "token": "typo.tablet::ElevationMdAndroid",
+        "value": 4
+      },
+      {
+        "token": "typo.tablet::ElevationLgOffsetY",
+        "value": 8
+      },
+      {
+        "token": "typo.tablet::ElevationLgBlur",
+        "value": 16
+      },
+      {
+        "token": "typo.tablet::ElevationLgSpreadRadius",
+        "value": -4
+      },
+      {
+        "token": "typo.tablet::ElevationLgShadowOpacity",
+        "value": 0.1599999964237213
+      },
+      {
+        "token": "typo.tablet::ElevationLgAndroid",
+        "value": 8
+      },
+      {
+        "token": "typo.tablet::ElevationXlOffsetY",
+        "value": 16
+      },
+      {
+        "token": "typo.tablet::ElevationXlBlur",
+        "value": 32
+      },
+      {
+        "token": "typo.tablet::ElevationXlSpreadRadius",
+        "value": -8
+      },
+      {
+        "token": "typo.tablet::ElevationXlShadowOpacity",
+        "value": 0.20000000298023224
+      },
+      {
+        "token": "typo.tablet::ElevationXlAndroid",
+        "value": 16
+      },
+      {
+        "token": "typo.tablet::ElevationDepth0",
+        "value": 0
+      },
+      {
+        "token": "typo.tablet::ElevationDepth1",
+        "value": -1
+      },
+      {
+        "token": "typo.tablet::ElevationDepth4",
+        "value": -4
+      },
+      {
+        "token": "typo.tablet::ElevationDepth16",
+        "value": 16
+      },
+      {
+        "token": "typo.tablet::ElevationDepth8",
+        "value": -8
+      },
+      {
+        "token": "typo.tablet::ZIndexBase",
+        "value": 0
+      },
+      {
+        "token": "typo.tablet::ZIndexRaised",
+        "value": 1
+      },
+      {
+        "token": "typo.tablet::ZIndexDropdown",
+        "value": 10
+      },
+      {
+        "token": "typo.tablet::ZIndexSticky",
+        "value": 20
+      },
+      {
+        "token": "typo.tablet::ZIndexBanner",
+        "value": 30
+      },
+      {
+        "token": "typo.tablet::ZIndexOverlay",
+        "value": 40
+      },
+      {
+        "token": "typo.tablet::ZIndexModal",
+        "value": 50
+      },
+      {
+        "token": "typo.tablet::ZIndexBottomSheet",
+        "value": 60
+      },
+      {
+        "token": "typo.tablet::ZIndexFab",
+        "value": 70
+      },
+      {
+        "token": "typo.tablet::ZIndexToast",
+        "value": 80
+      },
+      {
+        "token": "typo.tablet::ZIndexTooltip",
+        "value": 90
+      },
+      {
+        "token": "typo.tablet::ZIndexMax",
+        "value": 999
+      },
+      {
+        "token": "typo.tablet::MotionDurationInstant",
+        "value": 0
+      },
+      {
+        "token": "typo.tablet::MotionDurationFastest",
+        "value": 50
+      },
+      {
+        "token": "typo.tablet::MotionDurationFast",
+        "value": 100
+      },
+      {
+        "token": "typo.tablet::MotionDurationNormal",
+        "value": 200
+      },
+      {
+        "token": "typo.tablet::MotionDurationModerate",
+        "value": 300
+      },
+      {
+        "token": "typo.tablet::MotionDurationSlow",
+        "value": 400
+      },
+      {
+        "token": "typo.tablet::MotionDurationSlower",
+        "value": 500
+      },
+      {
+        "token": "typo.tablet::MotionDurationSlowest",
+        "value": 800
+      },
+      {
+        "token": "typo.tablet::MotionDelayNone",
+        "value": 0
+      },
+      {
+        "token": "typo.tablet::MotionDelayShort",
+        "value": 100
+      },
+      {
+        "token": "typo.tablet::MotionDelayMedium",
+        "value": 200
+      },
+      {
+        "token": "typo.tablet::MotionDelayLong",
+        "value": 400
+      },
+      {
+        "token": "typo.tablet::MotionScalePressed",
+        "value": 0.9700000286102295
+      },
+      {
+        "token": "typo.tablet::MotionScaleCardPressed",
+        "value": 0.9800000190734863
+      },
+      {
+        "token": "typo.tablet::MotionScaleBounceIn",
+        "value": 1.0499999523162842
+      },
+      {
+        "token": "typo.tablet::MotionScaleNone",
+        "value": 1
+      },
+      {
+        "token": "typo.tablet::MotionOpacityPressed",
+        "value": 0.699999988079071
+      },
+      {
+        "token": "typo.tablet::MotionOpacityDisabled",
+        "value": 0.4000000059604645
+      },
+      {
+        "token": "typo.tablet::MotionOpacityHidden",
+        "value": 0
+      },
+      {
+        "token": "typo.tablet::MotionOpacityVisible",
+        "value": 1
+      },
+      {
+        "token": "typo.tablet::MotionSpringDampingStiff",
+        "value": 20
+      },
+      {
+        "token": "typo.tablet::MotionSpringDampingDefault",
+        "value": 15
+      },
+      {
+        "token": "typo.tablet::MotionSpringDampingGentle",
+        "value": 10
+      },
+      {
+        "token": "typo.tablet::MotionSpringDampingBouncy",
+        "value": 8
+      },
+      {
+        "token": "typo.tablet::MotionSpringStiffnessStiff",
+        "value": 300
+      },
+      {
+        "token": "typo.tablet::MotionSpringStiffnessDefault",
+        "value": 180
+      },
+      {
+        "token": "typo.tablet::MotionSpringStiffnessGentle",
+        "value": 120
+      },
+      {
+        "token": "typo.tablet::MotionSpringStiffnessBouncy",
+        "value": 200
+      },
+      {
+        "token": "typo.tablet::MotionSpringMassLight",
+        "value": 0.800000011920929
+      },
+      {
+        "token": "typo.tablet::MotionSpringMassDefault",
+        "value": 1
+      },
+      {
+        "token": "typo.tablet::MotionSpringMassHeavy",
+        "value": 1.2000000476837158
+      },
+      {
+        "token": "typo.tablet::IconTertiary",
+        "value": "#818ba0"
+      },
+      {
+        "token": "typo.tablet::IconPrimary",
+        "value": "#252e49"
+      },
+      {
+        "token": "typo.tablet::IconSecondary",
+        "value": "#3d4966"
+      },
+      {
+        "token": "typo.desktop::FontSize10",
+        "value": 10
+      },
+      {
+        "token": "typo.desktop::FontSize11",
+        "value": 11
+      },
+      {
+        "token": "typo.desktop::FontSize12",
+        "value": 12
+      },
+      {
+        "token": "typo.desktop::FontSize14",
+        "value": 14
+      },
+      {
+        "token": "typo.desktop::FontSize16",
+        "value": 16
+      },
+      {
+        "token": "typo.desktop::FontSize18",
+        "value": 18
+      },
+      {
+        "token": "typo.desktop::FontSize20",
+        "value": 20
+      },
+      {
+        "token": "typo.desktop::FontSize22",
+        "value": 22
+      },
+      {
+        "token": "typo.desktop::FontSize24",
+        "value": 24
+      },
+      {
+        "token": "typo.desktop::FontSize26",
+        "value": 26
+      },
+      {
+        "token": "typo.desktop::FontSize28",
+        "value": 28
+      },
+      {
+        "token": "typo.desktop::FontSize30",
+        "value": 30
+      },
+      {
+        "token": "typo.desktop::FontSize32",
+        "value": 32
+      },
+      {
+        "token": "typo.desktop::FontSize36",
+        "value": 36
+      },
+      {
+        "token": "typo.desktop::FontSize40",
+        "value": 40
+      },
+      {
+        "token": "typo.desktop::FontSize48",
+        "value": 48
+      },
+      {
+        "token": "typo.desktop::FontSize56",
+        "value": 56
+      },
+      {
+        "token": "typo.desktop::FontSize84",
+        "value": 84
+      },
+      {
+        "token": "typo.desktop::FontSize96",
+        "value": 96
+      },
+      {
+        "token": "typo.desktop::FontLineHeight14",
+        "value": 14
+      },
+      {
+        "token": "typo.desktop::FontLineHeight16",
+        "value": 16
+      },
+      {
+        "token": "typo.desktop::FontLineHeight20",
+        "value": 20
+      },
+      {
+        "token": "typo.desktop::FontLineHeight24",
+        "value": 24
+      },
+      {
+        "token": "typo.desktop::FontLineHeight26",
+        "value": 26
+      },
+      {
+        "token": "typo.desktop::FontLineHeight28",
+        "value": 28
+      },
+      {
+        "token": "typo.desktop::FontLineHeight32",
+        "value": 32
+      },
+      {
+        "token": "typo.desktop::FontLineHeight34",
+        "value": 34
+      },
+      {
+        "token": "typo.desktop::FontLineHeight36",
+        "value": 36
+      },
+      {
+        "token": "typo.desktop::FontLineHeight38",
+        "value": 38
+      },
+      {
+        "token": "typo.desktop::FontLineHeight40",
+        "value": 40
+      },
+      {
+        "token": "typo.desktop::FontLineHeight44",
+        "value": 44
+      },
+      {
+        "token": "typo.desktop::FontLineHeight52",
+        "value": 52
+      },
+      {
+        "token": "typo.desktop::FontLineHeight64",
+        "value": 64
+      },
+      {
+        "token": "typo.desktop::FontLineHeight92",
+        "value": 92
+      },
+      {
+        "token": "typo.desktop::FontLineHeight100",
+        "value": 100
+      },
+      {
+        "token": "typo.desktop::FontWeightRegular",
+        "value": 400
+      },
+      {
+        "token": "typo.desktop::FontWeightMedium",
+        "value": 500
+      },
+      {
+        "token": "typo.desktop::FontWeightSemibold",
+        "value": 600
+      },
+      {
+        "token": "typo.desktop::FontWeightBold",
+        "value": 700
+      },
+      {
+        "token": "typo.desktop::FontLetterSpacingTight",
+        "value": -1
+      },
+      {
+        "token": "typo.desktop::FontLetterSpacingSlightlyTight",
+        "value": -0.5
+      },
+      {
+        "token": "typo.desktop::FontLetterSpacingNormal",
+        "value": 0
+      },
+      {
+        "token": "typo.desktop::FontLetterSpacingSlight",
+        "value": 0.10000000149011612
+      },
+      {
+        "token": "typo.desktop::FontLetterSpacingWide",
+        "value": 0.15000000596046448
+      },
+      {
+        "token": "typo.desktop::FontLetterSpacingWider",
+        "value": 0.25
+      },
+      {
+        "token": "typo.desktop::FontLetterSpacingWidest",
+        "value": 0.5
+      },
+      {
+        "token": "typo.desktop::FontLetterSpacingTighter",
+        "value": -1.5
+      },
+      {
+        "token": "typo.desktop::TypoDisplayLgSize",
+        "value": 56
+      },
+      {
+        "token": "typo.desktop::TypoDisplayLgLineHeight",
+        "value": 64
+      },
+      {
+        "token": "typo.desktop::TypoDisplayLgWeight",
+        "value": 700
+      },
+      {
+        "token": "typo.desktop::TypoDisplayLgLetterSpacing",
+        "value": -1
+      },
+      {
+        "token": "typo.desktop::TypoDisplayMdSize",
+        "value": 48
+      },
+      {
+        "token": "typo.desktop::TypoDisplayMdLineHeight",
+        "value": 52
+      },
+      {
+        "token": "typo.desktop::TypoDisplayMdWeight",
+        "value": 700
+      },
+      {
+        "token": "typo.desktop::TypoDisplayMdLetterSpacing",
+        "value": -1
+      },
+      {
+        "token": "typo.desktop::TypoDisplaySmSize",
+        "value": 40
+      },
+      {
+        "token": "typo.desktop::TypoDisplaySmLineHeight",
+        "value": 44
+      },
+      {
+        "token": "typo.desktop::TypoDisplaySmWeight",
+        "value": 700
+      },
+      {
+        "token": "typo.desktop::TypoDisplaySmLetterSpacing",
+        "value": -0.5
+      },
+      {
+        "token": "typo.desktop::TypoDisplayXlSize",
+        "value": 56
+      },
+      {
+        "token": "typo.desktop::TypoDisplayXlLineHeight",
+        "value": 64
+      },
+      {
+        "token": "typo.desktop::TypoDisplayXlWeight",
+        "value": 700
+      },
+      {
+        "token": "typo.desktop::TypoDisplayXlLetterSpacing",
+        "value": -1
+      },
+      {
+        "token": "typo.desktop::TypoDisplay2xlSize",
+        "value": 96
+      },
+      {
+        "token": "typo.desktop::TypoDisplay2xlLineHeight",
+        "value": 100
+      },
+      {
+        "token": "typo.desktop::TypoDisplay2xlWeight",
+        "value": 700
+      },
+      {
+        "token": "typo.desktop::TypoDisplay2xlLetterSpacing",
+        "value": -1
+      },
+      {
+        "token": "typo.desktop::TypoHeadingLgSize",
+        "value": 32
+      },
+      {
+        "token": "typo.desktop::TypoHeadingLgLineHeight",
+        "value": 40
+      },
+      {
+        "token": "typo.desktop::TypoHeadingLgWeight",
+        "value": 700
+      },
+      {
+        "token": "typo.desktop::TypoHeadingLgLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "typo.desktop::TypoHeadingMdSize",
+        "value": 28
+      },
+      {
+        "token": "typo.desktop::TypoHeadingMdLineHeight",
+        "value": 36
+      },
+      {
+        "token": "typo.desktop::TypoHeadingMdWeight",
+        "value": 700
+      },
+      {
+        "token": "typo.desktop::TypoHeadingMdLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "typo.desktop::TypoHeadingSmSize",
+        "value": 24
+      },
+      {
+        "token": "typo.desktop::TypoHeadingSmLineHeight",
+        "value": 32
+      },
+      {
+        "token": "typo.desktop::TypoHeadingSmWeight",
+        "value": 700
+      },
+      {
+        "token": "typo.desktop::TypoHeadingSmLetterSpacing",
+        "value": 0.15000000596046448
+      },
+      {
+        "token": "typo.desktop::TypoTitleLgSize",
+        "value": 22
+      },
+      {
+        "token": "typo.desktop::TypoTitleLgLineHeight",
+        "value": 28
+      },
+      {
+        "token": "typo.desktop::TypoTitleLgWeight",
+        "value": 600
+      },
+      {
+        "token": "typo.desktop::TypoTitleLgLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "typo.desktop::TypoTitleMdSize",
+        "value": 16
+      },
+      {
+        "token": "typo.desktop::TypoTitleMdLineHeight",
+        "value": 24
+      },
+      {
+        "token": "typo.desktop::TypoTitleMdWeight",
+        "value": 600
+      },
+      {
+        "token": "typo.desktop::TypoTitleMdLetterSpacing",
+        "value": 0.15000000596046448
+      },
+      {
+        "token": "typo.desktop::TypoTitleSmSize",
+        "value": 14
+      },
+      {
+        "token": "typo.desktop::TypoTitleSmLineHeight",
+        "value": 20
+      },
+      {
+        "token": "typo.desktop::TypoTitleSmWeight",
+        "value": 600
+      },
+      {
+        "token": "typo.desktop::TypoTitleSmLetterSpacing",
+        "value": 0.10000000149011612
+      },
+      {
+        "token": "typo.desktop::TypoBodyLgSize",
+        "value": 16
+      },
+      {
+        "token": "typo.desktop::TypoBodyLgLineHeight",
+        "value": 24
+      },
+      {
+        "token": "typo.desktop::TypoBodyLgWeight",
+        "value": 400
+      },
+      {
+        "token": "typo.desktop::TypoBodyLgLetterSpacing",
+        "value": 0
+      },
+      {
+        "token": "typo.desktop::TypoBodyMdSize",
+        "value": 14
+      },
+      {
+        "token": "typo.desktop::TypoBodyMdLineHeight",
+        "value": 20
+      },
+      {
+        "token": "typo.desktop::TypoBodyMdWeight",
+        "value": 400
+      },
+      {
+        "token": "typo.desktop::TypoBodyMdLetterSpacing",
+        "value": 0.15000000596046448
+      },
+      {
+        "token": "typo.desktop::TypoBodySmSize",
+        "value": 12
+      },
+      {
+        "token": "typo.desktop::TypoBodySmLineHeight",
+        "value": 16
+      },
+      {
+        "token": "typo.desktop::TypoBodySmWeight",
+        "value": 400
+      },
+      {
+        "token": "typo.desktop::TypoBodySmLetterSpacing",
+        "value": 0.25
+      },
+      {
+        "token": "typo.desktop::TypoLabelLgSize",
+        "value": 14
+      },
+      {
+        "token": "typo.desktop::TypoLabelLgLineHeight",
+        "value": 20
+      },
+      {
+        "token": "typo.desktop::TypoLabelLgWeight",
+        "value": 500
+      },
+      {
+        "token": "typo.desktop::TypoLabelLgLetterSpacing",
+        "value": 0.10000000149011612
+      },
+      {
+        "token": "typo.desktop::TypoLabelMdSize",
+        "value": 12
+      },
+      {
+        "token": "typo.desktop::TypoLabelMdLineHeight",
+        "value": 16
+      },
+      {
+        "token": "typo.desktop::TypoLabelMdWeight",
+        "value": 500
+      },
+      {
+        "token": "typo.desktop::TypoLabelMdLetterSpacing",
+        "value": 0.5
+      },
+      {
+        "token": "typo.desktop::TypoLabelSmSize",
+        "value": 11
+      },
+      {
+        "token": "typo.desktop::TypoLabelSmLineHeight",
+        "value": 16
+      },
+      {
+        "token": "typo.desktop::TypoLabelSmWeight",
+        "value": 500
+      },
+      {
+        "token": "typo.desktop::TypoLabelSmLetterSpacing",
+        "value": 0.5
+      },
+      {
+        "token": "typo.desktop::ColorNeutral50",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.desktop::ColorNeutral100",
+        "value": "#f2f5f9"
+      },
+      {
+        "token": "typo.desktop::ColorNeutral200",
+        "value": "#dce1e8"
+      },
+      {
+        "token": "typo.desktop::ColorNeutral300",
+        "value": "#bec5d2"
+      },
+      {
+        "token": "typo.desktop::ColorNeutral400",
+        "value": "#9ea7b8"
+      },
+      {
+        "token": "typo.desktop::ColorNeutral500",
+        "value": "#818ba0"
+      },
+      {
+        "token": "typo.desktop::ColorNeutral600",
+        "value": "#5d6a85"
+      },
+      {
+        "token": "typo.desktop::ColorNeutral700",
+        "value": "#3d4966"
+      },
+      {
+        "token": "typo.desktop::ColorNeutral800",
+        "value": "#252e49"
+      },
+      {
+        "token": "typo.desktop::ColorNeutral900",
+        "value": "#18203a"
+      },
+      {
+        "token": "typo.desktop::ColorNeutral950",
+        "value": "#050914"
+      },
+      {
+        "token": "typo.desktop::ColorBrand50",
+        "value": "#eff6ff"
+      },
+      {
+        "token": "typo.desktop::ColorBrand100",
+        "value": "#dbeafe"
+      },
+      {
+        "token": "typo.desktop::ColorBrand200",
+        "value": "#bfdbfe"
+      },
+      {
+        "token": "typo.desktop::ColorBrand300",
+        "value": "#93c5fd"
+      },
+      {
+        "token": "typo.desktop::ColorBrand400",
+        "value": "#60a5fa"
+      },
+      {
+        "token": "typo.desktop::ColorBrand500",
+        "value": "#3b82f6"
+      },
+      {
+        "token": "typo.desktop::ColorBrand600",
+        "value": "#2563eb"
+      },
+      {
+        "token": "typo.desktop::ColorBrand700",
+        "value": "#1d4ed8"
+      },
+      {
+        "token": "typo.desktop::ColorBrand800",
+        "value": "#1e40af"
+      },
+      {
+        "token": "typo.desktop::ColorBrand900",
+        "value": "#1e3a8a"
+      },
+      {
+        "token": "typo.desktop::ColorBrand950",
+        "value": "#172554"
+      },
+      {
+        "token": "typo.desktop::ColorGreen50",
+        "value": "#f0fdf4"
+      },
+      {
+        "token": "typo.desktop::ColorGreen100",
+        "value": "#dcfce7"
+      },
+      {
+        "token": "typo.desktop::ColorGreen200",
+        "value": "#bbf7d0"
+      },
+      {
+        "token": "typo.desktop::ColorGreen300",
+        "value": "#86efac"
+      },
+      {
+        "token": "typo.desktop::ColorGreen400",
+        "value": "#4ade80"
+      },
+      {
+        "token": "typo.desktop::ColorGreen500",
+        "value": "#22c55e"
+      },
+      {
+        "token": "typo.desktop::ColorGreen600",
+        "value": "#16a34a"
+      },
+      {
+        "token": "typo.desktop::ColorGreen700",
+        "value": "#15803d"
+      },
+      {
+        "token": "typo.desktop::ColorGreen800",
+        "value": "#166534"
+      },
+      {
+        "token": "typo.desktop::ColorGreen900",
+        "value": "#14532d"
+      },
+      {
+        "token": "typo.desktop::ColorGreen950",
+        "value": "#052e16"
+      },
+      {
+        "token": "typo.desktop::ColorRed50",
+        "value": "#fef2f2"
+      },
+      {
+        "token": "typo.desktop::ColorRed100",
+        "value": "#fee2e2"
+      },
+      {
+        "token": "typo.desktop::ColorRed200",
+        "value": "#fecaca"
+      },
+      {
+        "token": "typo.desktop::ColorRed300",
+        "value": "#fca5a5"
+      },
+      {
+        "token": "typo.desktop::ColorRed400",
+        "value": "#f87171"
+      },
+      {
+        "token": "typo.desktop::ColorRed500",
+        "value": "#ef4444"
+      },
+      {
+        "token": "typo.desktop::ColorRed600",
+        "value": "#dc2626"
+      },
+      {
+        "token": "typo.desktop::ColorRed700",
+        "value": "#b91c1c"
+      },
+      {
+        "token": "typo.desktop::ColorRed800",
+        "value": "#991b1b"
+      },
+      {
+        "token": "typo.desktop::ColorRed900",
+        "value": "#7f1d1d"
+      },
+      {
+        "token": "typo.desktop::ColorRed950",
+        "value": "#450a0a"
+      },
+      {
+        "token": "typo.desktop::ColorAmber50",
+        "value": "#fffbeb"
+      },
+      {
+        "token": "typo.desktop::ColorAmber100",
+        "value": "#fef3c7"
+      },
+      {
+        "token": "typo.desktop::ColorAmber200",
+        "value": "#fde68a"
+      },
+      {
+        "token": "typo.desktop::ColorAmber300",
+        "value": "#fcd34d"
+      },
+      {
+        "token": "typo.desktop::ColorAmber400",
+        "value": "#fbbf24"
+      },
+      {
+        "token": "typo.desktop::ColorAmber500",
+        "value": "#f59e0b"
+      },
+      {
+        "token": "typo.desktop::ColorAmber600",
+        "value": "#d97706"
+      },
+      {
+        "token": "typo.desktop::ColorAmber700",
+        "value": "#b45309"
+      },
+      {
+        "token": "typo.desktop::ColorAmber800",
+        "value": "#92400e"
+      },
+      {
+        "token": "typo.desktop::ColorAmber900",
+        "value": "#78350f"
+      },
+      {
+        "token": "typo.desktop::ColorAmber950",
+        "value": "#451a03"
+      },
+      {
+        "token": "typo.desktop::ColorTeal50",
+        "value": "#f0fdfa"
+      },
+      {
+        "token": "typo.desktop::ColorTeal100",
+        "value": "#ccfbf1"
+      },
+      {
+        "token": "typo.desktop::ColorTeal200",
+        "value": "#99f6e4"
+      },
+      {
+        "token": "typo.desktop::ColorTeal300",
+        "value": "#5eead4"
+      },
+      {
+        "token": "typo.desktop::ColorTeal400",
+        "value": "#2dd4bf"
+      },
+      {
+        "token": "typo.desktop::ColorTeal500",
+        "value": "#14b8a6"
+      },
+      {
+        "token": "typo.desktop::ColorTeal600",
+        "value": "#0d9488"
+      },
+      {
+        "token": "typo.desktop::ColorTeal700",
+        "value": "#0f766e"
+      },
+      {
+        "token": "typo.desktop::ColorTeal800",
+        "value": "#115e59"
+      },
+      {
+        "token": "typo.desktop::ColorTeal900",
+        "value": "#134e4a"
+      },
+      {
+        "token": "typo.desktop::ColorTeal950",
+        "value": "#042f2e"
+      },
+      {
+        "token": "typo.desktop::ColorPurple50",
+        "value": "#f5f3ff"
+      },
+      {
+        "token": "typo.desktop::ColorPurple100",
+        "value": "#ede9fe"
+      },
+      {
+        "token": "typo.desktop::ColorPurple200",
+        "value": "#ddd6fe"
+      },
+      {
+        "token": "typo.desktop::ColorPurple300",
+        "value": "#c4b5fd"
+      },
+      {
+        "token": "typo.desktop::ColorPurple400",
+        "value": "#a78bfa"
+      },
+      {
+        "token": "typo.desktop::ColorPurple500",
+        "value": "#8b5cf6"
+      },
+      {
+        "token": "typo.desktop::ColorPurple600",
+        "value": "#7c3aed"
+      },
+      {
+        "token": "typo.desktop::ColorPurple700",
+        "value": "#6d28d9"
+      },
+      {
+        "token": "typo.desktop::ColorPurple800",
+        "value": "#5b21b6"
+      },
+      {
+        "token": "typo.desktop::ColorPurple900",
+        "value": "#4c1d95"
+      },
+      {
+        "token": "typo.desktop::ColorPurple950",
+        "value": "#2e1065"
+      },
+      {
+        "token": "typo.desktop::ColorGradientHeaderStart",
+        "value": "#0d503c"
+      },
+      {
+        "token": "typo.desktop::ColorGradientHeaderMid",
+        "value": "#0c3547"
+      },
+      {
+        "token": "typo.desktop::ColorGradientHeaderEnd",
+        "value": "#0a1628"
+      },
+      {
+        "token": "typo.desktop::ColorGradientHeaderAccent",
+        "value": "#10b981"
+      },
+      {
+        "token": "typo.desktop::ColorGradientHeaderCyan",
+        "value": "#0891b2"
+      },
+      {
+        "token": "typo.desktop::ColorOpacity5",
+        "value": "#0c0c0d0d"
+      },
+      {
+        "token": "typo.desktop::ColorOpacity10",
+        "value": "#0c0c0d1a"
+      },
+      {
+        "token": "typo.desktop::ColorOpacity20",
+        "value": "#0c0c0d33"
+      },
+      {
+        "token": "typo.desktop::ColorOpacity50",
+        "value": "#0c0c0d80"
+      },
+      {
+        "token": "typo.desktop::ColorOpacity75",
+        "value": "#0c0c0dbf"
+      },
+      {
+        "token": "typo.desktop::SurfaceDefault",
+        "value": "#eff6ff"
+      },
+      {
+        "token": "typo.desktop::SurfaceContainer",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.desktop::SurfaceInverse",
+        "value": "#050914"
+      },
+      {
+        "token": "typo.desktop::SurfaceOverlay",
+        "value": "#0c0c0dbf"
+      },
+      {
+        "token": "typo.desktop::SurfaceTint",
+        "value": "#3b82f6"
+      },
+      {
+        "token": "typo.desktop::PrimaryDefault",
+        "value": "#2563eb"
+      },
+      {
+        "token": "typo.desktop::PrimaryOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.desktop::PrimaryContainer",
+        "value": "#dbeafe"
+      },
+      {
+        "token": "typo.desktop::PrimaryOnContainer",
+        "value": "#1e40af"
+      },
+      {
+        "token": "typo.desktop::PrimaryHover",
+        "value": "#1d4ed8"
+      },
+      {
+        "token": "typo.desktop::PrimaryPressed",
+        "value": "#1e40af"
+      },
+      {
+        "token": "typo.desktop::SecondaryDefault",
+        "value": "#00737d"
+      },
+      {
+        "token": "typo.desktop::SecondaryOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.desktop::SecondaryContainer",
+        "value": "#ccfbf1"
+      },
+      {
+        "token": "typo.desktop::SecondaryOnContainer",
+        "value": "#115e59"
+      },
+      {
+        "token": "typo.desktop::SecondaryHover",
+        "value": "#0f766e"
+      },
+      {
+        "token": "typo.desktop::SecondaryPressed",
+        "value": "#115e59"
+      },
+      {
+        "token": "typo.desktop::TertiaryDefault",
+        "value": "#7c3aed"
+      },
+      {
+        "token": "typo.desktop::TertiaryOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.desktop::TertiaryContainer",
+        "value": "#ede9fe"
+      },
+      {
+        "token": "typo.desktop::TertiaryOnContainer",
+        "value": "#5b21b6"
+      },
+      {
+        "token": "typo.desktop::TertiaryHover",
+        "value": "#6d28d9"
+      },
+      {
+        "token": "typo.desktop::TertiaryPressed",
+        "value": "#5b21b6"
+      },
+      {
+        "token": "typo.desktop::ContentPrimary",
+        "value": "#18203a"
+      },
+      {
+        "token": "typo.desktop::ContentSecondary",
+        "value": "#3d4966"
+      },
+      {
+        "token": "typo.desktop::ContentTertiary",
+        "value": "#818ba0"
+      },
+      {
+        "token": "typo.desktop::ContentDisabled",
+        "value": "#bec5d2"
+      },
+      {
+        "token": "typo.desktop::ContentInverse",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.desktop::ContentLink",
+        "value": "#2563eb"
+      },
+      {
+        "token": "typo.desktop::ContentOnPrimary",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.desktop::ContentOnSecondary",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.desktop::ContentOnTertiary",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.desktop::ContentOnSurface",
+        "value": "#18203a"
+      },
+      {
+        "token": "typo.desktop::ContentOnInverse",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.desktop::ContentSelected",
+        "value": "#2563eb"
+      },
+      {
+        "token": "typo.desktop::BorderDefault",
+        "value": "#dce1e8"
+      },
+      {
+        "token": "typo.desktop::BorderStrong",
+        "value": "#bec5d2"
+      },
+      {
+        "token": "typo.desktop::BorderSubtle",
+        "value": "#f2f5f9"
+      },
+      {
+        "token": "typo.desktop::BorderBrand",
+        "value": "#3b82f6"
+      },
+      {
+        "token": "typo.desktop::BorderFocus",
+        "value": "#2563eb"
+      },
+      {
+        "token": "typo.desktop::BorderDisabled",
+        "value": "#dce1e8"
+      },
+      {
+        "token": "typo.desktop::BorderInteractive",
+        "value": "#9ea7b8"
+      },
+      {
+        "token": "typo.desktop::BorderNone",
+        "value": 0
+      },
+      {
+        "token": "typo.desktop::BorderThin",
+        "value": 1
+      },
+      {
+        "token": "typo.desktop::BorderMedium",
+        "value": 1.5
+      },
+      {
+        "token": "typo.desktop::BorderThick",
+        "value": 2
+      },
+      {
+        "token": "typo.desktop::BorderHeavy",
+        "value": 4
+      },
+      {
+        "token": "typo.desktop::BorderError",
+        "value": "#991b1b"
+      },
+      {
+        "token": "typo.desktop::StatusSuccess",
+        "value": "#16a34a"
+      },
+      {
+        "token": "typo.desktop::StatusSuccessOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.desktop::StatusSuccessContainer",
+        "value": "#dcfce7"
+      },
+      {
+        "token": "typo.desktop::StatusSuccessOnContainer",
+        "value": "#166534"
+      },
+      {
+        "token": "typo.desktop::StatusWarning",
+        "value": "#d97706"
+      },
+      {
+        "token": "typo.desktop::StatusWarningOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.desktop::StatusWarningContainer",
+        "value": "#fffbeb"
+      },
+      {
+        "token": "typo.desktop::StatusWarningOnContainer",
+        "value": "#78350f"
+      },
+      {
+        "token": "typo.desktop::StatusError",
+        "value": "#dc2626"
+      },
+      {
+        "token": "typo.desktop::StatusErrorOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.desktop::StatusErrorContainer",
+        "value": "#fef2f2"
+      },
+      {
+        "token": "typo.desktop::StatusErrorOnContainer",
+        "value": "#7f1d1d"
+      },
+      {
+        "token": "typo.desktop::StatusInfo",
+        "value": "#2563eb"
+      },
+      {
+        "token": "typo.desktop::StatusInfoOn",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.desktop::StatusInfoContainer",
+        "value": "#eff6ff"
+      },
+      {
+        "token": "typo.desktop::StatusInfoOnContainer",
+        "value": "#1e3a8a"
+      },
+      {
+        "token": "typo.desktop::InteractionHover",
+        "value": "#f2f5f9"
+      },
+      {
+        "token": "typo.desktop::InteractionPressed",
+        "value": "#dce1e8"
+      },
+      {
+        "token": "typo.desktop::InteractionFocusRing",
+        "value": "#2563eb"
+      },
+      {
+        "token": "typo.desktop::InteractionSelected",
+        "value": "#dbeafe"
+      },
+      {
+        "token": "typo.desktop::InteractionSelectedSubtle",
+        "value": "#eff6ff"
+      },
+      {
+        "token": "typo.desktop::InteractionDragged",
+        "value": "#dce1e8"
+      },
+      {
+        "token": "typo.desktop::FixedWhite",
+        "value": "#fdfdfd"
+      },
+      {
+        "token": "typo.desktop::FixedBlack",
+        "value": "#050914"
+      },
+      {
+        "token": "typo.desktop::FixedDimOverlay",
+        "value": "#0c0c0dbf"
+      },
+      {
+        "token": "typo.desktop::Space0",
+        "value": 0
+      },
+      {
+        "token": "typo.desktop::Space2",
+        "value": 2
+      },
+      {
+        "token": "typo.desktop::Space4",
+        "value": 4
+      },
+      {
+        "token": "typo.desktop::Space8",
+        "value": 8
+      },
+      {
+        "token": "typo.desktop::Space12",
+        "value": 12
+      },
+      {
+        "token": "typo.desktop::Space16",
+        "value": 16
+      },
+      {
+        "token": "typo.desktop::Space20",
+        "value": 20
+      },
+      {
+        "token": "typo.desktop::Space24",
+        "value": 24
+      },
+      {
+        "token": "typo.desktop::Space28",
+        "value": 28
+      },
+      {
+        "token": "typo.desktop::Space32",
+        "value": 32
+      },
+      {
+        "token": "typo.desktop::Space36",
+        "value": 36
+      },
+      {
+        "token": "typo.desktop::Space40",
+        "value": 40
+      },
+      {
+        "token": "typo.desktop::Space44",
+        "value": 44
+      },
+      {
+        "token": "typo.desktop::Space48",
+        "value": 48
+      },
+      {
+        "token": "typo.desktop::Space56",
+        "value": 56
+      },
+      {
+        "token": "typo.desktop::Space64",
+        "value": 64
+      },
+      {
+        "token": "typo.desktop::Space80",
+        "value": 80
+      },
+      {
+        "token": "typo.desktop::Space96",
+        "value": 96
+      },
+      {
+        "token": "typo.desktop::Space112",
+        "value": 112
+      },
+      {
+        "token": "typo.desktop::Space128",
+        "value": 128
+      },
+      {
+        "token": "typo.desktop::Space160",
+        "value": 160
+      },
+      {
+        "token": "typo.desktop::Space192",
+        "value": 192
+      },
+      {
+        "token": "typo.desktop::Space256",
+        "value": 256
+      },
+      {
+        "token": "typo.desktop::RadiusNone",
+        "value": 0
+      },
+      {
+        "token": "typo.desktop::RadiusXs",
+        "value": 2
+      },
+      {
+        "token": "typo.desktop::RadiusSm",
+        "value": 4
+      },
+      {
+        "token": "typo.desktop::RadiusMd",
+        "value": 8
+      },
+      {
+        "token": "typo.desktop::RadiusLg",
+        "value": 12
+      },
+      {
+        "token": "typo.desktop::RadiusXl",
+        "value": 16
+      },
+      {
+        "token": "typo.desktop::Radius2xl",
+        "value": 20
+      },
+      {
+        "token": "typo.desktop::Radius3xl",
+        "value": 24
+      },
+      {
+        "token": "typo.desktop::Radius4xl",
+        "value": 28
+      },
+      {
+        "token": "typo.desktop::RadiusFull",
+        "value": 9999
+      },
+      {
+        "token": "typo.desktop::SizeIconXs",
+        "value": 12
+      },
+      {
+        "token": "typo.desktop::SizeIconSm",
+        "value": 16
+      },
+      {
+        "token": "typo.desktop::SizeIconMd",
+        "value": 20
+      },
+      {
+        "token": "typo.desktop::SizeIconLg",
+        "value": 24
+      },
+      {
+        "token": "typo.desktop::SizeIconXl",
+        "value": 32
+      },
+      {
+        "token": "typo.desktop::SizeIcon2xl",
+        "value": 40
+      },
+      {
+        "token": "typo.desktop::SizeAvatarXs",
+        "value": 24
+      },
+      {
+        "token": "typo.desktop::SizeAvatarSm",
+        "value": 32
+      },
+      {
+        "token": "typo.desktop::SizeAvatarMd",
+        "value": 40
+      },
+      {
+        "token": "typo.desktop::SizeAvatarLg",
+        "value": 48
+      },
+      {
+        "token": "typo.desktop::SizeAvatarXl",
+        "value": 64
+      },
+      {
+        "token": "typo.desktop::SizeAvatar2xl",
+        "value": 80
+      },
+      {
+        "token": "typo.desktop::SizeTouchTarget",
+        "value": 48
+      },
+      {
+        "token": "typo.desktop::SizeButtonSm",
+        "value": 32
+      },
+      {
+        "token": "typo.desktop::SizeButtonMd",
+        "value": 40
+      },
+      {
+        "token": "typo.desktop::SizeButtonLg",
+        "value": 48
+      },
+      {
+        "token": "typo.desktop::SizeInputSm",
+        "value": 36
+      },
+      {
+        "token": "typo.desktop::SizeInputMd",
+        "value": 44
+      },
+      {
+        "token": "typo.desktop::SizeInputLg",
+        "value": 52
+      },
+      {
+        "token": "typo.desktop::Opacity0",
+        "value": 0
+      },
+      {
+        "token": "typo.desktop::Opacity5",
+        "value": 0.05000000074505806
+      },
+      {
+        "token": "typo.desktop::Opacity10",
+        "value": 0.10000000149011612
+      },
+      {
+        "token": "typo.desktop::Opacity15",
+        "value": 0.15000000596046448
+      },
+      {
+        "token": "typo.desktop::Opacity20",
+        "value": 0.20000000298023224
+      },
+      {
+        "token": "typo.desktop::Opacity30",
+        "value": 0.30000001192092896
+      },
+      {
+        "token": "typo.desktop::Opacity40",
+        "value": 0.4000000059604645
+      },
+      {
+        "token": "typo.desktop::Opacity50",
+        "value": 0.5
+      },
+      {
+        "token": "typo.desktop::Opacity60",
+        "value": 0.6000000238418579
+      },
+      {
+        "token": "typo.desktop::Opacity70",
+        "value": 0.699999988079071
+      },
+      {
+        "token": "typo.desktop::Opacity80",
+        "value": 0.800000011920929
+      },
+      {
+        "token": "typo.desktop::Opacity90",
+        "value": 0.8999999761581421
+      },
+      {
+        "token": "typo.desktop::Opacity100",
+        "value": 1
+      },
+      {
+        "token": "typo.desktop::ElevationNoneOffsetY",
+        "value": 0
+      },
+      {
+        "token": "typo.desktop::ElevationNoneBlur",
+        "value": 0
+      },
+      {
+        "token": "typo.desktop::ElevationNoneSpreadRadius",
+        "value": 0
+      },
+      {
+        "token": "typo.desktop::ElevationNoneShadowOpacity",
+        "value": 0
+      },
+      {
+        "token": "typo.desktop::ElevationNoneAndroid",
+        "value": 0
+      },
+      {
+        "token": "typo.desktop::ElevationXsOffsetY",
+        "value": 1
+      },
+      {
+        "token": "typo.desktop::ElevationXsBlur",
+        "value": 2
+      },
+      {
+        "token": "typo.desktop::ElevationXsSpreadRadius",
+        "value": 0
+      },
+      {
+        "token": "typo.desktop::ElevationXsShadowOpacity",
+        "value": 0.05000000074505806
+      },
+      {
+        "token": "typo.desktop::ElevationXsAndroid",
+        "value": 1
+      },
+      {
+        "token": "typo.desktop::ElevationSmOffsetY",
+        "value": 2
+      },
+      {
+        "token": "typo.desktop::ElevationSmBlur",
+        "value": 4
+      },
+      {
+        "token": "typo.desktop::ElevationSmSpreadRadius",
+        "value": -1
+      },
+      {
+        "token": "typo.desktop::ElevationSmShadowOpacity",
+        "value": 0.07999999821186066
+      },
+      {
+        "token": "typo.desktop::ElevationSmAndroid",
+        "value": 2
+      },
+      {
+        "token": "typo.desktop::ElevationMdOffsetY",
+        "value": 4
+      },
+      {
+        "token": "typo.desktop::ElevationMdBlur",
+        "value": 8
+      },
+      {
+        "token": "typo.desktop::ElevationMdSpreadRadius",
+        "value": -2
+      },
+      {
+        "token": "typo.desktop::ElevationMdShadowOpacity",
+        "value": 0.11999999731779099
+      },
+      {
+        "token": "typo.desktop::ElevationMdAndroid",
+        "value": 4
+      },
+      {
+        "token": "typo.desktop::ElevationLgOffsetY",
+        "value": 8
+      },
+      {
+        "token": "typo.desktop::ElevationLgBlur",
+        "value": 16
+      },
+      {
+        "token": "typo.desktop::ElevationLgSpreadRadius",
+        "value": -4
+      },
+      {
+        "token": "typo.desktop::ElevationLgShadowOpacity",
+        "value": 0.1599999964237213
+      },
+      {
+        "token": "typo.desktop::ElevationLgAndroid",
+        "value": 8
+      },
+      {
+        "token": "typo.desktop::ElevationXlOffsetY",
+        "value": 16
+      },
+      {
+        "token": "typo.desktop::ElevationXlBlur",
+        "value": 32
+      },
+      {
+        "token": "typo.desktop::ElevationXlSpreadRadius",
+        "value": -8
+      },
+      {
+        "token": "typo.desktop::ElevationXlShadowOpacity",
+        "value": 0.20000000298023224
+      },
+      {
+        "token": "typo.desktop::ElevationXlAndroid",
+        "value": 16
+      },
+      {
+        "token": "typo.desktop::ElevationDepth0",
+        "value": 0
+      },
+      {
+        "token": "typo.desktop::ElevationDepth1",
+        "value": -1
+      },
+      {
+        "token": "typo.desktop::ElevationDepth4",
+        "value": -4
+      },
+      {
+        "token": "typo.desktop::ElevationDepth16",
+        "value": 16
+      },
+      {
+        "token": "typo.desktop::ElevationDepth8",
+        "value": -8
+      },
+      {
+        "token": "typo.desktop::ZIndexBase",
+        "value": 0
+      },
+      {
+        "token": "typo.desktop::ZIndexRaised",
+        "value": 1
+      },
+      {
+        "token": "typo.desktop::ZIndexDropdown",
+        "value": 10
+      },
+      {
+        "token": "typo.desktop::ZIndexSticky",
+        "value": 20
+      },
+      {
+        "token": "typo.desktop::ZIndexBanner",
+        "value": 30
+      },
+      {
+        "token": "typo.desktop::ZIndexOverlay",
+        "value": 40
+      },
+      {
+        "token": "typo.desktop::ZIndexModal",
+        "value": 50
+      },
+      {
+        "token": "typo.desktop::ZIndexBottomSheet",
+        "value": 60
+      },
+      {
+        "token": "typo.desktop::ZIndexFab",
+        "value": 70
+      },
+      {
+        "token": "typo.desktop::ZIndexToast",
+        "value": 80
+      },
+      {
+        "token": "typo.desktop::ZIndexTooltip",
+        "value": 90
+      },
+      {
+        "token": "typo.desktop::ZIndexMax",
+        "value": 999
+      },
+      {
+        "token": "typo.desktop::MotionDurationInstant",
+        "value": 0
+      },
+      {
+        "token": "typo.desktop::MotionDurationFastest",
+        "value": 50
+      },
+      {
+        "token": "typo.desktop::MotionDurationFast",
+        "value": 100
+      },
+      {
+        "token": "typo.desktop::MotionDurationNormal",
+        "value": 200
+      },
+      {
+        "token": "typo.desktop::MotionDurationModerate",
+        "value": 300
+      },
+      {
+        "token": "typo.desktop::MotionDurationSlow",
+        "value": 400
+      },
+      {
+        "token": "typo.desktop::MotionDurationSlower",
+        "value": 500
+      },
+      {
+        "token": "typo.desktop::MotionDurationSlowest",
+        "value": 800
+      },
+      {
+        "token": "typo.desktop::MotionDelayNone",
+        "value": 0
+      },
+      {
+        "token": "typo.desktop::MotionDelayShort",
+        "value": 100
+      },
+      {
+        "token": "typo.desktop::MotionDelayMedium",
+        "value": 200
+      },
+      {
+        "token": "typo.desktop::MotionDelayLong",
+        "value": 400
+      },
+      {
+        "token": "typo.desktop::MotionScalePressed",
+        "value": 0.9700000286102295
+      },
+      {
+        "token": "typo.desktop::MotionScaleCardPressed",
+        "value": 0.9800000190734863
+      },
+      {
+        "token": "typo.desktop::MotionScaleBounceIn",
+        "value": 1.0499999523162842
+      },
+      {
+        "token": "typo.desktop::MotionScaleNone",
+        "value": 1
+      },
+      {
+        "token": "typo.desktop::MotionOpacityPressed",
+        "value": 0.699999988079071
+      },
+      {
+        "token": "typo.desktop::MotionOpacityDisabled",
+        "value": 0.4000000059604645
+      },
+      {
+        "token": "typo.desktop::MotionOpacityHidden",
+        "value": 0
+      },
+      {
+        "token": "typo.desktop::MotionOpacityVisible",
+        "value": 1
+      },
+      {
+        "token": "typo.desktop::MotionSpringDampingStiff",
+        "value": 20
+      },
+      {
+        "token": "typo.desktop::MotionSpringDampingDefault",
+        "value": 15
+      },
+      {
+        "token": "typo.desktop::MotionSpringDampingGentle",
+        "value": 10
+      },
+      {
+        "token": "typo.desktop::MotionSpringDampingBouncy",
+        "value": 8
+      },
+      {
+        "token": "typo.desktop::MotionSpringStiffnessStiff",
+        "value": 300
+      },
+      {
+        "token": "typo.desktop::MotionSpringStiffnessDefault",
+        "value": 180
+      },
+      {
+        "token": "typo.desktop::MotionSpringStiffnessGentle",
+        "value": 120
+      },
+      {
+        "token": "typo.desktop::MotionSpringStiffnessBouncy",
+        "value": 200
+      },
+      {
+        "token": "typo.desktop::MotionSpringMassLight",
+        "value": 0.800000011920929
+      },
+      {
+        "token": "typo.desktop::MotionSpringMassDefault",
+        "value": 1
+      },
+      {
+        "token": "typo.desktop::MotionSpringMassHeavy",
+        "value": 1.2000000476837158
+      },
+      {
+        "token": "typo.desktop::IconTertiary",
+        "value": "#818ba0"
+      },
+      {
+        "token": "typo.desktop::IconPrimary",
+        "value": "#252e49"
+      },
+      {
+        "token": "typo.desktop::IconSecondary",
+        "value": "#3d4966"
+      }
+    ],
+    "removed": [],
+    "changed": []
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "surface": {
+    "default": {
+      "value": "#f2f5f9",
+      "type": "color"
+    },
+    "tint": {
+      "value": "#050914",
+      "type": "color"
+    }
+  },
+  "primary": {
+    "container": {
+      "value": "#f2f5f9",
+      "type": "color"
+    },
+    "on-container": {
+      "value": "#18203a",
+      "type": "color"
+    },
+    "hover": {
+      "value": "#3d4966",
+      "type": "color"
+    },
+    "pressed": {
+      "value": "#18203a",
+      "type": "color"
+    }
+  },
+  "content": {
+    "primary": {
+      "value": "#050914",
+      "type": "color"
+    },
+    "link": {
+      "value": "#050914",
+      "type": "color"
+    }
+  },
+  "border": {
+    "brand": {
+      "value": "#818ba0",
+      "type": "color"
+    }
+  },
+  "interaction": {
+    "pressed": {
+      "value": "#bec5d2",
+      "type": "color"
+    }
+  },
+  "icon": {
+    "primary": {
+      "value": "#050914",
+      "type": "color"
+    }
+  },
+  "font": {
+    "family": {
+      "value": "Google Sans, -apple-system, Segoe UI, sans-serif",
+      "type": "fontFamily"
+    }
+  }
+}
