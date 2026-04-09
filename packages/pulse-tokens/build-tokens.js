@@ -63,6 +63,15 @@ async function build(name, sources, suffix = '', selector = ':root') {
         buildPath: 'build/json/',
         files: [{ destination: `tokens${suffix}.json`, format: 'json/flat' }],
       },
+      rn: {
+        // React Native: numbers stay numbers (no "px"), colors as hex.
+        transforms: ['attribute/cti', 'name/camel', 'color/hex'],
+        buildPath: 'build/rn/',
+        files: [
+          { destination: `theme${suffix}.js`, format: 'javascript/es6' },
+          { destination: `theme${suffix}.d.ts`, format: 'typescript/es6-declarations' },
+        ],
+      },
     },
     log: { warnings: 'disabled', verbosity: 'silent' },
   });

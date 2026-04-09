@@ -1,25 +1,17 @@
 {
-  "name": "my-design-system",
+  "name": "pulsedesignsystem",
   "version": "0.1.0",
-  "description": "Design tokens pipeline: Figma → Style Dictionary → Storybook",
+  "private": true,
+  "description": "Pulse Design System monorepo: tokens (synced from Figma) + React Native components + Storybook",
   "type": "module",
   "scripts": {
-    "build:tokens": "node build-tokens.js && node build-tailwind.js",
-    "changelog": "node generate-changelog.js",
-    "sync": "node sync-from-figma.js && npm run build:tokens && npm run changelog",
-    "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "build": "pnpm -r build",
+    "sync": "pnpm --filter @pulse/tokens sync",
+    "storybook": "pnpm --filter @pulse/storybook dev",
+    "build-storybook": "pnpm --filter @pulse/storybook build"
   },
   "devDependencies": {
-    "@storybook/addon-docs": "^8.6.18",
-    "@storybook/addon-essentials": "8",
-    "@storybook/react": "8",
-    "@storybook/react-vite": "8",
-    "playwright-core": "^1.59.1",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "storybook": "8",
-    "style-dictionary": "^4.4.0",
-    "vite": "^5.4.0"
-  }
+    "typescript": "^5.5.4"
+  },
+  "packageManager": "pnpm@9.12.0"
 }

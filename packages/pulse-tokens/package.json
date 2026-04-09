@@ -1,0 +1,30 @@
+{
+  "name": "@pulse/tokens",
+  "version": "0.1.0",
+  "description": "Design tokens synced from Figma Pulse. Outputs JS/TS/JSON/CSS/Tailwind/React Native theme.",
+  "type": "module",
+  "main": "./build/ts/index.js",
+  "types": "./build/ts/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./build/ts/index.js",
+      "types": "./build/ts/index.d.ts"
+    },
+    "./rn": {
+      "import": "./build/rn/theme.js",
+      "types": "./build/rn/theme.d.ts"
+    },
+    "./css": "./build/css/tokens.css",
+    "./tailwind": "./build/tailwind/tokens.js",
+    "./json": "./build/json/tokens.json"
+  },
+  "files": ["build", "tokens"],
+  "scripts": {
+    "build": "node build-tokens.js && node build-tailwind.js",
+    "sync": "node sync-from-figma.js && pnpm build && node generate-changelog.js",
+    "changelog": "node generate-changelog.js"
+  },
+  "devDependencies": {
+    "style-dictionary": "^4.4.0"
+  }
+}

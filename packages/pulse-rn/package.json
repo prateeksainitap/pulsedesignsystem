@@ -1,0 +1,28 @@
+{
+  "name": "@pulse/rn",
+  "version": "0.1.0",
+  "description": "Pulse Design System — React Native components. Consumes @pulse/tokens. Single source for all Pulse components used by WeightEasy and other apps.",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js",
+    "./primitives": "./src/components/primitives/index.js",
+    "./forms": "./src/components/forms/index.js",
+    "./feedback": "./src/components/feedback/index.js",
+    "./composites": "./src/components/composites/index.js"
+  },
+  "files": ["src", "assets"],
+  "scripts": {
+    "build": "echo '@pulse/rn: source-only package (no build step)'",
+    "lint": "eslint src --ext .js,.jsx"
+  },
+  "peerDependencies": {
+    "react": ">=18",
+    "react-native": ">=0.74"
+  },
+  "dependencies": {
+    "@pulse/tokens": "workspace:*"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}
