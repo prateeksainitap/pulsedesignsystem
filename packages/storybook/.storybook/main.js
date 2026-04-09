@@ -1,11 +1,12 @@
 /** @type { import('@storybook/react-native-web-vite').StorybookConfig } */
 export default {
   framework: '@storybook/react-native-web-vite',
+  // Explicit list of verified-story files only. As each component is
+  // rebuilt against Figma in Phase 2, add its story path here. Legacy
+  // seed stories (PulseButton.stories.jsx etc.) are intentionally NOT
+  // picked up by this glob until they are rebuilt or deleted.
   stories: [
-    '../stories/**/*.stories.@(js|jsx|ts|tsx)',
-    // Pull stories straight out of @pulse/rn so there is never a drift
-    // between "what Storybook shows" and "what the app ships".
-    '../../pulse-rn/src/**/*.stories.@(js|jsx|ts|tsx)',
+    '../../pulse-rn/src/components/primitives/Button.stories.jsx',
   ],
   addons: ['@storybook/addon-essentials'],
 };
